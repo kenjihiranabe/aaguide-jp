@@ -23,27 +23,4 @@ https://disqus.com/by/Morendil/
 が gitHub で管理しているアプリとデータ
 https://github.com/Morendil/aaguide
 から、とりあえず、抽出しています。
-```
-require 'yaml'
-$file=YAML.load_file(ARGV[0])
-$sections = $file["sections"]
-puts $file["title"]
-puts "\n"
-$sections.each { |s|
-if s["type"] == "desc" then
-	puts s["text"]
-end
-}
 
-
-require 'yaml'
-$file=YAML.load_file(ARGV[0])
-$sections = $file["sections"]
-puts $file["title"]
-puts "\n"
-$sections.each { |s|
-if s["type"] == "desc" then
-	puts s["text"]
-end
-}
-```
