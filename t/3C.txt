@@ -5,3 +5,11 @@ Three C's
 *  a *Card* (or often a Post-It note), a physical token giving tangible and durable form to what would otherwise only be an abstraction:
 *  a *conversation* taking place at different time and places during a project between the various people concerned by a given feature of a software product: customers, users, developers, testers; this conversation is largely verbal but most often supplemented by documentation;
 *  the *confirmation*, finally, the more formal the better, that the objectives the conversation revolved around have been reached.
+
+３つのC
+
+カード(Card)、会話(Conversation)、確認(Confirmation) がユーザースストーリーの要素である。
+
+* 「カード」を使う（よくポストイットが使われる）。抽象的なものを、手で触れる物理的なものにする。
+* 「会話」が起こる。プロダクトのある機能に関心を持つプロジェクトに参加するいろんな人々（顧客、ユーザー、開発者、テスターなど）の間で、会話がさまざまなな場所と時間で起こる。この会話はドキュメントの代わりになる。
+* 「確認」をする。最終的に会話が確認可能なものになる。
