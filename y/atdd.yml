@@ -1,0 +1,30 @@
+---
+title: ATDD
+type: Practice
+full: yes
+id: atdd
+sections:
+  -
+    type: desc
+    text: |
+      Analogous to [test-driven development](tdd.html), this practice consists in the use of [automated acceptance tests](acceptance.html) with the additional constraint that these tests be written in advance of implementing the corresponding functionality.
+      In the ideal situation (though rarely attained in practice), the product owner, customer or domain expert is able to specify new functionality by writing new acceptance tests or test cases, without needing to consult developers.
+  -
+    type: syno
+    text: |
+      The acronym ATDD stands for "acceptance test driven development", it is also less commonly designated as STDD ("storytest driven development").
+  -
+    type: abus
+    text: |
+      Even more than the use of automated acceptance tests, this practice is strongly associated with the use of specific tools such as Fit/FitNess, Cucumber or others.
+      One major risk, therefore, is that the tool chosen will hinder rather than advance the main purpose of this practice: facilitating conversation between developers and product owners about product requirements. Tools should be adapted to meet product owners' needs rather than the other way around.
+  -
+    type: histo
+    text: |
+      * 2003: Kent Beck briefly mentions ATDD in the book "Test Driven Development: By Example" but dismisses it as impractical
+      * 2003 to 2004: driven by the popularity of Fit/FitNesse ATDD becomes accepted practice in spite of Beck's objections
+  -
+    type: benefices
+    text: |
+      Just as TDD results in applications designed to be easier to unit test, ATDD favors the creation of interfaces specific to functional testing. (Testing through an application's actual UI is considered less effective.)
+---

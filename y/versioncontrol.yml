@@ -1,0 +1,17 @@
+---
+title: Version control
+type: Concept
+id: versioncontrol
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      Version control is not strictly speaking an Agile "practice", insofar as it is now (fortunately) widespread in the industry as a whole.
+      It must however be mentioned here for several reasons:
+
+      * though they are rare, one still occasionally stumbles across teams with outdated version control tools or practices, and even teams who haven't adopted version control tools at all
+      * version control is not merely "good practice" but an enabler of a number of Agile practices, such as [continuous integration](ci.html)
+      * the Agile community leans toward particular types of tools and practices, namely the same as the Open Source community: systems that afford concurrent work ("merge" model rather than "lock"), and more recently favoring distributed over centralized models
+      * it is therefore beneficial for an Agile team to explicitly reflect on its version control policies and infrastructure, and ensure that they and its engineering practices work harmoniously together.
+---

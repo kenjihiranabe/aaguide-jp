@@ -1,0 +1,22 @@
+---
+title: Story splitting
+type: Concept
+id: split
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      Before a [user story](stories.html) is [ready](ready.html) to be scheduled for implementation in an upcoming iteration, it should be ["small enough"](invest.html), the usual rule of thumb being "a story that can be completed within the iteration".
+      However, many user stories start out larger than that. "Splitting" consists of breaking up one user story into smaller ones, while preserving the property that each user story separately has measurable business value.
+  -
+    type: resources
+    text: |
+      There is surprisingly little consensus on how to split stories, possibly because approaches to doing so are sensitive to business domain. The following is a sample of postings on the topic:
+
+      * [Twenty Ways to Split Stories](http://xp123.com/articles/twenty-ways-to-split-stories/), 2005
+      * [How You'll Probably Learn to Split Features](http://www.jbrains.ca/permalink/how-youll-probably-learn-to-split-features), 2008
+      * [Patterns for Splitting User Stories](http://www.richardlawrence.info/2009/10/28/patterns-for-splitting-user-stories/), 2009
+      * [InfoQ: How to Split User Stories](http://www.infoq.com/news/2011/04/how-to-split-user-stories), 2011
+      * [Splitting User Stories: the Hamburger Method](http://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/), 2012
+---

@@ -1,0 +1,45 @@
+---
+title: Task board
+type: Practice
+id: taskboard
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      In its most basic form, a task board can be drawn on a whiteboard or even a section of wall. Using electrical tape or a dry erase pen, the board is divided into three columns labeled "To Do", "In Progress" and "Done". Sticky notes or index cards, one for each task the team is working on, are placed in the columns reflecting the current status of the tasks.
+      Many [variants](http://agiletools.wordpress.com/2007/11/24/task-boards-telling-a-compelling-agile-story/) exist. Different layouts can be used, for instance by rows instead of columns (although the latter is much more common). The number and headings of the columns can vary, further columns are often used for instance to represent an activity, such as "In Test".
+      The task board is updated frequently, most commonly during the [daily meeting](daily.html), based on the team's progress since the last update. The board is commonly "reset" at the beginning of each [iteration](iteration.html) to reflect the iteration plan.
+  -
+    type: benefices
+    text: |
+      * the task board is an "[information radiator](radiator.html)" - it ensures efficient diffusion of informations relevant to the whole team
+      * the task board serves as a focal point for the [daily meeting](daily.html), keeping it focused on progress and obstacles
+      * the simplicity and flexibility of the task board and its elementary materials (sticky notes, sticky dots etc.) allow the team to represent any relevant information: colors can be used to distinguish features from bug fixes, sticky orientation can be used to convey special cases such as blocked tasks, sticky dots can be used to record the number of days a task spends "In Progress"...
+  -
+    type: abus
+    text: |
+      * many teams new to Agile rush to adopt an electronic simulation ("virtual task board") without first getting significant experience with a physical task board, even though virtual boards are much less flexible and poorer in [affordances](http://en.wikipedia.org/wiki/Affordance)
+      * even geographically distributed teams for whom a virtual task board is a necessity can benefit from using physical task boards locally and replicating the information in an electronic tool
+  -
+    type: histo
+    text: |
+      Sticky notes or index cards had been used for visual management of project scheduling well before Scrum and Extreme Programming brought these "low tech" approaches and their benefits back into the spotlight. However, the precise format of the task board described here did not become a de facto standard until the mid-2000's.
+
+      * 2003: the five-column [task board](http://www.mountaingoatsoftware.com/scrum/task-boards) format is described by Mike Cohn on his Web site; at the time, as this [photo gallery](http://xp123.com/xplor/room-gallery/index.shtml) collected by Bill Wake shows, very diverse variants still abound
+      * 2007: the simplified three-column task board format ("To Do", "In Progress", "Done") becomes, around that time, more popular and more standard than the original five-column version
+  -
+    type: resources
+    text: |
+      * [Task Boards](http://www.mountaingoatsoftware.com/scrum/task-boards), by Mike Cohn (2004-2010)
+      * [Task Boards](http://agiletools.wordpress.com/2007/11/24/task-boards-telling-a-compelling-agile-story/), by Tom Perry
+      * [Elements of Task Board Design](http://www.xqa.com.ar/visualmanagement/elements-of-taskboard-design/), by Xavier Quesada
+  -
+    type: pubs
+    text: |
+      Few research publications directly investigate this practice.
+      Whereas most expert practitioners remain firmly committed to the idea that the physical task board has marked advantages over virtual versions, numerous open source or commercial software efforts have devoted substantial investments in creating ever more sophisticated virtual task boards; more detailed empirical investigation of this debate would therefore be of great value.
+
+      * "[Design and technology for Collaborage: collaborative collages of information on physical walls](http://luci.ics.uci.edu/websiteContent/weAreLuci/biographies/faculty/djp3/LocalCopy/p197-moran.pdf)", Moran et al., 1999
+      * "[Drifting Toward Invisibility: The Transition to the Electronic Task Board](http://dl.acm.org/citation.cfm?id=1443546)", Perry, 2008
+---

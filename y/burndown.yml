@@ -1,0 +1,29 @@
+---
+title: Burndown chart
+type: Practice
+id: burndown
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      The team displays, somewhere on a wall of the project room, a large graph relating the quantity of work remaining (on the vertical axis) and the time elapsed since the start of the project (on the horizontal, showing future as well as past). This constitutes an "[information radiator](radiator.html)", provided it is updated regularly.
+      Two variants exist, depending on whether the amount graphed is for the work remaining in the iteration ("sprint burndown") or more commonly the entire project ("product burndown").
+  -
+    type: syno
+    text: |
+      The term "burn chart" is sometimes encountered, possibly as a generalization covering variants such as the "burn up chart".
+  -
+    type: benefices
+    text: |
+      This practice results in up-to-date project status being not only visible, but in fact shoved into the faces of everyone involved: as a result it encourages the team to confront any difficulties sooner and more decisively.
+      (The corollary is that the chart's effectiveness depends on being large enough and situated somewhere it cannot help but provoke discussion; an A4 sheet in an out of the way corridor or at the bottom of a drawer does not constitute an adequate implementation.)
+      The simplicity of burndown charts, which can be created on the basis of [velocity](velocity.html) history alone, is another factor of their effectiveness.
+  -
+    type: histo
+    text: |
+      Burndown charts appear to be entirely original to the Scrum community; the term does not seem to have a prior use elsewhere in relation to managing software project or other efforts.
+
+      * 2000: the burndown chart is first described by Ken Schwaber, who invents it while working at Fidelity Investments in an [attempt](http://groups.yahoo.com/group/scrumdevelopment/message/16) to provide Scrum teams with a simple tool kit; he describes it formally [on his Web site](http://web.archive.org/web/20010503112119/www.controlchaos.com/sburndown.htm)
+      * 2002: the burndown gains popularity among the Scrum community, as well as alternatives such as the "burnup" which merely inverts the vertical direction, or the more sophisticated "[Cumulative Flow Diagram](http://www.featuredrivendevelopment.com/node/515)", which most closely resembles a burnup but appears to be an independent invention
+---

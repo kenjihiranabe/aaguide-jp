@@ -1,0 +1,22 @@
+---
+title: Sign up for tasks
+type: Practice
+id: volunteer
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      Members of an Agile development team normally choose which tasks to work on, rather than being assigned work by a manager.
+      Their choice may be negotiated in discussion with other team members. These discussions typically take place while standing before the [task board](taskboard.html), often during the [daily meeting](daily.html).
+      Signing up for a task is usually represented by an annotation on the [index card or sticky note](3C.html) that stands for the task in question. Some teams use smaller stickies, photo portraits or "avatars" temporarily attached to the task.
+  -
+    type: abus
+    text: |
+      Although seldom highlighted as a full-fledged Agile practice, the allocation of tasks based on self-selection rather than assignment by a third party (whether a project manager, lead developer or other role) appears to be an important, possibly an essential, feature of Agile work.
+      While transitioning to Agile, some teams may temporarily retain a project management role, including the authority to assign tasks to other team members. This is however incompatible in the long run with most other practices. Failing to explicitly address this area may therefore jeopardize such transitions.
+  -
+    type: histo
+    text: |
+      * 1998: the [earliest](http://www.xprogramming.com/publications/dc9810cs.pdf) writing on Extreme Programming mentions "tasks assigned" vs "tasks self-chosen" as one of the salient differences between the "old way" and the Extreme Way.
+---

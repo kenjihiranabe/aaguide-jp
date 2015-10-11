@@ -1,0 +1,50 @@
+---
+title: Daily meeting
+type: Practice
+id: daily
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      Each day at the same time, the team meets so as to bring everyone up to date on the information that is vital for coordination: each team members briefly describes any *completed* contributions and any obstacles that stand in their way. Usually, Scrum's [Three Questions](threeqs.html)  are used to structure discussion. The meeting is normally held in front of the [task board](taskboard.html).
+      This meeting is normally [timeboxed](timebox.html) to a maximum duration of 15 minutes, though this may need adjusting for larger teams. To keep the meeting short, any topic that starts a discussion is cut short, added to a "parking lot" list, and discussed in greater depth after the meeting, between the people affected by the issue.
+  -
+    type: syno
+    text: |
+      Also known as:
+
+      * the "daily stand-up": from Extreme Programming, which recommended participants stand up to encourage keeping the meeting short
+      * the "daily scrum":  by reference to the name of the Scrum framework, and alluding to the huddle-like appearance of a rugby scrum (somewhat paradoxically: see the historical note below)
+      * the "huddle", "roll-call", or any number of variants
+  -
+    type: abus
+    text: |
+      * perhaps the most common mistake is to turn the daily meeting into a "status report" with each member reporting progress to the same person (the team's manager, or the appointed Scrum Master) -  exchanges in the daily meeting should be on a peer-to-peer basis
+      * a second common pitfall is a daily meeting which drags on and on; this is easy to address with a modicum of [facilitation](facilitation.html) skills
+      * a third common issue is a team finding little value in the daily meeting, to the point where people will "forget" to have it unless the Scrum Master or project manager takes the initiative; this often reveals a lukewarm commitment to Agile
+      * one final common symptom: the "no problem" meeting, where no team member ever raises obstacles ("impediments" in Scrum parlance), even though the team is manifestly not delivering peak performance; this is sometimes an indication that the corporate culture makes people uncomfortable with discussing difficulties in a group setting.
+  -
+    type: signes
+    text: |
+      Sit in on a daily meeting as an observer. This is an excellent way to learn a great deal very quickly about a team's familiarity with Agile practices.
+  -
+    type: benefices
+    text: |
+      * the daily meeting prevents a common failure mode of teams, where in the absence of an explicit occasion to share recent information, some critical knowledge may sometimes "fall through the cracks"
+      * regular peer-to-peer sharing of information in a short, focused and energetic meeting also contributes to team cohesion
+      * stand-up meetings are [reliably](http://psycnet.apa.org/?&fa=main.doiLanding&doi=10.1037/0021-9010.84.2.277) shorter, more pleasant and more effective than sit-down meetings
+  -
+    type: histo
+    text: |
+      * 1986: the term "Scrum" appears in an article by Takeuchi and Nonaka "[The New New Product Development Game](http://www.sao.corvallis.or.us/drupal/files/The%20New%20New%20Product%20Development%20Game.pdf)", often cited as an inspiration for Scrum, the framework; however, it only appears once (in the title of a section: "Moving the scrum downfield") and does not at this point refer to any sort of meeting
+      * 1994: Jim Coplien, [describing](http://www.cedet.dk/docs/borland-process.pdf) his observations of the "hyperprodutive" Borland Quattro Pro team, notes their reliance on almost daily meetings: "the project was made more of meetings than anything else"; this article is also cited as a strong influence on Scrum
+      * 1997: Ken Schwaber [describes](http://web.archive.org/web/19970411223403/http://www.controlchaos.com/scrumday.htm) the "daily scrum" (which does not appear in his earlier writings, such as the 1995 article "SCRUM Development Process"), this is later [recast in pattern form](http://www.jeffsutherland.org/objwld98/scrum_pattern.html) by Mike Beedle
+      * 1998: the "daily stand-up" is listed as one of the core practices in Extreme Programming
+      * 2000,ca.: the "three questions" of Scrum's daily meeting format are largely adopted by Extreme Programming teams
+      * 2004-2006: the daily meeting is generalized as a core Agile practice, and with widespread use of [task boards](taskboard.html) gains one final key guideline, "hold the daily meeting near the task board" ([described](http://agilethinking.net/blog/2006/08/10/the-argentina-scrum-adventure-day-3/) for instance by Tobias Mayer)
+  -
+    type: resources
+    text: |
+      * [It's not Just Standing Up](http://martinfowler.com/articles/itsNotJustStandingUp.html), by Jason Yip (2006-2011)
+---

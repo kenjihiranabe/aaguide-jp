@@ -1,0 +1,41 @@
+---
+title: Definition of Done
+type: Practice
+id: sashimi
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      The team agrees on, and displays prominently somewhere in the team room, a list of criteria which must be met before a product increment (often a [user story](stories.html)) is considered "done". Failure to meet these criteria at the end of a [sprint](iteration.html) normally implies that the work should not be counted toward that sprint's [velocity](velocity.html).
+  -
+    type: syno
+    text: |
+      Software developers have a reputation for being somewhat careless when answering the question "are you done with this feature"? In fairness, this is an ambiguous question - it can mean "done programming" and this is generally what a developer will have in mind when answering. However, the meaning of interest is usually "are you done programming, creating test data, actually testing, ensuring it's deployable, documenting...".
+      Proverbially, to get an answer to that, the question to ask is, "I know that you are done, but are you DONE-done?". (See also "[READY-ready](ready.html)".)
+      Some teams use the term "Done List" or "Done Checklist"; the less widespread term "product sashimi" offers a compelling image of well-defined slices of a product.
+  -
+    type: abus
+    text: |
+      * obsessing over the list of criteria can be counter-productive; the list needs to define the minimum work generally required to get a product increment to the "done" state
+      * individual features or user stories may have specific "done" criteria in addition to the ones that apply to work in general
+      * if the definition of done is merely a shared understanding, rather than spelled out and displayed on a wall, it may lose much of its effectiveness; a good part of its value lies in being an explicit contract known to all members of the team
+  -
+    type: signes
+    text: |
+      * upon request, the team can point to its explicit Definition of Done
+      * the team actually uses the Definition of Done at the end of a sprint to justify the decision to count work towards velocity or not
+  -
+    type: benefices
+    text: |
+      * the Definition of Done provides a checklist which usefully guides pre-implementation activities: discussion, estimation, design
+      * the Definition of Done limits the cost of rework once a feature has been accepted as "done"
+      * having an explicit contract limits the risk of misunderstanding and conflict between the development team and the customer or product owner
+  -
+    type: histo
+    text: |
+      * 2002: an early [article](http://xp123.com/articles/coaching-drills-and-exercises/) by Bill Wake calls attention to the possible inconsistencies arising from terms commonly used within teams, such as "done"
+      * 2003: early Scrum training [materials](http://www.otug.org/meeting/200311/slides.pdf) hint at the future importance of the "Definition of Done", initially only in the form of a slide title: "The story of Done"
+      * 2005: the first exercises inviting Scrum trainees to reflect on their (local) "definition of done" appear in [later iterations](http://www.danube.com/docs/certifiedscrum/csm.pdf) of Scrum training materials
+      * 2007: by that point the "Definition of Done" as a full-fledged practice, and as a textual checklist displayed in the team room, has become widespread
+---

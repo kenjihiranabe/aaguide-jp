@@ -1,0 +1,19 @@
+---
+title: Three questions
+type: Practice
+id: threeqs
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      The [daily meeting](daily.html) is structured around some variant of the following three questions:
+
+      * What have you completed since the last meeting?
+      * What do you plan to complete by the next meeting?
+      * What is getting in your way?
+  -
+    type: abus
+    text: |
+      The intent of these questions is to emphasize completions of tasks, rather than effort spent. While it is common to hear "yesterday I worked on X... today I will continue working on X... everything's fine", this is a mistake (hilariously caricatured as the "[Scrum Zombie](http://blog.crisp.se/2010/09/01/henrikkniberg/1283373060000)" pattern); it is better to say "I pass". Having a clear [definition of done](sashimi.html) may help overcome this.
+---

@@ -1,0 +1,21 @@
+---
+title: Story mapping
+type: Practice
+id: storymap
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      A recent practice intended to provided a more structured approach to  [release](smallrelease.html) planning, story mapping consists of ordering [user stories](stories.html) along two independent dimensions. The "map" arranges user activities along the horizontal axis in rough order of priority (or "the order in which you would describe activities to explain the behaviour of the system"). Down the vertical axis, it represents increasing sophistication of the implementation.
+      Given a story map so arranged, the first horizontal row represents a "[walking skeleton](http://alistair.cockburn.us/Walking+skeleton)", a barebones but usable version of the product. Working through successive rows fleshes out the product with additional functionality.
+  -
+    type: benefices
+    text: |
+      One intent of this practice is to avoid a failure mode of incremental delivery, where a product could be released composed of features that in principle are of high business value but are unusable because they are functionalliy dependent on features which are of lower value and were therefore deferred to future releases.
+  -
+    type: histo
+    text: |
+      * 2005: without giving it that name, Jeff Patton formulates the concepts of story mapping in ["It's All in How You Slice It"](http://www.agileproductdesign.com/writing/how_you_slice_it.pdf)
+      * 2008: the story mapping practice is described and abundantly illustrated in Jeff Patton's ["The new user story backlog is a map"](http://www.agileproductdesign.com/blog/the_new_backlog.html)
+---

@@ -1,0 +1,31 @@
+---
+title: Points (estimates in)
+type: Practice
+id: nuts
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      Agile teams generally prefer to express [estimates](estimation.html) in units other than the time-honored "man-day" or "man-hour". Possibly the most widespread unit is "story points".
+      One of the chief reasons is the use of [velocity](velocity.html) for planning purposes. "Velocity", in the sense Agile teams use the term, has no preferred unit of measurement, it is a dimensionless quantity. Velocity allows teams to compute the expected remaining duration of the project, as a number of [iterations](iteration.html), each iteration delivering some amount of features.
+      Another important reason has to do with the social and psychological aspects of estimation: using units such as story points, emphasizing relative difficulty over absolute duration, relieves some of the tensions that often arise between developers and managers around estimation: for instance, asking developers for an estimate then holding them accountable as if it had been a firm commitment.
+  -
+    type: syno
+    text: |
+      Reflecting a long-standing lack of consensus, not merely in the Agile community but in the broader arena of software development, a variety of terms are in use and Agile teams tend to create new ones with very little provocation.
+      "Story points" is standard if any particular term is; "Gummi bears" has been popular since the early days of Extreme Programming, and "Nebulous Units of Time" (or NUTs) has enjoyed some currency.
+  -
+    type: abus
+    text: |
+      The most egregious mistake is probably to invest too much time or too much debate into the choice of a unit for estimates, insofar as scheduling based on velocity makes this unit inconsequential.
+  -
+    type: histo
+    text: |
+      "What units are estimates expressed in" has been a perennial topic of discussion in the Agile community. The jargon of early Extreme Programming practitioners remained strongly anchored in estimates expressed as durations, labeled "ideal time" but adjusted via a "load factor".
+      Starting shortly before the year 2000 the whimsical term "gummi bears" then gained popularity, as did the more neutral "story points", both signaling the community's widespread disfavor of even hinting at absolute durations when providing estimates at the task or [story](stories.html) levels.
+      Even among the originators of Extreme Programming, however, the consensus was never total, witness Kent Beck's professed preference for "real hours" estimates in the mid-2000s.
+
+      * 1999: the unit "Gummi Bears", an alternative to "story points" for estimating user stories, is first mentioned by Ron Jeffries (later attributed to an XP project led by Joseph Pelrine)
+      * 2003: the term "Nebulous Units of Time" or NUTs is [coined](http://tech.groups.yahoo.com/group/extremeprogramming/message/77120) by Joshua Kerievsky as an alternative to "story points"
+---

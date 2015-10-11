@@ -1,0 +1,25 @@
+---
+title: Backlog
+type: Concept
+id: backlog
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      A backlog is a list of features or technical tasks which the team maintains and which, at a given moment, are known to be necessary and sufficient to complete a project or a release:
+
+        * if an item on the backlog does not contribute to the project's goal, it should be removed;
+        * on the other hand, if at any time a task or feature becomes known that is considered necessary to the project, it should be added to the backlog.
+
+      These "necessary and sufficient" properties are assessed relative to the team's state of knowledge at a particular moment; the backlog is expected to change throughout the project's duration as the team gains knowledge.
+      The backlog is the primary point of entry for knowledge about requirements, and the single authoritative source defining the work to be done.
+  -
+    type: abus
+    text: |
+      * The backlog should not be confused with a "requirements document".
+      * There isn't a mandated format to represent the backlog: it can be an Excel document, a text file, a database or a collection of index cards or Post-It notes. This last, physical form is however the most common among Agile teams.
+      * A backlog in physical form mitigates the risk of creating multiple, conflicting versions, which would be a dire mistake given the backlog's function as a "single trusted source" of the work to be done.
+      * Another key aspect of backlog items is their "atomic" aspect, as opposed to a narrative document in which, for instance, a single sentence could contain several distinct requirements, or conversely describe one requirement over several paragraphs of detail. The physical form also encourages this "atomicity".
+      * The backlog should not describe every item at the same level of detail, or "granularity". Features and tasks which are expected to be delivered in the near future should be broken down into fine-grained items and accompanied with details such as [acceptance tests](acceptance.html), UI sketches, etc.; whereas items planned for a more distant future can be described at a more macroscopic level.
+---

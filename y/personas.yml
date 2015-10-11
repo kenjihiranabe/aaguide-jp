@@ -1,0 +1,40 @@
+---
+title: Personas
+type: Practice
+id: personas
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+     When the project calls for it - for instance when user experience is a major factor in project outcomes - the team crafts detailed, synthetic biographies of fictitious users of the future product: these are called "personas". (In Alan Cooper's concise terms: "make up pretend users and design for them".)
+      Personas are concise and visual; a common layout is a single page including a photograph (from stock shots or magazine cutouts), a name and social or professional details: "Amanda Jones, 34, press officer at a major food retailing organization, etc."
+      As a software product is generally intended for use by more than one category of person, with potentially different preferences and expectations of the product, the team creates one persona for each category it deems important to serve well.
+      The biographies are displayed in the [team room](teamroom.html).
+  -
+    type: benefices
+    text: |
+      In a nutshell, personas are an answer to the observation that a designer who tries to please everybody ends up pleasing nobody, because too many compromises kill the product's integrity.
+      Instead, personas provide designers and developers with an anchor for justifying design choices: rather than appeal to vague notions of "ease of use", they suggest questions of "what Amanda would do" or "whether Bob will understand" a given feature, interaction, or visual cue.
+      Because personas are part of the team's shared assumptions, each team member is made aware of the consequences of design choices. Knowing that the product will be used by "Eileen, 72, retired", a developer will weigh more accurately the consequences of filling up a modal dialog with 50 tiny dials and settings, which would not necessarily be the case if they thought in terms of "the user".
+  -
+    type: abus
+    text: |
+      Personas should not be confused with other conceptual tools used in defining software requirements or in product marketing:
+
+      * they are not "user roles" (such as sales person, administrator, etc.) primarily defined in terms of tasks or job descriptions; personas put the emphasis on goals and behaviours
+      * they are not "market segments" (such as "18-25s who exercise") primarily defined in term of demographic attributes; personas are users rather than buyers.
+  -
+    type: pubs
+    text: |
+      Two interesting empirical studies examine this practice:
+
+      * ["An Empirical Study Demonstrating How Different Design Constraints, Project Organization and Contexts Limited the Utility of Personas"](http://portal.acm.org/citation.cfm?id=1043147) by Ronkko et al. (2005) is a case study based on three projects, suggesting that ordinary corporate politics might undermine much of the benefits from the practice
+      * ["Real or Imaginary: The effectiveness of using personas in product design"](http://www.frontend.com/products-digital-devices/real-or-imaginary-the-effectiveness-of-using-personas-in-product-design.html) by Long (2009) is an experimental study, with a student population, which tends to confirm the benefits of the practice
+  -
+    type: histo
+    text: |
+        * 1999: personas are first described in one chapter of Alan Cooper's ["The Inmates are Running the Asylum"](http://www.amazon.com/Inmates-Are-Running-Asylum-Products/dp/B001CBPOPM/), building on prior work in "Goal-Directed design"
+        * 2002: an early practitioner's report discusses personas within the broader context: Jeff Patton's ["Hitting the Target:  Adding Interaction Design to Agile Software Development"](http://dx.doi.org/10.1145/604251.604255) is perhaps the first formal description in an Agile context, although the topic has been discussed informally on mailing lists since at least 2000
+        * 2008: Alan Cooper's [keynote at Agile 2008](http://www.cooper.com/journal/agile2008/) marked a formal reconciliation, of sorts, between Agile discourse and interaction design, which had long been perceived to be at odds; invited by "the Agile leadership" as an "outsider", Cooper came to be perceived over the following year as very much an "insider"
+---

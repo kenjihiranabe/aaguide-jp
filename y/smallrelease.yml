@@ -1,0 +1,27 @@
+---
+title: Frequent releases
+type: Practice
+id: smallrelease
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      An Agile team frequently releases its product into the hands of end users, listening to feedback, whether critical or appreciative.
+      Precisely how frequent is desirable varies according to the technical and business aspects of the context, but in general one release every four to six iterations would be considered a maximum.
+      In favorable technical contexts, such as Web development, a more frequent rhythm of release can be achieved, such as every iteration. Some teams push this practice to its limit of [continuous deployment](cd.html).
+  -
+    type: abus
+    text: |
+      * showing the latest version of the product to a project or product manager for "testing" is not sufficient; nor is turning a version over to a quality assurance team; a "release" in this sense should be at the least a beta version evaluated by representative users
+      * in some cases (such as embedded software) it will not be possible to arrange for frequent release to *all* users; this should not be a pretext to give up on frequent release to *some* users (pilot sites, volunteer beta testers, etc.)
+  -
+    type: benefices
+    text: |
+      Setting up for frequent releases *from the early stages of the project* is a cornerstone of Agile's risk reduction approach:
+
+      * it mitigates the well-known planning failure mode of discovering delays very late
+      * it validates the product's fit to its market earlier
+      * it provides earlier information about the quality and stability of the product
+      * it allows for a quicker return on the economic investment into the product
+---

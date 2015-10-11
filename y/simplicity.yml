@@ -1,0 +1,26 @@
+---
+title: Rules of simplicity
+type: Concept
+id: simplicity
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      A set of criteria, in priority order, proposed by Kent Beck to judge whether some source code is "simple enough":
+
+      *  the code is verified by automated [tests](unittest.html), and all such tests pass
+      *  the code contains no [duplication](http://en.wikipedia.org/wiki/Duplicate_code)
+      *  the code expresses separately each distinct idea or responsibility
+      *  the code is composed of the minimum number of components (classes, methods, lines) compatible with the first three criteria
+  -
+    type: abus
+    text: |
+      The first criterion is easy to judge, but implies something far from trivial: namely that the source code in question is *correct*, or has no defects. Unit tests are at best suggestive evidence that a program has no defects and certainly no definite proof. Pragmatically, however, Agile discourse considers them an excellent first line of defence.
+      The next two criteria leave more room for subjective judgment. For instance, code duplication can be taken literally, as character-for-character duplication. Since unfortunately "copy-paste programming" remains common industry practice, this is a frequent occurrence, which can be alleviated through diligent refactoring. However, competent programmers also recognize more subtle forms of duplication.
+      Similarly, many distinct attempts at formalizing the third criterion exist, none of them regarded as definitive. Examples include "low [coupling](http://en.wikipedia.org/wiki/Coupling_(computer_programming%29) and high [cohesion](http://en.wikipedia.org/wiki/Cohesion_(computer_science%29)" and the [SOLID](http://en.wikipedia.org/wiki/SOLID_(object-oriented_design%29) design principles.
+  -
+    type: histo
+    text: |
+      * 1999: the "rules of simple design" are described for the first time in an IEEE Computer article by Kent Beck, ["Embracing Change with Extreme Programming"](http://capstone.cs.ucsb.edu/2012/cs189a/papers/x-prog.pdf), summarizing earlier [discussions](http://www.ibm.com/developerworks/rational/archives/otug/hypermail/9903/0646.html) on the OTUG mailing list
+---

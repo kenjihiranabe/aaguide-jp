@@ -1,0 +1,45 @@
+---
+title: Continous integration
+type: Practice
+id: ci
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      Teams practicing continuous [integration](integration.html) seek two objectives:
+      * minimize the duration and effort required by *each* integration episode
+      * be able to deliver *at any moment* a product version suitable for release
+      In pratice, this dual objective requires an integration prodecure which is **reproducible** at the very least, and in fact largely **automated**. This is achieved through version control tools, team policies and conventions, and tools specifically designed to help achieve continuous integration.
+  -
+    type: signes
+    text: |
+      For most teams, continuous integration in practice amounts to the following:
+      * use of a version control tool (CVS, SVN, Git, etc.)
+      * an [automated build](autobuild.html) and product release process
+      * instrumentation of the build process to trigger [unit](unittest.html) and [acceptance](acceptance.html) tests *every time any change is published to version control*
+      * in the event of even a single test failing, alerting the team of a "broken build" so that the team can reach a stable, releasable baseline again soonest
+      * optionally, the use of a tool such as a continuous integration server, which automates the process of integration, testing and reporting of test results
+      ----------
+      Look for a dedicated display in a prominent spot of the [team room](teamroom.html): this can be a normal monitor, an LED display or even a lava lamp, with the sole purpose of reporting on the result of the most recent integration.
+      Observe also how the team responds to a "broken build", suggesting that a defect may have been detected. If the team is aware of defects, but tolerates them or continues working on a product that isn't in a releasable state, the term "continuous integration" no longer applies, irrespective of tooling!
+  -
+    type: abus
+    text: |
+      * As suggested above, the practice of continuous integration should not be confused with the tools that assist it (CI servers such as Cruise Control, Hudson, etc.). Continuous integration is first and foremost a matter of attitude rather than tools, and it relies on more than one kind of tool: tools for testing, tools for automating build processes, and tools for version control.
+      * Continuous integration aims to lessen the pain of integration by increasing its frequency. Therefore, *any* effort related to producing intermediate releases, and which the team experiences as particularly burdensome, is a candidate for inclusion in the team's continuous integration process. (This is the reasoning that leads teams to [continuous deployment](cd.html).)
+  -
+    type: histo
+    text: |
+      * 1993: the phrase "continuous integration" is already in use and thus predates what will later be known as Agile processes, for instance [this article](http://www.computer.org/portal/web/csdl/doi?doc=doi%2F10.1109%2F52.207226) contrasts it with "scheduled" integration, and recommends the latter, citing "lack of thorough testing" as one issue with continuous integration; this helps explain why the automated testing favored by Agile teams is an enabler for continuous integration
+      * 1996: Steve McConnell [describes](http://www.stevemcconnell.com/ieeesoftware/bp04.htm) the "Daily Build and Smoke Test" technique, used at Microsoft for Windows NT 3.0 during the 1990's; the emphasis is not so much on the automation as on the frequency, the daily cycle being at that time considered "extreme"
+      * 1998: continuous integration is listed among the core practices of Extreme Programming
+      * 2000: an article by Martin Fowler provides perhaps the [most complete description](http://www.martinfowler.com/articles/originalContinuousIntegration.html) of the continuous integration practice available at that time
+      * 2001: [Cruise Control](http://cruisecontrol.sourceforge.net/), the first "continuous integration server", is published under an open source license; it automates monitoring of the source code repository, triggering the build and test process, notifications of the results to the developers, and archival of the test reports; the period 2001-2007 sees a large number of similar tools appear, leading perhaps to an excessive focus on tools over practice
+      * 2004: an [article](http://www.developertesting.com/archives/month200404/20040401-eXtremeFeedbackForSoftwareDevelopment.html) by Alberto Savoia proposes "Extreme Feedback Devices" such as lava lamps or dedicated monitors, to display the results of the most recent integration, an important innovation in CI
+  -
+    type: resources
+    text: |
+      * [Continuous Integration](http://www.martinfowler.com/articles/continuousIntegration.html), Martin Fowler (2006)
+      * [Continuous Integration: Improving Software Quality And Reducing Risk](http://www.amazon.fr/dp/0321336380/), Paul Duvall (2007)
+---

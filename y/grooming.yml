@@ -1,0 +1,34 @@
+---
+title: Backlog grooming
+type: Practice
+id: grooming
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      The team (or part of the team including the product owner) meet regularly to "groom the product [backlog](backlog.html)", in a formal or informal meeting which can lead to any of the following:
+
+      * removing [user stories](stories.html) that no longer appear relevant
+      * creating new user stories in response to newly discovered needs
+      * re-assessing the relative priority of stories
+      * assigning estimates to stories which have yet to receive one
+      * correcting estimates in light of newly discovered information
+      * [splitting](split.html) user stories which are high priority but too coarse grained to fit in an upcoming [iteration](iteration.html)
+  -
+    type: syno
+    text: |
+      Other terms include "Story Time" (see timeline), "Backlog Refinement Meeting". The term reflects an organic approach to maintaining the backlog: the intended imagery is that of trimming, pruning, cleaning, as with a plant.
+  -
+    type: benefices
+    text: |
+      The intent of a "grooming" meeting is to ensure that the backlog remains populated with items that are relevant, detailed and estimated to a degree appropriate with their priority, and in keeping with current understanding of the project or product and its objectives.
+      Unlike a more formal "requirements document" the backlog is understood as a dynamic body of information. For instance, not all user stories need to have been broken down to a fine-grained level at the onset of the project, or given detailed estimates; but it is important that at any moment a *sufficient* number of stories should be ready for scheduling in the next few iterations.
+      An Agile project is, no less than any other, subject to "scope creep", in the form of user stories which do not really yield substantial value but were thought "good ideas at the time", and entered into the backlog lest they be forgotten. In the absence of explicit efforts aimed at managing this inflation, this inflation would result in the too well known pathologies of schedule and budget overruns.
+  -
+    type: histo
+    text: |
+      * 2005: the earliest recorded use of the term "backlog grooming" is from Mike Cohn [on the Scrum development mailing list](http://tech.groups.yahoo.com/group/scrumdevelopment/message/7911); it will be several years before the practice is described more formally
+      * 2008: one of the first formal descriptions of "backlog grooming" is given [by Kane Mar](http://kanemar.com/2008/02/14/story-time-the-hidden-scrum-meeting/), under the name "Story Time", and recommending it as a regular meeting
+      * 2011: the practice of "backlog grooming" is promoted to an "official" element of Scrum with its inclusion in the [Scrum Guide](http://www.scrum.org/storage/scrumguides/Scrum_Guide.pdf)
+---

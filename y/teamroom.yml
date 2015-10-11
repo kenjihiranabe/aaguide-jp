@@ -1,0 +1,29 @@
+---
+title: Team room
+type: Practice
+id: teamroom
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      The team (ideally the [whole team](team.html), including the product owner or domain expert) has the use of a dedicated space for the duration of the project, set apart from other groups' activities.
+      This space is furnished with the various amenities that the team may need: workstations (adapted for [pairing](pairing.html) if the team uses that practice), whiteboards and flipcharts, wall space to display [task boards](taskboard.html), project plans or other [charts](radiator.html), and so on.
+  -
+    type: abus
+    text: |
+      * the separation criterion is important, an "open space" is **not** an adequate instantiation of this practice; some [research](http://woody.rtsnet.ru/literature/Becker_Sims-Offices_That_Work-IWS_0002.pdf) suggests that noise (conversations, mainly) spilling over from unrelated activites has a disruptive effect on the concentration needed for project work, but that overhearing project-related conversations is not only tolerated but enhances teamwork; cubicle-type work environments manage "the worst of both worlds"
+  -
+    type: benefices
+    text: |
+      * team rooms are favorable to what Alistair Cockburn calls "[osmotic communication](http://alistair.cockburn.us/Osmotic+communication)": the diffusion of information, toward equilibirum conditions, between those who need it and those who have it; instead of relying on explicit communication mechanisms (telephone, email, IM or meetings) this diffusion is by "ambient" means, for instance overhearing others' conversations or looking at information radiators
+  -
+    type: pubs
+    text: |
+      There is a sizeable body of research on the "environmental" conditions favorable to the performance of teams in general, some of it focusing on software teams in particular. Although it is generally difficult to firmly establish *any* claims on productivity, because of the ambiguous and elusive character of the [very notion](http://www.martinfowler.com/bliki/CannotMeasureProductivity.html) of productivity of software efforts, these studies seem to suggest that either end of the spectrum of isolation yields the best results: *either* individual offices *or* dedicated team rooms.
+      The open space office, in spite of its economic attractiveness, and the more subtle advantage of being able to monitor workers unobtrusively, may well be the worst of both worlds, in particular in its "cubicle" incarnation.
+
+        * Capers Jones' [How office space affects programming productivity](http://ieeexplore.ieee.org//xpls/abs_all.jsp?arnumber=362626) examines some early studies, and tends to conclude in favor of individual offices (1995)
+        * [Officies That Work](http://woody.rtsnet.ru/literature/Becker_Sims-Offices_That_Work-IWS_0002.pdf), a 2001 report on studies of "small, fast-moving firms' workspace strategies", examined the trade-offs between openness and privacy, concentration and communication
+        * [Rapid software development through team collocation](http://ieeexplore.ieee.org//xpls/abs_all.jsp?arnumber=1019481), a more recent study, discusses evidence that seems to confirm the advantage of team rooms, based on subjective reporting, interviews and observational data (2002)
+---

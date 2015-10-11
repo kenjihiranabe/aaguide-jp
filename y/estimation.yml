@@ -1,0 +1,20 @@
+---
+title: Estimation
+type: Concept
+id: estimation
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      In software development, an "estimate", in the usual sense, consists of a quantified evaluation of the effort necessary to carry out a given development task; this is most often expressed in terms of duration.
+      The intent is to agregate many such individual estimates, so as to obtain an indication of the overall duration, effort or cost of a software project.
+  -
+    type: abus
+    text: |
+      Even within the Agile community, one finds many distinct schools of thought concerning the theory and practice of estimation. However, a broad consensus has emerged around a few typical mistakes:
+
+      * estimates necessarily embody a component of uncertainty; "point" estimates are generally considered inadequate insofar as they fail to reflect that uncertainty
+      * estimates are not the same as commitments; for instance, blaming a developer for taking 3 days what he estimated he would finish in 2 is a counter-productive attitude, usually leading to overinflated estimates in future
+      * an estimate isn't a final answer, it reflects the information that was on hand at the time of communicating it; it should always be permissible to update an estimate in light of new information, either upwards or downwards 
+---

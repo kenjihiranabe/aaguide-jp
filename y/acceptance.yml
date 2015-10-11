@@ -1,0 +1,54 @@
+---
+title: Acceptance testing
+type: Practice
+id: acceptance
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      An acceptance test is a formal description of the behaviour of a software product, generally expressed as an example or a usage scenario.
+      A number of different notations and approaches have been proposed for such examples or scenarios; in many cases the aim is that it should be possible to automate the execution of such tests by a software tool, either ad-hoc to the development team or off the shelf.
+      Similarly to a [unit test](unittest.html), an acceptance tests is generally understood to have a binary result, pass or fail; a failure suggests (though it does not prove) the presence of a defect in the product.
+      For many Agile teams acceptance tests are the main form of functional specification; sometimes the only formal expression of business requirements. In other cases, they merely complement a specification document resulting from a less specifically Agile technique or formalism, such as uses cases or more narrative documents.
+  -
+    type: syno
+    text: |
+      The terms "functional test", "acceptance test" and "customer test" are used more or less interchangeably.
+      A more specific term "story test", referring to [user stories](stories.html) is also used, as in the phrase "story test driven development".
+  -
+    type: abus
+    text: |
+      * expressing acceptance tests in a notation which is overly technical, i.e. concerned with details of the implementation, will make them hard to review by customers or domain experts, who are the primary target audience; this often results from acceptance testing being left to the sole initiative of developers - to avoid this, **customers or domain experts must be involved** in the creation of acceptance tests
+      * another result of this misplaced emphasis is that acceptance tests become "fragile", i.e. likely to fail as a result of minor or cosmetic changes which do not in fact impair the product's behavior: for instance, changing the label for a text field 
+  -
+    type: histo
+    text: |
+      * 1996: automated tests are a practice of Extreme Programming, without much emphasis on the distinction between unit and acceptance testing, and with no particular notation or tool recommended
+      * 2002: Ward Cunningham, one of the inventors of Extreme Programming, publishes Fit, a tool for acceptance testing based on a tabular, Excel-like notation
+      * 2003: adoption of Fit, which has remained marginal, booms when Bob Martin combines Fit with Wikis (another invention of Cunningham's), creating FitNesse
+      * 2003-2006: for some time the Fit/FitNesse combo eclipses most other tools  and becomes the mainstream model for Agile acceptance testing
+      * 2006: more recently, tools inspired by the [BDD](bdd.html) approach have renewed competition in the acceptance testing area
+  -
+    type: benefices
+    text: |
+      Acceptance testing has the following benefits, complementing those which can be obtained from [unit tests](unittest.html):
+
+      * encouraging closer collaboration between developers on the one hand and customers, users or domain experts on the other, as they entail that business requirements should be expressed
+      * providing a clear and unambiguous "contract" between customers and developers; a product which passes acceptance tests will be considered adequate (though customers and developers might refine existing tests or suggest new ones as necessary)
+      * decreasing the chance and severity both of new defects and regressions (defects impairing functionality previously reviewed and declared acceptable)
+  -
+    type: cost
+    text: |
+      Unlike automated unit tests, automated acceptance tests are not universally viewed as a net benefit and some controversy has arisen after experts such as Jim Shore or Brian Marick questioned whether the following costs were outweighed by the benefits of the practice:
+
+      * many Agile teams report that the creation of automated acceptance tests requires significant effort
+      * sometimes due to the "fragile" test issue, their maintenance is also in many cases reported as burdensome
+      * the first generation of tools in the Fit/FitNesse tradition has often resulted in acceptance tests that were not intelligible to customers or domain experts
+
+      Recent innovations such as the [BDD](bdd.html) approach may hold promise for a resolution of this controversy.
+  -
+    type: pubs
+    text: |
+        * For a comprehensive survey, see [Automated Acceptance Testing: A Literature Review and an Industrial Case Study](http://www.computer.org/portal/web/csdl/doi/10.1109/Agile.2008.82)
+---

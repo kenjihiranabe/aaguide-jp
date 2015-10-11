@@ -1,0 +1,26 @@
+---
+title: Sustainable pace
+type: Practice
+id: sustainable
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      The team aims for a work pace that they would be able to sustain indefinitely.
+      This entails a firm refusal of what is often considered a "necessary evil" in the software industry - long work hours, overtime, or even working nights or weekends. As such this "practice" is really more of a contract negotiated between the team and their management.
+  -
+    type: syno
+    text: |
+      The term "sustainable pace", more general, was proposed by Kent Beck himself in replacement of the original "40 hour week" denomination for this Extreme Programming practice.
+  -
+    type: benefices
+    text: |
+      The Agile mindset views recourse to overtime, other than on an exceptional basis, as detrimental to productivity rather than enhancing it. Overtime tends to mask schedule, management or quality deficiencies; the Agile approach favors exposing these deficiencies as early as possible and remedying their underlying causes, rather than merely treating the symptoms.
+  -
+    type: pubs
+    text: |
+        There is a consensus that research in manufacturing industries [generally shows](http://www.emeraldinsight.com/journals.htm?articleid=848285&show=abstract) that overtime has a detrimental impact on productivity.
+        Some caveats apply when transposing this to software development; one [review](http://cedb.asce.org/cgi/WWWdisplay.cgi?9200573) considers the research in this area inconclusive; even defining the term "productivity" is [problematic](http://www.emeraldinsight.com/journals.htm?articleid=884042&show=abstract) in the context of knowledge work; few studies appear to have been conducted that apply specifically to overtime among knowledge workers.
+        [Several](http://www.salon.com/2012/03/14/bring_back_the_40_hour_work_week/singleton/) [articles](http://www.igda.org/why-crunch-modes-doesnt-work-six-lessons) and industry [presentations](http://lunar.lostgarden.com/Rules%20of%20Productivity.pdf) have made a strong case against overtime in the software development context, and provide further references to published academic research.
+---

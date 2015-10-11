@@ -1,0 +1,21 @@
+---
+title: Iterative development
+type: Concept
+id: iterative
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      Agile projects are iterative insofar as they intentionally allow for *repeating* software development activities, and for potentially *revisiting* the same work products (the phrase "planned rework" is sometimes used; [refactoring](refactoring.html) is a good example).
+      They are iterative in a third, less essential sense, in being most often structured around a series of [iterations](iteration.html) of fixed calendar length. However, some Agile approaches to scheduling, such as Kanban do away with iterations in this later sense, but retain the other aspects of multiple repetitions and planned rework.
+      Nearly all Agile projects are [incremental](incremental.html) as well as iterative. However, it is possible to use iterative strategies which are not also incremental; for instance, a "build it twice" strategy in which one first creates a throwaway prototype to gather user feedback, then uses insights from that experience to build the "real thing". Prototyping is necessarily an iterative strategy, and may have been a precursor to the development of iterative software development ideas.
+  -
+    type: histo
+    text: |
+      The idea of iterative development predates Agile - by at least decade or two.
+
+      * 1984: an early [empirical study](http://dl.acm.org/citation.cfm?id=802007) by Barry Boehm of projects using prototyping, by essence an iterative strategy, suggests that iterative approaches first started receiving serious [attention](http://dl.acm.org/citation.cfm?id=802546) around that time, most probably driven by factors such as the rise of personal computers and graphical user interfaces
+      * 1986: in a well-known paper, Barry Boehm presents "[A Spiral model of software development and enhancement](http://dl.acm.org/citation.cfm?id=12944.12948)", an iterative model geared to identifying and reducing risks through any appropriate approaches (though the "typical" example presented is based on prototyping)
+      * 1995: an article by Alistair Cockburn, "[Growth of human factors in application development](http://alistair.cockburn.us/Growth+of+human+factors+in+application+development)", suggests one major reason why iterative approaches gradually gain acceptance: the bottleneck in software development is shifting to (individual and organizational) learning, and human learning is intrinsically an iterative, trial and error process
+---

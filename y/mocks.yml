@@ -1,0 +1,31 @@
+---
+title: Mock objects
+type: Concept
+id: mocks
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      A technique commonly used in the context of crafting [automated unit tests](unittest.html). It consists of instantiating a test-specific version of a software component (typically a class), which insteads of the normal behaviors provides precomputed results, and often also checks that it's invoked as expected by the objects being tested.
+      For instance, the "mock" version of a database component will a) provide "canned" answers to database queries, instead of connecting to a real live database, and b) verify that the database is being accessed in the manner expected and stipulated in the test.
+  -
+    type: syno
+    text: |
+      There are many terms for components that mimic actual code for the purposes of testing: mocks, stubs, fakes, spies, dummies to name the more common.
+      These terms are not strict synonyms, various authors make relatively subtle distinctions between these categories, based on whether the components have behaviour, record interactions with other components, etc.
+      The generic term "[test double](http://en.wikipedia.org/wiki/Test_double)" has been proposed to refer to any such component (an allusion to "stunt double").
+  -
+    type: benefices
+    text: |
+      Mock objects afford "decoupling" software components for the purposes of testing. For instance, code that relies should not be "coupled" to the implementation details of that database: its correct function relies on the logical organization of the data being queried, rather than on concrete aspects such as storing data on disk or establishing connections over network protocols. Mock objects lead to tests that only exercise the behavior of the software components under test, and do not depend on the behavior of other, unrelated components.
+  -
+    type: abus
+    text: |
+      The technique is slightly controversial, having both adepts and detractors; the latter argue that overuse of mock objects leads to a heavier test maintenance burden, and detracts from the tests' role as documentation, and these drawbacks are not always adequately compensated by the benefits of mock objects.
+  -
+    type: histo
+    text: |
+      * 2000: the "mock objects" testing technique is described by Freeman, McKinnon and Craig in their article "[Endo-Testing: Unit Testing with Mock Objects](http://dl.acm.org/citation.cfm?id=377534)", an allusion to the "Mock Turtle" character in Lewis Carroll
+      * 2010: a comprehensive description of integrating mock objects, TDD and OO design is provided in Freeman and Pryce's "[Growing Object-Oriented Software Guided by Tests](http://www.growing-object-oriented-software.com/)"
+---

@@ -1,0 +1,31 @@
+---
+title: Information radiators
+type: Practice
+id: radiator
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      "Information radiator" is the generic term for any of [a number](http://xprogramming.com/xpmag/BigVisibleCharts) of handwritten, drawn, printed or electronic displays which a team places in a highly visible location, so that all team members as well as passers-by can see the latest information at a glance: count of automated tests, velocity, incident reports, continuous integration status, and so on.
+  -
+    type: syno
+    text: |
+      * a related term, nearly synonymous, is "Big Visible Chart"
+      * more generally, one speaks of "[informative workspaces](http://agilexp.com/informativeworkspace/)"
+  -
+    type: benefices
+    text: |
+      Intensive use of information radiators conveys two messages in addition to the information itself:
+
+      * the team has nothing to hide from its visitors (customers, stakeholders...)
+      * the team has nothing to hide from itself: it acknowledges and confronts problems
+
+      The main benefit of the practice is therefore to promote responsibility among the team members. A secondary benefit is that information radiators tend to provoke conversation when outsiders visit, which can yield useful ideas.
+  -
+    type: histo
+    text: |
+      * 1980s: the notion of "visual control" originating in the Toyota Production System is an anticipation of "information radiators"
+      * 1999: the term "Big Visible Chart" is coined by Kent Beck in "Extreme Programming Explained", though later [attributed](http://tech.groups.yahoo.com/group/extremeprogramming/message/4115) by Beck to Martin Fowler
+      * 2001: the term "information radiator" is coined by [Alistair Cockburn](http://www.informit.com/articles/article.aspx?p=24486), part of an extended metaphor which equates the movement of information with the dispersion of heat and gas
+---

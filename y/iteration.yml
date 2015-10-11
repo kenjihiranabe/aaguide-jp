@@ -1,0 +1,29 @@
+---
+title: Iteration
+type: Concept
+id: iteration
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      An iteration, in the context of an Agile project, is a [timebox](timebox.html) during which development takes place, the duration of which:
+
+      * may vary from project to project, usually between 1 and 4 weeks
+      * is in most cases fixed for the duration of a given project
+
+      A key feature of Agile approaches is the underlying assumption that a project consists excusively of a sequence of iterations, possibly with the exception of a very brief "vision and planning" phase prior to development, and a similarly brief "closure" phase after it.
+      In general iterations are aligned with calendar weeks, often starting on mondays and ending on fridays; this is more a matter of convenience than an explicit recommendation and many teams adopt different conventions.
+      The fixed length of iterations gives teams a simple way to obtain, based on [velocity](velocity.html) and the amount of work remaining, a usually accurate (though not very precise) estimation of the project's remaining duration.
+  -
+    type: syno
+    text: |
+      The Scrum community has historically used the term "sprint", but the two are nowadays used interchangeably without any particular connotation attached to one or the other.
+      Agile usage of the term "iteration" as essentially synonymous with "timebox" is a departure from the everyday meaning of "the act of repeating" when used in an abstract sense and "one repetition" more concretely; it is that more usual meaning which is conveyed by the sense "[iterative](iterative.html) development".
+  -
+    type: histo
+    text: |
+      * 1991: RAD, possibly the first approach in which timeboxing and "iterations" in the looser sense of "one repetition of the entire software development process" are closely combined, is described by James Martin in his "[Rapid Application Development](http://www.amazon.com/dp/0023767758)"
+      * 1995: the [earliest writings on Scrum](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.86.4164) introduce the notion of the "sprint" as iteration, although its duration is variable
+      * 1998: the [first writings on Extreme Programming](http://www.xprogramming.com/publications/dc9810cs.pdf) describe fixed-length, three-week iterations and emphasize the advantage of this scheme in obtaining imprecise but accurate feedback on schedule performance
+---

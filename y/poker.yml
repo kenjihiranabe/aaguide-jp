@@ -1,0 +1,34 @@
+---
+title: Planning poker
+type: Practice
+id: poker
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      A playful approach to [estimation](estimation.html), used by many Agile teams.
+      The team meets in presence of the customer or Product Owner. Around the table, each team member holds a set of playing cards, bearing numerical values appropriate for [points](nuts.html) estimation of a [user story](stories.html).
+      The Product Owner briefly states the intent and value of a story. Each member of the development team silently picks an estimate and readies the corresponding card, face down. When everyone has taken their pick, the cards are turned face up and the estimates are read aloud.
+      The two (or more) team members who gave the high and low estimate justify their reasoning. After brief discussion, the team may seek convergence toward a consensus estimate by playing one or more further rounds.
+  -
+    type: abus
+    text: |
+      One pitfall of Planning Poker resides in making "convergence to consensus estimate" an obligation rather than a natural result of the conversation that follows a round of play. Doing so runs the risk of erasing useful information, i.e. the degree of uncertainty conveyed by a wide spread in the initial estimates.
+  -
+    type: benefices
+    text: |
+      * using a structured, game-like format keeps things moving along and avoids the estimating meeting getting bogged down in interminable discussions (this particular outcome was the original intent of the practice)
+      * the meeting's format offers an opportunity to leverage the knowledge of all team members, whereas in a less structured meeting format, the more outgoing team members sometimes shut out the quiet ones
+      * the conversation following the revealing of initial estimates is a great way to pool insights about the user story being discussed and surface implementation risks
+  -
+    type: pubs
+    text: |
+      Exploratory studies by [Nils Christian Haugen](http://simula.no/people/nch/bibliography) seem to confirm the value of the practices, which produces slightly better estimates than a single "expert's".
+  -
+    type: histo
+    text: |
+      * 1970s: Barry Boehm proposes ["Wideband Delphi"](http://en.wikipedia.org/wiki/Wideband_Delphi), a forerunner of Planning Poker
+      * 2002: the current form of Planning Poker is set out in [an article](http://renaissancesoftware.net/papers/14-papers/44-planing-poker.html) by James Grenning
+      * 2005: the Planning Poker technique is popularized in the Scrum community, as are a number of planning techniques, by Mike Cohn's ["Agile Estimating and Planning"](http://www.amazon.com/dp/0131479415)
+---

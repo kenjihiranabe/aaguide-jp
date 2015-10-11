@@ -1,0 +1,35 @@
+---
+title: Continuous deployment
+type: Practice
+id: cd
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      Continuous deployment can be thought of as an extension of [continuous integration](ci.html), aiming at minimizing [lead time](leadtime.html), the time elapsed between development writing one new line of code and this new code being used by live users, in production.
+      To achieve continuous deployment, the team relies on infrastructure that automates and instruments the various steps leading up to deployment, so that after each integration successfully meeting these release criteria, the live application is updated with new code.
+      Instrumentation is needed to ensure that any suggestion of lowered quality results in aborting the deployment process, or rolling back the new features, and triggers human intervention.
+  -
+    type: benefices
+    text: |
+      The main benefits claimed for continuous deployment arise as a result of reducing [lead time](leadtime.html), with two main effects:
+
+      * earlier return on investment for each feature after it is developed, which reduces the need for large capital investments
+      * earlier feedback from users on each new feature as it is released to production, which affords techniques such as parallel (or A/B) testing to determine which of two possible implementation is preferred by users
+  -
+    type: cost
+    text: |
+      * continuous deployment relies on extensive instrumentation to ensure that functionality newly made available to users does not result in incidents, lowering externally perceived quality
+      * for the same reason, continuous deployment relies on infrastructure that allows easily backing out new features when a defect has not been detected by automated tests
+  -
+    type: abus
+    text: |
+      * to the extent that continuous deployment is viewed as a strategy for quality, it's easy (in particular for developers enamored with the novelty and technical aspects of it) to pick the wrong target, and optimize for "maximum frequency of deployments" - that will not, by itself, result in increased quality
+  -
+    type: histo
+    text: |
+      * 2002: in early (unpublished) discussions of applying Lean ideas to software, seeing undeployed features as "inventory", Kent Beck mentions continuous deployment at LifeWare and "several others"; it will take several years, however, for the idea to be refined and codified
+      * 2006: the first conference article describing the core of continuous deployment, "[The Deployment Production Line](http://dl.acm.org/citation.cfm?id=1155519)" by Jez Humble, Chris Read and Dan North is published in the proceedings of Agile2006, a codification of the practices of several Thoughtworks UK teams
+      * 2009: the practice of continuous deployment has become well established, though still somewhat controversial as a much commented upon article, "[Continuous Deployment at IMVU](http://timothyfitz.wordpress.com/2009/02/10/continuous-deployment-at-imvu-doing-the-impossible-fifty-times-a-day/)" by Timothy Fitz attests; it has become important not only in Agile but also as a core element of more specialized, recent strategies such as [Lean Startup](http://radar.oreilly.com/2009/03/continuous-deployment-5-eas.html) or Devops
+---

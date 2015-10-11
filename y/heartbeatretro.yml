@@ -1,0 +1,46 @@
+---
+title: Heartbeat retrospective
+type: Practice
+id: heartbeatretro
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      The team meets regularly, usually adhering to the rythm of its iterations, to explicitly reflect on the most significant events to have occurred since the previous such meeting, and take decisions aiming at remediation or improvement.
+      This is often a [facilitated](facilitation.html) meeting following a set format. Several distinct formats have been described, depending in large part on the time set aside for the meeting, typically between one and three hours. One important reason to use a facilitated format is to give all team members an opportunity to speak up.
+  -
+    type: syno
+    text: |
+      The term "retrospective", popularized by Norm Kerth (see below), has gained favor in the Agile community over better known ones such as "debriefing" or "post-mortem", for its more positive connotations.
+      This is also known as the "sprint retrospective", or "iteration retrospective", often abbreviated, e.g. "sprint retro".
+      The term "reflection workshop" from Alistair Cockburn is encountered less often, though it appears to have influenced in the Agile Manifesto's wording of the corresponding principle.
+  -
+    type: abus
+    text: |
+      * A retrospective is intended to reveal facts or feelings which have measurable effects on the team's performance, and to construct ideas for improvement based on these observations. It will not be useful if it devolves into a verbal joust, or a whining session.
+      * On the other hand, an effective retrospective requires that each participant feel comfortable speaking up. The facilitator is responsible for creating the conditions of mutual trust; this may require taking into accounts such factors as hierarchical relationships, the presence of a manager for instance may inhibit discussion of performance issues.
+      * Being an all-hands meeting, a retrospective comes at a significant cost in person-hours. Poor execution, either from the usual causes of bad meetings (lack of preparation, tardiness, inattention) or from causes specific to this format (lack of trust and safety, taboo topics), will result in the practice being discredited, even though a vast majority of the Agile community views it as valuable.
+      * An effective retrospective will normally result in decisions, leading to action items; it's a mistake to have too few (there is always room for improvement) or too many (it would be impractical to address *all* issues in the next iteration). One or two improvement ideas per iteration retrospective may well be enough.
+      * Identical issues coming up at each retrospective, without measurable improvement over time, may signal that the retrospective has become an empty ritual.
+  -
+    type: signes
+    text: |
+      * taking part, in an observer role, in one such meeting is the best way to ascertain the use of this practice
+      * failing that, take note of the improvement ideas and action items which are the outputs of retrospectives: they can take the form of a written document, or often of Post-Its summarizing ideas and decisions, displayed in a specific spot on the team room's walls
+  -
+    type: benefices
+    text: |
+      * retrospectives leverage the benefits of [iterative](iterative.html) development: they offer explicit opportunities to improve the team's performance over the duration of the project
+      * retrospectives promote ownership and responsibility by the project team with respect to all aspects of the process; participants can understand the rationale behind all process decisions
+  -
+    type: histo
+    text: |
+      * 1997: in "[Surviving Object-Oriented Projects](http://www.amazon.com/dp/0201498340)", Alistair Cockburn describes several projects (dating as far back as 1993) informally using the practice, but does not give it a label; he summarizes it as "Work in increments, focus after each"
+      * 2001: the first description of a "reflection workshop" in the context of an Agile project appears in Alistair Cockburn's "[Agile Software Development](http://www.amazon.com/dp/0201699699)"
+      * 2001: regular retrospectives are one of the principles of the [Agile Manifesto](http://agilemanifesto.org/): "At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly", though not necessarily yet common practice
+      * 2001: the term "Project Retrospectives" is introduced in Norm Kerth's [book](http://www.dorsethouse.com/books/pr.html) of the same name
+      * 2001: the XP community endorses retrospectives early on, by way of a paper at XP2001 on "[Adaptation: XP Style](http://www.christophertcollins.com/papers/adaptationXpStyle_final.pdf)"
+      * 2003: thanks in good part to [sessions at the XP Day cycle of conferences](http://web.archive.org/web/20031208002014/http://xpday3.xpday.org/sessions.php#Retro), more teams start practicing project and iteration retrospectives
+      * 2006: the publication of Esther Derby and Diana Larsen's "[Agile Retrospectives](http://www.amazon.com/dp/0977616649)" brings to a close the codification of heartbeat retrospectives
+---

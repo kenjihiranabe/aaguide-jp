@@ -1,0 +1,39 @@
+---
+title: Collective ownership
+type: Practice
+id: cco
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      Teams typically adopt conventions governing who is allowed to modify some source code that was originally written by another, often referred to as "ownership". These conventions can written and explicit, merely oral, or entirely implicit. Many [different modes exist](http://xp123.com/xplor/xp0002e/index.shtml); commonly only one developer "owns" each code file.
+      Collective code ownership, as the name suggests, is the explicit convention that *every* team member is not only allowed, but in fact has a positive duty, to make changes to *any* code file as necessary: either to complete a development task, to repair a defect, or even to improve the code's overall structure.
+  -
+    type: abus
+    text: |
+      Tacit or implicit rules may exist that are in contradiction to a collective ownership policy ostensibly adopted by the team: for instance, you notice that one developer starts being ill-tempered whenever files from a particular component are modified, so that the team starts to treat them as *de facto* under his or her exclusive ownership. Be sure to check that the policy is consistent with actual behaviour.
+  -
+    type: benefices
+    text: |
+      A collective code ownership policy:
+
+      * reduces the risk that the absence (or unavailability) of any one developer will stall or slow work
+      * increases the chance that the overall design results from sound technical decisions, rather than from social structure, as in "Conway's Law"
+      * is a favorable factor in the diffusion of technical knowledge
+      * encourages each developer to feel responsible for the quality of the whole
+  -
+    type: cost
+    text: |
+      While the idea of collective ownership is congenial with other principles of shared responsibility in Agile (such as shared responsibility, between customer and development team, for project outcomes), it has its detractors. Arguments against are also plausible and bear being careful about:
+
+      * in the limit, having everyone is responsible for quality *can* be a situation indistiguishable from having *no one* responsible for quality
+      * the lack of social enforcement of boundaries around code components can lead (by "Conway's Law") to a lack of well-defined interfaces, however well-defined interfaces are a key to effective design
+  -
+    type: histo
+    text: |
+      * 1968: "Conway's Law" is [coined](http://www.melconway.com/research/committees.html) and summarized as follows: "Any organization that designs a system (defined more broadly here than just information systems) will inevitably produce a design whose structure is a copy of the organization's communication structure." It has long had the status of folklore rather than of well-supported scientific result, though recent studies have lent it some academic support. (The social aspects of software development remained largely ignored by academic software engineering until the mid-90's.)
+      * 1995: Coplien names the "Code Ownership" pattern in Pattern Languages of Program Design, in an early version of his "Organizational Patterns", a work influential in the later development of Agile discourse. However, he endorses exclusive individual code ownership, and cautions against collective ownership which he equates to no ownership at all. Coplien admits that objections against individual ownership exit, but argues that other of his patterns mitigate those problems.
+      * 1998: the earliest writings on Extreme Programming recommend "Collective Code Ownership" as an official practice. The "extremos" argue, much as Coplien does in the opposite direction, that other Extreme Programming practices mitigate the problems cited against collective ownership: uniform code conventions and extensive tests.
+---
+

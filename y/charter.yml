@@ -1,0 +1,34 @@
+---
+title: Project chartering
+type: Practice
+id: charter
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      The team develops and maintains a high-level summary of the project's key success factors, synthetic enough that it can be displayed on one wall of the [team room](teamroom.html) as a flipchart-sized sheet of paper. This description includes at least the major objectives of the project, scope boundaries, and reciprocal agreements between the project's implementation team and external stakeholders.
+  -
+    type: signes
+    text: |
+      Ask the team for a high-level overview of the project, and notice what you are first directed to look at. The specific format may be highly variable.
+      The Agile community has appropriated a number of different techniques or notations that have proven useful to capture high-level project information. For instance the ["rich picture"](http://portablelearner.com/half-notes/rich-pictures/) approach of SSM (Soft Systems); the ["context diagram"](http://yourdon.com/strucanalysis/wiki/index.php?title=Chapter_18#The_Context_Diagram) from structured analysis; or Lean manufacturing's [A3](http://www.crisp.se/lean/a3-template) (which derives its name precisely from the paper format).
+  -
+    type: abus
+    text: |
+      * avoid using any kind of "document template" to construct a project charter; the value of the exercise lies more in the activity than in the deliverable, and in focusing on the context-specific information which will guide the team toward good decisions
+      * irrespective of the format, a project charter should fit into a single page or single sheet of paper; anything longer will be regarded as yet another burdensome document, rarely looked at (if ever)
+  -
+    type: benefices
+    text: |
+      A common sign of troubled project is a marked divergence in the answers from members of the same team to questions such as "What is the project's goal? What are its most important aspects? Whose problem are you solving? What resources do you have at your disposal?"
+      Creating a project charter, and even more crucially, ensuring that its contents are *known and approved by all members of the team*, results in greater alignment of effort within the team, which is often a key determinant of project outcomes.
+  -
+    type: histo
+    text: |
+      The adoption of project chartering by the Agile community has been slow and gradual; the slight uptick in popularity as of 2010 presumably originates in the community's intention to address constant criticism that Agile fails to address "big picture" concerns.
+
+      * 2001: the article which will later come to largely define project chartering as an agile practice is published: ["Immunizing Against Predictable Project Failure"](http://www.industriallogic.com/papers/Chartering.pdf)
+      * 2003: Joshua Kerievsky at Industrial Logic publishes "[Industrial XP](http://industrialxp.org/)", a set of proposed extensions to Extreme Programming which includes the Project Chartering activity, essentially as defined by the 2001 article
+      * 2006: Jean Tabaka's book "[Collaboration Explained](http://www.amazon.com/dp/0321268776)" references project chartering as one of the key practices for effective collaboration; though she explicitly cites Industrial XP her presentation differs in several respects from the 2001 article, indicating a synthesis influenced by other sources
+---

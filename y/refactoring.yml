@@ -1,0 +1,74 @@
+---
+title: Refactoring
+type: Skill
+id: refactoring
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      Refactoring consists of improving the internal structure of an existing program's source code, while preserving its external behavior.
+      The noun "refactoring" refers to one particular behaviour-preserving transformation, such as "Extract Method" or "Introduce Parameter".      
+  -
+    type: abus
+    text: |
+      Refactoring does *not* mean:
+
+      * rewriting code
+      * fixing bugs
+      * improve observable aspects of software such as its interface
+
+      Refactoring in the absence of safeguards against introducing defects (i.e. violating the "behaviour preserving" condition) is risky. Safeguards include aids to regression testing including automated unit tests or automated acceptance tests, and aids to formal reasoning such as type systems.
+  -
+    type: benefices
+    text: |
+      The following are claimed benefits of refactoring:
+
+      * refactoring improves objective attributes of code (length, duplication, coupling and cohesion, cyclomatic complexity) that correlate with ease of maintenance
+      * refactoring helps code understanding
+      * refactoring encourages each developer to think about and understand design decisions, in particular in the context of [collective code ownership](cco.html)
+      * refactoring favors the emergence of reusable design elements (such as design patterns) and code modules
+  -
+    type: signes
+    text: |
+      * version control records (such as CVS or git logs) include entries labeled "Refactoring"
+      * the code modifications corresponding to such entries can be verified to be behaviour-neutral: no new unit tests or functional tests are introduced, for example
+  -
+    type: progression
+    text: |
+      * Beginner
+        * knows the definition of "refactoring"
+        * can use some automated refactorings from the IDE
+        * can perform some refactorings by hand
+        * is aware of the risks of regression from manual and automated refactorings
+        * is aware of code duplication and can remove it by refactoring
+      * Intermediate
+        * knows and is able to remedy a broader range of "code smells"
+        * can chain several refactorings to carry out a design intention, in awareness of the dependencies between refactorings
+        * refactors continuously, rather than in sporadic and lengthy sessions
+      * Advanced
+        * has an acute sense of code duplication and coupling
+        * applies refactorings to non-code elements such as database schema, documents, etc.
+        * uses refactoring to guide large bodies of code toward design styles intentionally chosen from a broad palette: object-oriented, functional, or inspired by known design patterns
+  -
+    type: resources
+    text: |
+      * [Refactoring](http://www.amazon.com/dp/0201485672), by Martin Fowler
+      * [The Mikado Method](http://pragprog.com/magazines/2010-06/the-mikado-method)
+  -
+    type: histo
+    text: |
+      * 1984: the notion of "factoring", an anticipation of refactoring, is described in Brodie's ["Thinking Forth"](http://thinking-forth.sourceforge.net/), where it is presented as "organizing code into useful fragments" which "occurs during detailed design and implementation".
+      * 1990: Bill Opdyke coins the term "refactoring" in an ACM SIGPLAN paper with Ralph Johnson, "Refactoring: An aid in designing application frameworks and evolving object-oriented systems"
+      * 1992: a comprehensive description of "refactoring" is presented in Opdyke's thesis, ["Refactoring object-oriented frameworks"](http://www.laputan.org/pub/papers/Opdyke-Thesis.pdf)
+      * 1999: the practice of "refactoring", incorporated a few years earlier into Extreme Programming, is popularized by Martin Fowler's book of the same name
+      * 2001: refactoring "crosses the [Rubicon](http://martinfowler.com/articles/refactoringRubicon.html)", an expression of Martin Fowler describing the wide availability of automated aids to refactoring in IDEs for the language Java
+  -
+    type: pubs
+    text: |
+      Although the practice of refactoring has become popular, rigorously establishing its benefit in an academic context has proven thorny, illustrating a common gap between research and common practice.
+
+      * [Studying the Effect of Refactorings: a Complexity Metrics Perspective](http://win.ua.ac.be/~qsoeten/other/data/Soetens2010QUATIC.pdf), a 2010 study, finds surprisingly little correlation between refactoring episodes, as identified by version control logs, and decrease in cyclomatic complexity
+
+      Such studies may be affected by methodological issues, such as identifying what counts as a "refactoring" when examining code histories after the fact; the above paper, for instance, finds that programmers often label "refactorings" sets of code changes which also include additional functionality or bug fixes.
+---

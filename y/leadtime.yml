@@ -1,0 +1,18 @@
+---
+title: Lead time
+type: Concept
+id: leadtime
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      "Lead time" is a term borrowed from the manufacturing method known as Lean or Toyota Production System, where it is defined as the time elapsed between a customer placing an order and receiving the product ordered.
+      Translated to the software domain, lead time can be described more abstractly as the time elapsed between the identification of a requirement and its fulfillment. Defining a more concrete measurement depends on the situation being examined: for instance, when focusing on the software development process, the "lead time" elapsed between the formulation of a [user story](stories.html) and that story being used "in production", that is, by actual users under normal conditions.
+      Teams opting for the [kanban](kanban.html) approach favor this measure, over the better known [velocity](velocity.html). Instead of aiming at increasing velocity, improvement initiatives intend to reduce lead time.
+  -
+    type: syno
+    text: |
+      Some authors make a distinction between "lead time" and "cycle time". The former is a "user's point of view" measurement - the time between a request being made and being fulfilled - while the latter is from a "developer's point of view" - the time between start of work on a user story and making the feature available for delivery.
+      To some extent, these definitions are currently [fluid](http://leanandkanban.wordpress.com/2009/04/18/lead-time-vs-cycle-time/) and may vary significantly from one software development team to the next, given the great diversity among software efforts. The most useful response is probably to pick one manner of measurement carefully, and ensure that at least within a given team everyone understands how it's being used and why.
+---

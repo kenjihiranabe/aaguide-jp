@@ -1,0 +1,44 @@
+---
+title: Kanban board
+type: Practice
+id: kanban
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      In the context of Agile teams where the "Kanban method" of continuous improvement (or some of its concepts) has been followed, the following adaptations are often seen:
+
+      * such teams deemphasize the use of [iterations](iteration.html), [effort estimates](estimation.html) and [velocity](velocity.html) as a primary measure of progress;
+      * they rely on measures of [lead time](leadtime.html) or cycle time instead of velocity;
+      * and in the most visible alteration, they replace the [task board](taskboard.html) with a "kanban board":
+        * unlike a task board, the kanban board is not "reset" at the beginning of each iteration
+        * its columns represent the different processing states of a "unit of value", which is generally (but not necessarily) equated with a [user story](stories.html)
+        * in addition, each column may have associated with it a "WIP limit" (for "work in process" or "work in progress"): if a given state, for instance "in manual testing", has a WIP limit of, say, 2, then the team *may not* start testing a third user story if two are already being worked on
+        * whenever such a situation arises, the priority is to clear current work-in-process, and team members will "[swarm](http://blog.crisp.se/2009/06/26/henrikkniberg/1246053060000)" to help those working on the activity that's blocking flow
+  -
+    type: syno
+    text: |
+      The term "kanban" is Japanese (看板), with the sense of a sign, poster or billboard, and derived from roots which literally translate as "visual board".
+      Its meaning within the Agile context is borrowed from the Toyota Production System, where it designates a system to control the inventory levels of various parts. It is analogous to (and in fact inspired by) cards placed behind products on supermarket shelves to signal "out of stock" items and trigger a resupply "just in time".
+      The Toyota system affords a precise accounting of inventory or "work in process", and strives for a reduction of inventory levels, considered wasteful and harmful to performance.
+      The phrase "Kanban method" also refers to an approach to continuous improvement which relies on visualizing the current system of work scheduling, managing "flow" as the primary measure of performance, and whole-system optimization - as a process improvement approach, it does not prescribe any particular practices.
+  -
+    type: abus
+    text: |
+      Kanban boards are generally more sophisticated than "mere" task boards. This is not a mistake in and of itself; however, it is not advisable that the kanban board should serve as a pretext to reintroduce a "waterfall"-like, linear sequence of activities structuring the process of software development. This may lead to the creation of information silos or over-specialization among team members.
+      In particular, teams should be wary of kanban boards not accompanied by WIP limits, not only defined but also enforced with respect to demands from managers, customers or other stakehoders. It is from these limits that the kanban approach derives its effectiveness.
+  -
+    type: benefices
+    text: |
+      In some contexts, measuring lead time rather than velocity, and dispensing with the regular rhythm of iterations, may be the more appropriate choice: for instance, when there is little concern with achieving a specific release date, or when the team's work is by nature continuous and ongoing, such as enhancement or maintenance, in particular of more than one product.
+      At the risk of oversimplifying, a "kanban board" setup can be considered first for efforts involving maintenance or ongoing evolution, whereas a "task board" setup may be a more natural first choice in efforts described as "projects".
+  -
+    type: histo
+    text: |
+      * 2001: Mary Poppendieck's article, "[Lean Programming](http://drdobbs.com/architecture-and-design/184414734)", draws attention to the structural parallels between Agile and the ideas known as Lean or the "Toyota Production System"
+      * 2003: expanding on their earlier work on Lean Programming, Mary and Tom Poppendieck's book "[Lean Software Development](http://www.amazon.com/dp/0321150783)" describes the Agile task board as a "software kanban system"
+      * 2007: the first few experience reports from teams using the specific set of alterations known as "kanban" (no iterations, no estimates, continuous task boards with WIP limits) are published, including reports from [Corbis](http://www.agilemanagement.net/AMPDFArchive/KanbanAtLeanNPD.pdf) (David Anderson) and BueTech (Arlo Belshee)
+      * 2007: the "[kanbandev](finance.groups.yahoo.com/group/kanbandev/messages/1)" mailing list is formed to provide a venue for discussion of kanban-inspired Agile planning practices
+      * 2009: two entities dedicated to exploring the kanban approach are formed, one addressing business concerns, the [LSSC](http://www.leanssc.org/) and a more informal one aimed at giving the community more visibility: the [Limited WIP Society](http://www.limitedwipsociety.org/)
+---

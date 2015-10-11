@@ -1,0 +1,28 @@
+---
+title: Definition of Ready
+type: Practice
+id: ready
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      By analogy with the ["Definition of Done"](sashimi.html), the team makes explicit and visible the criteria (generally based on the [INVEST](invest.html) matrix) that a user story must meet prior to being accepted into the upcoming iteration.
+  -
+    type: syno
+    text: |
+      Just as completed items which fit the definition of "done" are said to be "DONE-done", items that fit the definition of ready are called "READY-ready".
+      An etymological note for the terminally curious: this doubling of a word to call attention to something that is "really" ready or "really" done (as opposed to merely called ready or done, carelessly, without thinking twice about it) is known as "[contrastive focus reduplication](http://en.wikipedia.org/wiki/Contrastive_focus_reduplication)".
+  -
+    type: benefices
+    text: |
+      * avoids beginning work on features that do not have clearly defined completion criteria, which usually translates into costly back-and-forth discussion or rework
+      * provides the team with an explicit agreement allowing it to "push back" on accepting ill-defined features to work on
+  -
+    type: histo
+    text: | 
+      By adding a "definition of ready" to the slightly older "definition of done", Scrum appears to have all but reinvented previously existing concepts in process modeling, such as the ETVX framework first described in 1985, or the "standard task unit" described by Jerry Weinberg.
+
+      * 1985: the ETVX (for entry-task-validation-exit) framework described in "[A programming process architecture](http://dx.doi.org/10.1147/sj.242.0079)" anticipates Scrum's definitions of "ready" and "done"
+      * 2008: while the first few [allusions](http://tech.groups.yahoo.com/group/scrumdevelopment/message/27437) to teams using a "definition of ready" date to the beginning of that year, the first [formal description](http://scrumftw.blogspot.com/2008/10/ready-ready-definition-of-ready-for.html) seems to be from october, and is incorporated into "official" Scrum training material [shortly thereafter](http://scrum.jeffsutherland.com/2009/07/ready-dynamic-model-of-scrum.html)
+---

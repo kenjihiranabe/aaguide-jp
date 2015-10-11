@@ -1,0 +1,29 @@
+---
+title: Team
+type: Concept
+id: team
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      A "team" in the Agile sense is a small group of people, assigned to the same project or effort, nearly all of them on a full-time basis. A small minority of team members may be part-time contributors, or may have competing responsibilities.
+      The notion of team entails shared accountability: good or bad, the outcomes should be attributed to the entire team rather than to any individual.
+      The team is expected to possess all of the necessary competencies, whether technical (programming, designing, testing) or business (domain knowledge, decision making ability).
+      Roles and responsibilities do not matter as much as results: a developer may test, perform analysis or think about requirements; an analyst or domain expert can suggest ideas about implementation, and so on.
+  -
+    type: abus
+    text: |
+      * the most elementary error is to equate "group" and "team", to think that a team results automatically from having people work together
+      * a team should have at least three people (two is a [pair](pairing.html)), and will generally not exceed ten or so
+      * a single person may be a contributor to more than one *project* simultaneously, but it is highly unlikely that they will consider themselves as belonging to more than one *team* at the same time
+  -
+    type: histo
+    text: |
+      * 2004: Kent Beck proposes "Whole Team" as the new denomination for the practice previously known as "On Site Customer"
+  -
+    type: pubs
+    text: |
+      Tuckman's [conceptual model](http://www.garfield.library.upenn.edu/classics1984/A1984TD25600001.pdf) ("norming, forming, storming, performing") is probably the most often cited with respect to the dynamics of Agile teams.
+      However, [several](http://en.wikipedia.org/wiki/Group_development) competing and more recent models exist. [One study](http://web.mit.edu/jrankin/www/teamwork/quality_evidence_Hoegl.pdf) specifically concerned with software teams found suggestive empirical validation of their TWQ (Teamwork Quality) framework as a factor correlated with project outcomes; the TWQ construct is composed of Communication, Coordination, Balance of Member Contributions, Mutual Support, Effort and Cohesion.
+---

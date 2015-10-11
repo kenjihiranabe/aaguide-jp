@@ -1,0 +1,24 @@
+---
+title: INVEST
+type: Concept
+id: invest
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      The acronym [INVEST](http://xp123.com/articles/invest-in-good-stories-and-smart-tasks/) helps to remember a widely accepted set of criteria, or checklist, to assess the quality of a [user story](story.html). If the story fails to meet one of these criteria, the team may want to reword it, or even consider a rewrite (which often translates into physically tearing up the old story card and writing a new one).
+      A good user story should be:
+
+      *  **I**ndependent (of all others)
+      *  **N**egotiable (not a specific contract for features)
+      *  **V**aluable (or [vertical](incremental.html))
+      *  **E**stimable (to a good approximation)
+      *  **S**mall (so as to fit within an iteration)
+      *  **T**estable (in principle, even if there isn't a test for it yet)
+  -
+    type: histo
+    text: |
+      * 2003: the INVEST cheklist for quickly evaluating user stories originates in [an article](http://xp123.com/articles/invest-in-good-stories-and-smart-tasks/) by Bill Wake, which also repurposed the acronym SMART (Specific, Measurable, Achievable, Relevant, Time-boxed) for tasks resulting from the technical decomposition of user stories.
+      * 2004: the INVEST acronym is among the techniques recommended in Mike Cohn's "[User Stories applied](http://www.amazon.com/dp/0321205685)", which discusses it at length in Chapter 2.
+---

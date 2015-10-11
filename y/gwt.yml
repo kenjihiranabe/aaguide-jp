@@ -1,0 +1,23 @@
+---
+title: Given - When - Then
+type: Concept
+id: gwt
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      The Given-When-Then formula is a template intended to guide the writing of [acceptance tests](acceptance.html) for a [User Story](story.html):
+
+      *  (Given) some context
+      *  (When) some action is carried out
+      *  (Then) a particular set of observable consequences should obtain
+
+      An exemple:
+
+      *  Given my bank account is in credit, and I made no withdrawals recently,
+      *  When I attempt to withdraw an amount less than my card's limit,
+      *  Then the withdrawal should complete without errors or warnings
+
+      Tools such as JBehave, RSpec or Cucumber encourage use of this template, though it can also be used purely as a heuristic irrespective of any tool.
+---

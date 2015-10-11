@@ -1,0 +1,32 @@
+---
+title: Niko-niko calendar
+type: Practice
+id: nikoniko
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      The team installs a [calendar](http://www.geocities.jp/nikonikocalendar/pics_en/jirei.JPG) one one of the room's walls. The format of the calendar allows each team member to record, at the end of every workday, a graphic evaluation of their mood during that day. This can be either a hand-drawn "emoticon", or a colored sticker, following a simple color code, for instance: blue for a bad day, red for neutral, yellow for a good day.
+      Over time, the niko-niko calendar reveals patterns of change in the moods of the team, or of individual members.
+  -
+    type: syno
+    text: |
+     The Japanese word "niko" means "smile"; following a common pattern of word doubling in Japanese, "niko-niko" has a meaning closer to "smiley".
+      The term "mood board" is also seen. It is an [information radiator](radiator.html).
+  -
+    type: benefices
+    text: |
+      The value of this practice lies in making somewhat objective an important element of team performance - motivation or well-being - which is generally seen as entirely subjective and thus impossible to measure and track.
+      This may be seen as an illustration of the Gilb Measurability Principle: "anything you need to quantify can be measured in some way that is superior to not measuring it at all."
+      In other words, a measurement does not have to be perfect or even very precise, as long as your intent is to get a quantitative handle on something that was previously purely qualitative; the important thing is to take that first step toward quantifying.
+  -
+    type: abus
+    text: |
+      As with other activities, such as [retrospectives](heartbeatretro.html), where team members are asked to report subjective feelings, self-censorship is always a risk. This could be the case, for instance, if team members who report poor days are blamed for "whining", by management or by team mates.
+  -
+    type: histo
+    text: |
+      * 2001: among the visualizations described in Norm Kerth's "Project Retrospectives", the "Energy Seismograph" can perhaps be seen as a forerunner of the [niko-niko calendar](nikoniko.html)
+      * 2006: niko-niko calendars are first described by Akinori Sakata in [this Web article](http://www.geocities.jp/nikonikocalendar/index_en.html)
+---

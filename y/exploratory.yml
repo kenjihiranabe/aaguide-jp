@@ -1,0 +1,30 @@
+---
+title: Exploratory testing
+type: Practice
+id: exploratory
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      Exploratory testing is, more than strictly speaking a "practice", a style or approach to testing software which is often contrasted to "scripted testing", and characterized by the following aspects among others:
+
+      * it emphasizes the tester's autonomy, skill and creativity, much as other Agile practices emphasize these qualities in developers;
+      * it recommends performing various test-related activities (such as test design, test execution, and interpretation of results) in an interleaved manner, throughout the project, rather than in a fixed sequence and at a particular "phase";
+      * it emphasizes the mutually supportive nature of these techniques, and the need for a plurality of testing approaches rather than a formal "test plan"
+
+      Agile teams tend to shift and redraw the role boundaries between "developer" and "tester", mostly as a result of the heavy use by developers of automated [unit](unittest.html) and [functional](acceptance.html) tests - in one sense an extreme form of scripted testing.
+      These activities are not sufficient to ensure quality, and Agile teams can find valuable assets in team members who have well-developed testing skills (whether or not their job description includes the term "tester"). These skills will be deployed more effectively in the exploratory style on an Agile team, as this style is more consistent with an Agile approach than the "scripted testing" style.
+  -
+    type: syno
+    text: |
+      The term "exploratory testing" has been popularized by a community of testers who claim affiliation with a "school of testing thought" known as the "Context-Driven" school, which they distinguish from other schools favoring different approaches to testing: the Analytical, Factory, Quality Assurance, Context-Driven or Agile.
+  -
+    type: histo
+    text: |
+      * 2001: some techniques of exploratory technique, together with a first mention  of the "context driven school of software testing", are introduced in Kaner, Bach and Pettichord's "[Lessons Learned in Software Testing](http://www.amazon.com/dp/0471081124)"
+      * 2001: an avowed member of the "context-driven" school of software testing, Brian Marick participates in the Snowbird event leading to the publication of the Agile Manifesto; he has often described himself as the "token tester" of the group, bringing some awareness of practices within exploratory testing to the Agile community
+      * 2008: an emerging definition of exploratory testing is [given by Cem Kaner](http://kaner.com/?p=46), reflecting the continuing refinement of this approach to testing
+
+      The Agile movement has indubitably contributed to renewed interest from the developer community in the activities of testing, which were previously not seen as requiring a high level of skill. However, and somewhat paradoxically, it has also led to lessened respect for the value of skilled testers, as a result of shifting some test-related responsibilities to the developer role. In spite of this mixed influence, exploratory testing is still slowly gaining acceptance as part of a broader "Agile testing" skill set.
+---

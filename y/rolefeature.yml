@@ -1,0 +1,37 @@
+---
+title: Role-feature-reason
+type: Concept
+id: rolefeature
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      The "role-feature-reason" template is one of the most commonly recommended aids (often outgrown once past the novice stage) for teams and product owners starting to write [user stories](stories.html):
+
+      *  As a <role>
+      *  I want <feature>
+      *  So that <business objective>
+
+      An example:
+
+      *  As a bank customer
+      *  I want to withdraw money from an ATM
+      *  So that I'm not constrained by opening hours or lines at the teller's
+  -
+    type: syno
+    text: |
+      This is so prevalent that it is often simply called "user story format". Another name is the "Connextra format", in recognition of its origins (see below).
+  -
+    type: benefices
+    text: |
+      This template serves as "training wheels", reminding people in conversation about user stories to pay attention not just to *what* the desired software product is to do, but also *for whom* it does it and in pursuit of *what objectives*.
+  -
+    type: abus
+    text: |
+      Many novice teams fall into rote application of this or some other user story format. In fact, such formats are intended more as checklists. A more relaxed phrasing is often just as effective at communicating the overall intent of a user story. Since the greatest amount of detail about a user story will in any case arise in conversation between members of the team, often quite some time after initially writing a story card, spending much effort and time on complying with user story templates is without much point.
+  -
+    type: histo
+    text: |
+      * 2001: the "role-feature-reason" format for expressing user stories is invented at [Connextra in the UK](http://agilecoach.typepad.com/photos/connextra_user_story_2001/connextrastorycard.html)
+---

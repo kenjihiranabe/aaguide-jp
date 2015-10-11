@@ -1,0 +1,63 @@
+---
+title: Simple design
+type: Skill
+id: yagni
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      A team adopting the "simple design" practice bases its software design strategy on the following principles:
+
+      * design is an ongoing activity, which includes [refactoring](refactoring.html) and heuristics such as YAGNI
+      * design quality is evaluated based on the [rules of code simplicity](simplicity.html)
+      * all design elements such as ["design patterns"](http://fr.wikipedia.org/wiki/Patron_de_conception), plugin-based architectures, etc. are seen as having costs as well as benefits, and design costs must be justified;
+      * design decisions should be deferred until the "last responsible moment", so as to collect as much information as possible on the benefits of the chosen option before incurring its costs.
+  -
+    type: syno
+    text: |
+      * the practice is often reduced to the acronym YAGNI, for "You Aren't Gonna Need It"; this alludes to the usual counter-argument when a programmer tries to propose a costly design element based on its future benefits only ("We're going to need this Factory sooner or later, we might as well put it in now." "No, you aren't gonna need it.")
+      * another common term is "emergent design", emphasizing that good global design can result from consistently paying attention to the local qualities of code structure (by analogy with the processes studied by complexity theorists where purely local rules reliably give rise to consistent global properties)
+  -
+    type: abus
+    text: |
+      * the first (and fatal) mistake would be to downplay, for instance while staffing a team, the importance of significant design skill among the team, on the basis that "the design will emerge"; emergence is not magic and such skills are still crucial
+      * "simple design" only refers to the *software* design; it is misleading to invoke the simple design practice to justify decisions which have to do with a customer or product owner's requirements, or [usability considerations](http://leedumond.com/blog/a-really-bad-example-of-yagni/)
+      * the practice may be ill-advised when design practices are unlikely to be consistent, for instance if the development group is large and geographically distributed
+  -
+    type: signes
+    text: |
+      * the team maintains a "backlog" of design-specific tasks:
+        * design flaws requiring an explicit remediation through refactoring
+        * opportunities to simplify existing code
+        * potential design decisions deferred until more information comes in
+      * this backlog doesn't remain stagnant, or a mere list of complaints never addressed; the team sets aside enough of its productive time to regularly address the issues (or decide to live with them)
+      * the team regularly uses one or more of the ancillary practices which offer explicit opportunities to discuss design
+      * any impression that relatively straightforward functional changes require inordinate amounts of effort to implement is a *warning sign* that the practice may not be effectively used
+  -
+    type: benefices
+    text: |
+      * mitigates the common risk of overdesign ("gold plating")
+      * has been claimed to "flatten the cost of change curve" - i.e. to keep the software easy to change, because all design decisions are agnostic to which particular changes are expected
+  -
+    type: histo
+    text: |
+      The phrase YAGNI is associated with Extreme Programming from its earliest days.
+  -
+    type: progression
+    text: |
+      As an individual contributor:
+
+      * Beginner
+        * able to identify design elements which do not "pull their weight" (aren't beneficial enough to justify their complexity) and refactor to simplify the code structure
+      * Intermediate
+        * able to defer a design decision which may be required by a future requirement, and to identify the conditions under which the decision should be arbitrated 
+      * Advanced
+        * able to identify the right moment to introduce a far-reaching design decision, such as a plugins-based architecture in a desktop application
+
+      On the team level, the litmus test is whether the team is able to *share* design decisions, so that these are not based on individual decrees by the architect or lead programmer, but understood and carried out by all developers on the team.
+  -
+    type: resources
+    text: |
+      * [Is Design Dead?](http://www.martinfowler.com/articles/designDead.html), by Martin Fowler, remains one of the most perceptive discussions of how Agile teams approach design
+---

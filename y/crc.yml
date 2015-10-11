@@ -1,0 +1,21 @@
+---
+title: CRC cards
+type: Practice
+id: crc
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      CRC cards (for Class, Responsibilities, Collaborators) are an activity bridging the worlds of role-playing games and object-oriented design.
+      With the intent of rapidly sketching several different ideas for the design of some feature of an object-oriented systems, two or more team members write down on index cards the names of the most salient classes involved in the feature. The cards are then fleshed out with lists of the responsibilities of each class and the names of collaborators, i.e. other classes that they depend on to carry out their own responsibilities.
+      The next step is to validate - or invalidate as the case may be - each design idea by playing out a plausible scenario of the computation, each developer taking on the role of one or more classes.
+      The dialogue may go as follows, for instance: "Hello, Authentication Controller! I am a Web Request and I would like the contents of this resource." - "Very well, let me have your Credentials so I can give them, together with the name of the operation you are trying to perform, to our Access Control List; I will redirect you to one of our View components depending on the result, etc."
+  -
+    type: histo
+    text: |
+      * 1988: though the idea of reasoning through design issues by anthropomorphizing objects, as in the CRC technique, may seem quite natural, it has had some formidable detractors, for instance this artlce by Dijsktra "[On the cruelty of really teaching computing science](http://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)", which appears just as object-oriented is hitting the mainstream: "in computing science the anthropomorphic metaphor should be banned".
+      * 1989: Ward Cunningham describes the CRC technique in a joint [article](http://c2.com/doc/oopsla89/paper.html) with Kent Beck; the specific format used for the cards derives from an application designed by Cunningham to store design documentation as a [Hypercard stack](http://en.wikipedia.org/wiki/HyperCard).
+      * 1990: Rebecca Wirfs-Brock describes the conceptual aspects of CRC, which she invented while she and Cunningham were working at Tektronix, in her book "[Designing object-oriented software](http://www.amazon.com/dp/0136298257)".
+      * 1995: based on the [same inspiration](http://c2.com/cgi/wiki?WikiWikiHyperCard) as CRC cards, Ward Cunningham develops the concept of a Wiki, which will later become the ancestor of Wikipedia and undoubtedly one of the most influential ideas in the history of the World Wide Web.
+---

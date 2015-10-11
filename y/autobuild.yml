@@ -1,0 +1,42 @@
+---
+title: Automated build
+type: Practice
+id: autobuild
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      The "build" in developer parlance consists in the process which, starting from files and other assets under the developers' responsibility, results in a software product in its final or "consumable" form.
+      This may include compiling source files, their packaging into compressed formats (jar, zip, etc.) but also the production of installers, the creation or updating of database schema or data, and so on.
+      The build is "automated" to the extent that these steps are repeatable and require no direct human intervention, and can be performed at any time with no information other than what is stored in the source code control repository.
+  -
+    type: abus
+    text: |
+      * the practice of build automation should not be confused with [continuous integration](ci.html): the latter consists of *executing* the build process as frequently as possible (ideally whenever a code change is checked into the source code control repository) and *verifying* the correctness of the resulting product, in particular by [unit tests](unittest.html)
+      * in particular, continuous integration tools (CruiseControl, Hudson, etc.) are a category distinct from build automation tools (make, Ant, Maven, rake, etc.)
+      * being able to trigger some build operations from within a development environment (IDE) is usually not sufficient: as it is often the case that some build operations are not supported within the IDE, it must be possible to perform a build outside of the IDE
+      * the duration of a build process should be under ten minutes, including the execution of automated tests; beyond this order of magnitude it will generally be difficult for the team to achieve continuous integration
+  -
+    type: histo
+    text: |
+      * 1977: creation of the "make" tool for Unix systems - the principle of automating software builds is not a new idea
+      * 1990s: owing to the rise in popularity of RAD tools and IDEs, "make" type tools acquire a mixed reputation
+      * 2000s: even though the practice is far from new, nor limited to Agile teams, it is partly due to Agile practices that a revival of "make" type build automation takes place
+  -
+    type: signes
+    text: |
+      The best way to ascertain whether a team practices build automation is a surprise test: ask the team to provide an installable version of the product.
+      Measure how much time is necessary to obtain a release, then attempt to install or deploy to an off the shelf PC or environment - one which has not been previously set up by the development team. Any "surprise" during this process will suggest ways to improve the automated build process.
+  -
+    type: benefices
+    text: |
+      Build automation is a prerequisite to effective use of continuous integration. However, it brings benefits of its own:
+        * eliminating a source of variation, and thus of defects; a manual build process containing a large number of necessary steps offers as many opportunities to make mistakes
+        * requiring thorough documentation of assumptions about the target environment, and of dependencies on third party products
+  -
+    type: resources
+    text: |
+      * [Pragmatic Project Automation](http://www.amazon.fr/dp/0974514039), by Mike Clark (2004)
+---
+

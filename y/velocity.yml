@@ -1,0 +1,40 @@
+---
+title: Velocity
+type: Concept
+id: velocity
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      At the end of each iteration, the team adds up effort [estimates](nuts.html) associated with [user stories](stories.html) that were [completed](sashimi.html) during that iteration. This total is called velocity.
+      Knowing velocity, the team can compute (or revise) an estimate of how long the project will take to complete, based on the estimates associated with remaining user stories and assuming that velocity over the remaining iterations will remain approximately the same. This is generally an accurate prediction, even though rarely a precise one.
+  -
+    type: benefices
+    text: |
+      **Worked example:** an agile team has started work on an iteration, planning to complete stories A and B, estimated at 2 points each, and story C, estimated at 3 points. At the end of the iteration, stories A and B are 100% complete but C is only 80% complete.
+      Agile teams generally acknowledge only two levels of completion, 0% done or 100% done. Therefore, C is not counted toward velocity, and velocity as of that iteration is 4 points.
+      Suppose the user stories remaining represent a total of 40 points; the team's forecast of the remaining effort for the project is then 10 iterations.
+      Velocity is also used to limit the amount of work taken on in further iterations. In our example, the team would be well advised to plan for only 4 points' worth of stories in the next iteration. This doesn't necessarily mean it will complete only that much; in fact, completing story C in the next iteration might mean that the team's velocity will, on the contrary, be much higher.
+      Agile teams consider both kinds of events a warning sign: failing to bring a story to completion *or* seeing their velocity "see-sawing". The expected response is to seek a finer-grained decomposition of stories.
+      Velocity thus serves in a few different ways as a regulation mechanism.
+  -
+    type: abus
+    text: |
+      The above definition of velocity has a few further consequences:
+
+      * velocity is a *measurement*, made after the fact; though it can help plan ahead, it is not itself a budget or a forecast, and phrases such as "setting the velocity" reveal basic misunderstanding
+      * velocity is defined with respect to units of value (user stories) rather than with respect to units of effort (tasks)
+      * only the aggregate velocity of the team matters, and the phrase "individual velocity" is meaningless; a team is a mechanism intended to yield more than the sum of its individual parts
+      * there is no meaningful comparison of velocity *between* different teams, since such teams may have different approaches to estimation
+      * in order that velocity provide forecasts of the project's end date, it is necessary that all of the [user stories](stories.html) making up the project be estimated in a consistent manner; this can be achieved in one of two main ways:
+        * estimate the entire set of user stories before the project starts, or early on, such as in the first few iterations;
+        * use [relative estimation](relative.html) to ensure that estimates made later on are consistent with the ones made at the start of the project
+  -
+    type: histo
+    text: |
+        "Velocity" may be one of the best illustrations that concepts in Agile discourse do not appear full-blown but are worked out over a period of time. Early texts (such as [*Planning Extreme Programming*](http://www.amazon.fr/dp/0201710919)) were generally favorable to measuring "individual velocity", a practice which fell into disrepute over the next few years. "[Story points](nuts.html)" became the most widespread unit of estimation, displacing "ideal weeks". These changes, hashed out over mailing lists, Usenet and other fora, are sometimes difficult to pinpoint in time, and only clear in retrospect.
+
+        * 2000: the term "velocity" is a relatively late addition to Extreme Programming, [replacing](http://tech.groups.yahoo.com/group/extremeprogramming/message/365) a previous notion of "load factor" deemed overly [complex](http://c2.com/cgi/wiki?VelocityVsLoadFactor)
+        * 2002: the Scrum community [picks up](http://tech.groups.yahoo.com/group/scrumdevelopment/message/617) the practice of measuring "velocity"
+---

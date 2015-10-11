@@ -1,0 +1,35 @@
+---
+title: Unit testing
+type: Practice
+id: unittest
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      A unit test, as Agile teams understand the term, is a short program fragment written and maintained by the developers on the product team, which exercises some narrow part of the product's source code and checks the results.
+      The outcome of a unit test is binary: either "pass" if the program's behavior is consistent with the recorded expectations, or "fail" otherwise.
+      Developers will typically write a large number of unit tests (corresponding to a large number of program behaviors of interest), called a "test suite".
+      By common convention dating back at least to the [JUnit](http://junit.org/) family of tools, the color red (as in "getting a red bar") represents the failure of one or more tests. The color green ("a green bar") denotes successful execution of **all** unit tests associated with a program.
+  -
+    type: syno
+    text: |
+      The term Unit Testing has a different meaning in the industry, denoting an activity or phase in the classical Software Development Life Cycle, which distinguishes it from (for instance) System Testing. These terms do not necessarily imply anything about automation.
+      To avoid creating confusion, some Agile authors have therefore advocated using the term "developer testing", distinguishing it from "customer testing" and emphasizing the roles responsible for various types of testing.
+  -
+    type: abus
+    text: |
+      The shifts in terminology noted above have been the source of much confusion, and debate continues over what "testing" means in Agile teams.
+      Agile has led to a strong emphasis, among developers, on the use of automated checking procedures, and this has tended to marginalize other forms of testing, in particular that done by professional testers. Yet this work (which some Agile teams call "[exploratory](exploratory.html)" testing) is no less important in an Agile context.
+      Also keep in mind the distinction between the practice of automated unit testing, used by developers to check their own code, and the more structured and more constraining practice of [test-driven development](tdd.html).
+  -
+    type: benefices
+    text: |
+      * a team relying on automated unit tests can expect to reap some of the benefits of [test-driven development](tdd.html), in particular a decrease in defect rates
+  -
+    type: histo
+    text: |
+      * 1976: a series of articles by D. Panzl describing [tools with features closely resembling those of JUnit](http://portal.acm.org/citation.cfm?id=807721) attest to the long history of automated unit testing
+      * 1988-1990: the rise of event-driven GUI software and their specific testing challenges create an opportunity for "capture and replay" test automation tools provided by companies such as Segue or Mercury; this type of tool dominates the market for the next decade
+      * 1997: the testing tool JUnit is written by Beck and Gamma, inspired by Beck's earlier work on SUnit; its growing popularity over the next few years marks the end of the "capture and replay" era
+---

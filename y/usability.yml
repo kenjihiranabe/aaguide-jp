@@ -1,0 +1,21 @@
+---
+title: Usability testing
+type: Practice
+id: usability
+id: usability
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      Usability testing is a long-established, empirical and exploratory technique to answer questions such as "how would an end user respond to our software under realistic conditions?"
+      It consists of observing a representative end user interacting with the product, given a goal to reach but no specific instructions for using the product. (For instance, a goal for usability testing of a furniture retailer's Web site might be "You've just moved and need to do something about your two boxes of books; use the site to find a solution.")
+      Members of the team (possibly including usability specialists) observe the user's actions without intervening, recording what transpires (either informally, e.g. taking notes, or more comprehensively, using video, eye-tracking, screen captures or specialized software). Post-test analysis will focus on any difficulties encountered by the user, illustrating differences between the team's assumptions and actual behaviour.
+  -
+    type: histo
+    text: |
+      Usability testing is not strictly speaking an Agile practice, but has attracted much attention since 2008 and is representative of a trend to incorporate into Agile practice ideas from the "UX" community (user experience design).
+
+      * 1983: a wide range of "human factors testing" techniques foreshadowing usability testing, used at the Xerox PARC during the design of the Xerox Star, are [described](http://billverplank.com/bewley83.pdf) in the CHI conference proceedings
+      * 2008: the [Agile 2008 conference](http://agile2008.agilealliance.org/) features a stage dedicated to discussion of "User Experience" practices, such as usability testing, personas or paper prototyping
+---

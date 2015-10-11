@@ -1,0 +1,36 @@
+---
+title: Relative estimation
+type: Practice
+id: relative
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      Relative estimation is one of the several distinct flavors of [estimation](estimation.html) used in Agile teams, and consists of estimating tasks or user stories, not separately and in absolute units of time, but by comparison or by grouping of items of equivalent difficulty.
+  -
+    type: syno
+    text: |
+      Relative estimation is the basis of several closely related variants, such as "[silent grouping](http://systemagility.com/2011/05/22/using-silent-grouping-to-size-user-stories/)" or "[affinity estimating](http://www.gettingagile.com/2008/07/04/affinity-estimating-a-how-to/)".
+      Some teams use non-numerical scales as a way to "force" relative estimation and the names of the corresponding techniques reflect the scale: "tee-shirt sizing" is common, more exotic scales such as [fruit](http://www.aboriginemundi.com/index.php/2011/05/agile-techniques-fruit-estimation-poker/) or [dog](http://www.scrumology.net/2009/09/17/story-pointless/) points are also found, possibly more for novelty value than for any real gains in clarity.
+  -
+    type: benefices
+    text: |
+      * relative estimation, consistent with estimation in [units other than time](nuts.html), avoids some of the pitfalls associated with estimating in general: seeking unwarranted precision, confusing estimates for commitments
+      * there is a persistent claim in the Agile community that research in the psychology of planning shows that people fare better at relative than absolute estimation; in fact the grounding for this claim is at at best tentative
+  -
+    type: histo
+    text: |
+      * 2001: an [article](http://xp123.com/articles/agile-project-management-xp-style/) by Bill Wake points out two distinct flavors of estimation in use among Agile teams, relative and absolute estimation
+  -
+    type: pubs
+    text: |
+      The following references are cited in Mike Cohn's "Agile Estimating and Planning" in discussion of the benefits of relative estimation:
+
+      * In a 2001 article by Miranda, "[Improving Subjective Estimates Using Paired Comparisons](http://s3.amazonaws.com/publicationslist.org/data/gelog/ref-442/615.pdf)", a chart presents data suggesting that the described method of paired comparisons leads to more accurate judgments than "ad hoc estimates", however the article does not provide a reference to the study from which the data originates.
+      * A 1991 study by Vicinanza et al., "[Software-Effort Estimation: An Exploratory Study of Expert Performance](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.117.3125&rep=rep1&type=pdf)", is cited in support of the claim that experts are more accurate in relative estimation, vs. absolute. In fact the study showed that a sample of five managers, shown data from past projects one at a time and asked to estimate their cost, were more accurate than estimates derived from mechanical application of COCOMO.
+      * In a 1998 study by Lederer and Prasad, "[A Causal Model for Software Cost Estimating Error](http://dl.acm.org/citation.cfm?id=631221)", also cited on relative vs. absolute estimation, the words "relative" or "absolute" do not appear at all - the main finding, also on project-level rather than task-level estimates, is that "only one managerial practice - the use of the estimate in performance evaluations of software managers and professionals - presages greater accuracy".
+
+      Summarizing, these studies which have for a few years now given rise to the claim that "research shows that people are better at relative than absolute estimation" do not in fact seem to square with that claim.
+      This doesn't entail that relative estimation doesn't work - only that it is not proven. 
+---

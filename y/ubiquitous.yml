@@ -1,0 +1,24 @@
+---
+title: Ubiquitous language
+type: Practice
+id: ubiquitous
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      A design approach described in Eric Evans' ["Domain Driven Design"](http://www.amazon.com/dp/0321125215) (2003), which consists notably of striving to use the vocabulary of a given business domain, not only in discussions about the requirements for a software product, but in discussions of design as well and all the way into *the product's source code itself*.
+      (Evans' book details other complementary techniques, but the name "ubiquitous language" conveys the main intention.)
+  -
+    type: benefices
+    text: |
+      One of the problems many software development efforts face is the constant friction introduced by translation between two technical vocabularies, that of the business domain on the one hand and that of the developers on the other.
+      To some extent this duality is inevitable: developers must frame their work in terms of algorithms and computation, which generally have no direct equivalent in the business vocabulary.
+      However, the technical vocabulary often tends to "leak" out from reasonable boundaries and take over design conversations to the point where business experts start feeling alienated and disengage from crucial conversations.
+      Deliberately and explicitly adopting an "ubiquitous language" policy mitigates these difficulties and is therefore a success factor in Agile projects.
+  -
+    type: histo
+    text: |
+      * 1999: early on in the elaboration of Extreme Programming, the "System Metaphor" practice is proposed to address the issues of business-technical translation and cognitive friction, however the practice is poorly understood and fails to catch on
+      * 2003: the term "domain driven design" is coined by Eric Evans and described in a [book](http://www.amazon.com/dp/0321125215) of the same name, eventually emerging as a viable alternative to the "System Metaphor"
+---

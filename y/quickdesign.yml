@@ -1,0 +1,36 @@
+---
+title: Quick design session
+type: Practice
+id: quickdesign
+full: yes
+sections:
+  -
+    type: desc
+    text: |
+      When a team favors ["simple design"](yagni.html), developers usually handle local design decisions moment-to-moment, but are on the alert for design choices that may have far-reaching consequences.
+      When such a choice arises, two or more developers meet for a quick design session at the whiteboard, possibly using design aids such as [CRC cards](crc.html).
+      Some important guidelines for an effective design session are:
+
+      * considering several credible alternatives ("straw man" proposals don't count), ideally three or more, so that the final choice is based on considerations such as simplicity or conceptual integrity;
+      * assessing each alternative on the basis of a concrete, specific scenario; for instance envisioning how the [acceptance test](acceptance.html) associated with a given [user story](stories.html) would unfold under each possible design.
+  -
+    type: syno
+    text: |
+      Also known as "just in time design".
+  -
+    type: benefices
+    text: |
+      In an Agile project, the design activity is spread out throughout the effort's duration rather than being an explicit up-front phase.
+      However, *design itself* remains a necessary activity, and merely abolishing an early design phase is by no means sufficient to ensure that this activity is carried out.
+      Quick design sessions address the need for more strategic decisions, while [refactoring](refactoring.html) takes care of local design issues.
+  -
+    type: histo
+    text: |
+      * 2001: the "quick design session" is described in "[Extreme Programming Installed](http://www.amazon.com/dp/0201708426)"
+  -
+    type: pubs
+    text: |
+      Some research exists on the topic, mostly of an ethnographic nature, which tends to confirm Agile preference for quick, transient design and modeling, e.g.
+
+      * ["Thinking with Erasable Ink: Ad-hoc Whiteboard Use in Collaborative Design"](http://wendyju.com/publications/thinking_erasable_DISTRO.doc.pdf) by Ju, Neeley, Winograd and Leifer
+---
