@@ -1,0 +1,6 @@
+Acceptance testing
+
+An acceptance test is a formal description of the behaviour of a software product, generally expressed as an example or a usage scenario.
+A number of different notations and approaches have been proposed for such examples or scenarios; in many cases the aim is that it should be possible to automate the execution of such tests by a software tool, either ad-hoc to the development team or off the shelf.
+Similarly to a [unit test](unittest.html), an acceptance tests is generally understood to have a binary result, pass or fail; a failure suggests (though it does not prove) the presence of a defect in the product.
+For many Agile teams acceptance tests are the main form of functional specification; sometimes the only formal expression of business requirements. In other cases, they merely complement a specification document resulting from a less specifically Agile technique or formalism, such as uses cases or more narrative documents.

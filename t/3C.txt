@@ -1,0 +1,7 @@
+Three C's
+
+"Card, Conversation, Confirmation"; this formula (from [Ron Jeffries](http://xprogramming.com/articles/expcardconversationconfirmation/)) captures the components of a User Story:
+
+*  a *Card* (or often a Post-It note), a physical token giving tangible and durable form to what would otherwise only be an abstraction:
+*  a *conversation* taking place at different time and places during a project between the various people concerned by a given feature of a software product: customers, users, developers, testers; this conversation is largely verbal but most often supplemented by documentation;
+*  the *confirmation*, finally, the more formal the better, that the objectives the conversation revolved around have been reached.

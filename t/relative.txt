@@ -1,0 +1,3 @@
+Relative estimation
+
+Relative estimation is one of the several distinct flavors of [estimation](estimation.html) used in Agile teams, and consists of estimating tasks or user stories, not separately and in absolute units of time, but by comparison or by grouping of items of equivalent difficulty.

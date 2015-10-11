@@ -1,0 +1,7 @@
+Three questions
+
+The [daily meeting](daily.html) is structured around some variant of the following three questions:
+
+* What have you completed since the last meeting?
+* What do you plan to complete by the next meeting?
+* What is getting in your way?

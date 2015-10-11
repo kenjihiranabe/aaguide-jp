@@ -1,0 +1,9 @@
+Backlog
+
+A backlog is a list of features or technical tasks which the team maintains and which, at a given moment, are known to be necessary and sufficient to complete a project or a release:
+
+  * if an item on the backlog does not contribute to the project's goal, it should be removed;
+  * on the other hand, if at any time a task or feature becomes known that is considered necessary to the project, it should be added to the backlog.
+
+These "necessary and sufficient" properties are assessed relative to the team's state of knowledge at a particular moment; the backlog is expected to change throughout the project's duration as the team gains knowledge.
+The backlog is the primary point of entry for knowledge about requirements, and the single authoritative source defining the work to be done.

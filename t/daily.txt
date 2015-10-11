@@ -1,0 +1,4 @@
+Daily meeting
+
+Each day at the same time, the team meets so as to bring everyone up to date on the information that is vital for coordination: each team members briefly describes any *completed* contributions and any obstacles that stand in their way. Usually, Scrum's [Three Questions](threeqs.html)  are used to structure discussion. The meeting is normally held in front of the [task board](taskboard.html).
+This meeting is normally [timeboxed](timebox.html) to a maximum duration of 15 minutes, though this may need adjusting for larger teams. To keep the meeting short, any topic that starts a discussion is cut short, added to a "parking lot" list, and discussed in greater depth after the meeting, between the people affected by the issue.

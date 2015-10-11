@@ -1,0 +1,4 @@
+ATDD
+
+Analogous to [test-driven development](tdd.html), this practice consists in the use of [automated acceptance tests](acceptance.html) with the additional constraint that these tests be written in advance of implementing the corresponding functionality.
+In the ideal situation (though rarely attained in practice), the product owner, customer or domain expert is able to specify new functionality by writing new acceptance tests or test cases, without needing to consult developers.

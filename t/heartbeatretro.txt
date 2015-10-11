@@ -1,0 +1,4 @@
+Heartbeat retrospective
+
+The team meets regularly, usually adhering to the rythm of its iterations, to explicitly reflect on the most significant events to have occurred since the previous such meeting, and take decisions aiming at remediation or improvement.
+This is often a [facilitated](facilitation.html) meeting following a set format. Several distinct formats have been described, depending in large part on the time set aside for the meeting, typically between one and three hours. One important reason to use a facilitated format is to give all team members an opportunity to speak up.

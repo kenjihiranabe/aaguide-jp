@@ -1,0 +1,6 @@
+Continous integration
+
+Teams practicing continuous [integration](integration.html) seek two objectives:
+* minimize the duration and effort required by *each* integration episode
+* be able to deliver *at any moment* a product version suitable for release
+In pratice, this dual objective requires an integration prodecure which is **reproducible** at the very least, and in fact largely **automated**. This is achieved through version control tools, team policies and conventions, and tools specifically designed to help achieve continuous integration.

@@ -1,0 +1,6 @@
+Planning poker
+
+A playful approach to [estimation](estimation.html), used by many Agile teams.
+The team meets in presence of the customer or Product Owner. Around the table, each team member holds a set of playing cards, bearing numerical values appropriate for [points](nuts.html) estimation of a [user story](stories.html).
+The Product Owner briefly states the intent and value of a story. Each member of the development team silently picks an estimate and readies the corresponding card, face down. When everyone has taken their pick, the cards are turned face up and the estimates are read aloud.
+The two (or more) team members who gave the high and low estimate justify their reasoning. After brief discussion, the team may seek convergence toward a consensus estimate by playing one or more further rounds.

@@ -1,0 +1,4 @@
+Collective ownership
+
+Teams typically adopt conventions governing who is allowed to modify some source code that was originally written by another, often referred to as "ownership". These conventions can written and explicit, merely oral, or entirely implicit. Many [different modes exist](http://xp123.com/xplor/xp0002e/index.shtml); commonly only one developer "owns" each code file.
+Collective code ownership, as the name suggests, is the explicit convention that *every* team member is not only allowed, but in fact has a positive duty, to make changes to *any* code file as necessary: either to complete a development task, to repair a defect, or even to improve the code's overall structure.

@@ -1,0 +1,3 @@
+Definition of Ready
+
+By analogy with the ["Definition of Done"](sashimi.html), the team makes explicit and visible the criteria (generally based on the [INVEST](invest.html) matrix) that a user story must meet prior to being accepted into the upcoming iteration.

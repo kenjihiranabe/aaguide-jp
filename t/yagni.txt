@@ -1,0 +1,8 @@
+Simple design
+
+A team adopting the "simple design" practice bases its software design strategy on the following principles:
+
+* design is an ongoing activity, which includes [refactoring](refactoring.html) and heuristics such as YAGNI
+* design quality is evaluated based on the [rules of code simplicity](simplicity.html)
+* all design elements such as ["design patterns"](http://fr.wikipedia.org/wiki/Patron_de_conception), plugin-based architectures, etc. are seen as having costs as well as benefits, and design costs must be justified;
+* design decisions should be deferred until the "last responsible moment", so as to collect as much information as possible on the benefits of the chosen option before incurring its costs.

@@ -1,0 +1,4 @@
+Facilitation
+
+A facilitator is a person who chooses or is given the explicit role of conducting a meeting. This role usually entails that the facilitator will take little part in the discussions on the meeting's topic, but will focus primarily on creating the conditions for effective group processes, in the pursuit of the objectives for which the meeting was convened.
+Facilitation is a specialization of its own, the details of which go well beyond Agile practices; a good introduction is the material provided by the [International Association of Facilitators](http://www.iaf-world.org/).

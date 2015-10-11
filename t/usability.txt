@@ -1,0 +1,5 @@
+Usability testing
+
+Usability testing is a long-established, empirical and exploratory technique to answer questions such as "how would an end user respond to our software under realistic conditions?"
+It consists of observing a representative end user interacting with the product, given a goal to reach but no specific instructions for using the product. (For instance, a goal for usability testing of a furniture retailer's Web site might be "You've just moved and need to do something about your two boxes of books; use the site to find a solution.")
+Members of the team (possibly including usability specialists) observe the user's actions without intervening, recording what transpires (either informally, e.g. taking notes, or more comprehensively, using video, eye-tracking, screen captures or specialized software). Post-test analysis will focus on any difficulties encountered by the user, illustrating differences between the team's assumptions and actual behaviour.

@@ -1,0 +1,5 @@
+Points (estimates in)
+
+Agile teams generally prefer to express [estimates](estimation.html) in units other than the time-honored "man-day" or "man-hour". Possibly the most widespread unit is "story points".
+One of the chief reasons is the use of [velocity](velocity.html) for planning purposes. "Velocity", in the sense Agile teams use the term, has no preferred unit of measurement, it is a dimensionless quantity. Velocity allows teams to compute the expected remaining duration of the project, as a number of [iterations](iteration.html), each iteration delivering some amount of features.
+Another important reason has to do with the social and psychological aspects of estimation: using units such as story points, emphasizing relative difficulty over absolute duration, relieves some of the tensions that often arise between developers and managers around estimation: for instance, asking developers for an estimate then holding them accountable as if it had been a firm commitment.

@@ -1,0 +1,13 @@
+Role-feature-reason
+
+The "role-feature-reason" template is one of the most commonly recommended aids (often outgrown once past the novice stage) for teams and product owners starting to write [user stories](stories.html):
+
+*  As a <role>
+*  I want <feature>
+*  So that <business objective>
+
+An example:
+
+*  As a bank customer
+*  I want to withdraw money from an ATM
+*  So that I'm not constrained by opening hours or lines at the teller's

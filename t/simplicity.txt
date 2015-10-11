@@ -1,0 +1,8 @@
+Rules of simplicity
+
+A set of criteria, in priority order, proposed by Kent Beck to judge whether some source code is "simple enough":
+
+*  the code is verified by automated [tests](unittest.html), and all such tests pass
+*  the code contains no [duplication](http://en.wikipedia.org/wiki/Duplicate_code)
+*  the code expresses separately each distinct idea or responsibility
+*  the code is composed of the minimum number of components (classes, methods, lines) compatible with the first three criteria

@@ -1,0 +1,5 @@
+Continuous deployment
+
+Continuous deployment can be thought of as an extension of [continuous integration](ci.html), aiming at minimizing [lead time](leadtime.html), the time elapsed between development writing one new line of code and this new code being used by live users, in production.
+To achieve continuous deployment, the team relies on infrastructure that automates and instruments the various steps leading up to deployment, so that after each integration successfully meeting these release criteria, the live application is updated with new code.
+Instrumentation is needed to ensure that any suggestion of lowered quality results in aborting the deployment process, or rolling back the new features, and triggers human intervention.

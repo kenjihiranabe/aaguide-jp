@@ -1,0 +1,5 @@
+Task board
+
+In its most basic form, a task board can be drawn on a whiteboard or even a section of wall. Using electrical tape or a dry erase pen, the board is divided into three columns labeled "To Do", "In Progress" and "Done". Sticky notes or index cards, one for each task the team is working on, are placed in the columns reflecting the current status of the tasks.
+Many [variants](http://agiletools.wordpress.com/2007/11/24/task-boards-telling-a-compelling-agile-story/) exist. Different layouts can be used, for instance by rows instead of columns (although the latter is much more common). The number and headings of the columns can vary, further columns are often used for instance to represent an activity, such as "In Test".
+The task board is updated frequently, most commonly during the [daily meeting](daily.html), based on the team's progress since the last update. The board is commonly "reset" at the beginning of each [iteration](iteration.html) to reflect the iteration plan.

@@ -1,0 +1,11 @@
+Kanban board
+
+In the context of Agile teams where the "Kanban method" of continuous improvement (or some of its concepts) has been followed, the following adaptations are often seen:
+
+* such teams deemphasize the use of [iterations](iteration.html), [effort estimates](estimation.html) and [velocity](velocity.html) as a primary measure of progress;
+* they rely on measures of [lead time](leadtime.html) or cycle time instead of velocity;
+* and in the most visible alteration, they replace the [task board](taskboard.html) with a "kanban board":
+  * unlike a task board, the kanban board is not "reset" at the beginning of each iteration
+  * its columns represent the different processing states of a "unit of value", which is generally (but not necessarily) equated with a [user story](stories.html)
+  * in addition, each column may have associated with it a "WIP limit" (for "work in process" or "work in progress"): if a given state, for instance "in manual testing", has a WIP limit of, say, 2, then the team *may not* start testing a third user story if two are already being worked on
+  * whenever such a situation arises, the priority is to clear current work-in-process, and team members will "[swarm](http://blog.crisp.se/2009/06/26/henrikkniberg/1246053060000)" to help those working on the activity that's blocking flow

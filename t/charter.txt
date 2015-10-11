@@ -1,0 +1,3 @@
+Project chartering
+
+The team develops and maintains a high-level summary of the project's key success factors, synthetic enough that it can be displayed on one wall of the [team room](teamroom.html) as a flipchart-sized sheet of paper. This description includes at least the major objectives of the project, scope boundaries, and reciprocal agreements between the project's implementation team and external stakeholders.

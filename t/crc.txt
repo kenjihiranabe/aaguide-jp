@@ -1,0 +1,6 @@
+CRC cards
+
+CRC cards (for Class, Responsibilities, Collaborators) are an activity bridging the worlds of role-playing games and object-oriented design.
+With the intent of rapidly sketching several different ideas for the design of some feature of an object-oriented systems, two or more team members write down on index cards the names of the most salient classes involved in the feature. The cards are then fleshed out with lists of the responsibilities of each class and the names of collaborators, i.e. other classes that they depend on to carry out their own responsibilities.
+The next step is to validate - or invalidate as the case may be - each design idea by playing out a plausible scenario of the computation, each developer taking on the role of one or more classes.
+The dialogue may go as follows, for instance: "Hello, Authentication Controller! I am a Web Request and I would like the contents of this resource." - "Very well, let me have your Credentials so I can give them, together with the name of the operation you are trying to perform, to our Access Control List; I will redirect you to one of our View components depending on the result, etc."

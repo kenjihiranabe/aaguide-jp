@@ -1,0 +1,6 @@
+Personas
+
+When the project calls for it - for instance when user experience is a major factor in project outcomes - the team crafts detailed, synthetic biographies of fictitious users of the future product: these are called "personas". (In Alan Cooper's concise terms: "make up pretend users and design for them".)
+ Personas are concise and visual; a common layout is a single page including a photograph (from stock shots or magazine cutouts), a name and social or professional details: "Amanda Jones, 34, press officer at a major food retailing organization, etc."
+ As a software product is generally intended for use by more than one category of person, with potentially different preferences and expectations of the product, the team creates one persona for each category it deems important to serve well.
+ The biographies are displayed in the [team room](teamroom.html).

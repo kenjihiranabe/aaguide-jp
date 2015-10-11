@@ -1,0 +1,10 @@
+Exploratory testing
+
+Exploratory testing is, more than strictly speaking a "practice", a style or approach to testing software which is often contrasted to "scripted testing", and characterized by the following aspects among others:
+
+* it emphasizes the tester's autonomy, skill and creativity, much as other Agile practices emphasize these qualities in developers;
+* it recommends performing various test-related activities (such as test design, test execution, and interpretation of results) in an interleaved manner, throughout the project, rather than in a fixed sequence and at a particular "phase";
+* it emphasizes the mutually supportive nature of these techniques, and the need for a plurality of testing approaches rather than a formal "test plan"
+
+Agile teams tend to shift and redraw the role boundaries between "developer" and "tester", mostly as a result of the heavy use by developers of automated [unit](unittest.html) and [functional](acceptance.html) tests - in one sense an extreme form of scripted testing.
+These activities are not sufficient to ensure quality, and Agile teams can find valuable assets in team members who have well-developed testing skills (whether or not their job description includes the term "tester"). These skills will be deployed more effectively in the exploratory style on an Agile team, as this style is more consistent with an Agile approach than the "scripted testing" style.

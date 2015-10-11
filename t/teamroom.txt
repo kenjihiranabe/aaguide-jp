@@ -1,0 +1,4 @@
+Team room
+
+The team (ideally the [whole team](team.html), including the product owner or domain expert) has the use of a dedicated space for the duration of the project, set apart from other groups' activities.
+This space is furnished with the various amenities that the team may need: workstations (adapted for [pairing](pairing.html) if the team uses that practice), whiteboards and flipcharts, wall space to display [task boards](taskboard.html), project plans or other [charts](radiator.html), and so on.

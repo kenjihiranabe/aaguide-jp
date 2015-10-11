@@ -1,0 +1,4 @@
+Milestone retrospective
+
+Once a project has been underway for some time, or at the end of the project (in that case, especially when the team is likely to work together again), all of the team's permanent members (not just the developers) invests from one to three days in a detailed analysis of the project's significant events.
+Even more than an [iteration retrospective](heartbeatretro.html), this should be a [facilitated](facilitation.html) meeting, adhering to a structured format which varies according to objectives but will be specified in advance.

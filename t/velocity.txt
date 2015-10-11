@@ -1,0 +1,4 @@
+Velocity
+
+At the end of each iteration, the team adds up effort [estimates](nuts.html) associated with [user stories](stories.html) that were [completed](sashimi.html) during that iteration. This total is called velocity.
+Knowing velocity, the team can compute (or revise) an estimate of how long the project will take to complete, based on the estimates associated with remaining user stories and assuming that velocity over the remaining iterations will remain approximately the same. This is generally an accurate prediction, even though rarely a precise one.

@@ -1,0 +1,5 @@
+Timebox
+
+A timebox is a previously agreed period of time during which a person or a team works steadily towards completion of some goal. Rather than allow work to continue until the goal is reached, and evaluating the time taken, the timebox approach consists of stopping work when the time limit is reached and evaluating what was accomplished.
+Timeboxes can be used at varying time scales. The ["pomodoro technique"](http://www.pomodorotechnique.com/) organizes personal work around 25-minute timeboxes. In a completely different domain ["speed dating"](http://en.wikipedia.org/wiki/Speed_dating) is known for its seven-minute timeboxes. Time scales ranging from one day to several months have been used.
+The critical rule of timeboxed work is that work should stop at the end of the timebox, and review progress: has the goal been met, or partially met if it included multiple tasks?

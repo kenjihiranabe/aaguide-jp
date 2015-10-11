@@ -1,0 +1,5 @@
+Automated build
+
+The "build" in developer parlance consists in the process which, starting from files and other assets under the developers' responsibility, results in a software product in its final or "consumable" form.
+This may include compiling source files, their packaging into compressed formats (jar, zip, etc.) but also the production of installers, the creation or updating of database schema or data, and so on.
+The build is "automated" to the extent that these steps are repeatable and require no direct human intervention, and can be performed at any time with no information other than what is stored in the source code control repository.

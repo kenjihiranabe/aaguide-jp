@@ -1,0 +1,4 @@
+Ubiquitous language
+
+A design approach described in Eric Evans' ["Domain Driven Design"](http://www.amazon.com/dp/0321125215) (2003), which consists notably of striving to use the vocabulary of a given business domain, not only in discussions about the requirements for a software product, but in discussions of design as well and all the way into *the product's source code itself*.
+(Evans' book details other complementary techniques, but the name "ubiquitous language" conveys the main intention.)

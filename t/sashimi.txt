@@ -1,0 +1,3 @@
+Definition of Done
+
+The team agrees on, and displays prominently somewhere in the team room, a list of criteria which must be met before a product increment (often a [user story](stories.html)) is considered "done". Failure to meet these criteria at the end of a [sprint](iteration.html) normally implies that the work should not be counted toward that sprint's [velocity](velocity.html).

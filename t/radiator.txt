@@ -1,0 +1,3 @@
+Information radiators
+
+"Information radiator" is the generic term for any of [a number](http://xprogramming.com/xpmag/BigVisibleCharts) of handwritten, drawn, printed or electronic displays which a team places in a highly visible location, so that all team members as well as passers-by can see the latest information at a glance: count of automated tests, velocity, incident reports, continuous integration status, and so on.

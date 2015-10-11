@@ -1,0 +1,10 @@
+Backlog grooming
+
+The team (or part of the team including the product owner) meet regularly to "groom the product [backlog](backlog.html)", in a formal or informal meeting which can lead to any of the following:
+
+* removing [user stories](stories.html) that no longer appear relevant
+* creating new user stories in response to newly discovered needs
+* re-assessing the relative priority of stories
+* assigning estimates to stories which have yet to receive one
+* correcting estimates in light of newly discovered information
+* [splitting](split.html) user stories which are high priority but too coarse grained to fit in an upcoming [iteration](iteration.html)

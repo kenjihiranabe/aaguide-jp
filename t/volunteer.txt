@@ -1,0 +1,5 @@
+Sign up for tasks
+
+Members of an Agile development team normally choose which tasks to work on, rather than being assigned work by a manager.
+Their choice may be negotiated in discussion with other team members. These discussions typically take place while standing before the [task board](taskboard.html), often during the [daily meeting](daily.html).
+Signing up for a task is usually represented by an annotation on the [index card or sticky note](3C.html) that stands for the task in question. Some teams use smaller stickies, photo portraits or "avatars" temporarily attached to the task.

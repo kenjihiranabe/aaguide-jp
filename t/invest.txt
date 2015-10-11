@@ -1,0 +1,11 @@
+INVEST
+
+The acronym [INVEST](http://xp123.com/articles/invest-in-good-stories-and-smart-tasks/) helps to remember a widely accepted set of criteria, or checklist, to assess the quality of a [user story](story.html). If the story fails to meet one of these criteria, the team may want to reword it, or even consider a rewrite (which often translates into physically tearing up the old story card and writing a new one).
+A good user story should be:
+
+*  **I**ndependent (of all others)
+*  **N**egotiable (not a specific contract for features)
+*  **V**aluable (or [vertical](incremental.html))
+*  **E**stimable (to a good approximation)
+*  **S**mall (so as to fit within an iteration)
+*  **T**estable (in principle, even if there isn't a test for it yet)
