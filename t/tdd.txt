@@ -8,3 +8,15 @@ It can be succinctly described by the following set of rules:
 * write **just enough** code, the simplest possible, to make the test pass
 * **refactor** the code until it conforms to the [simplicity criteria](simplicity.html)
 * repeat, **accumulating** unit tests over time
+
+TDD（テスト駆動開発）
+TDD（テスト駆動開発）はプログラミング技法に関連し、コーディング、テスト（単体テストのコーディング）、デザイン（リファクタリング）の３つの活動に厳密にかつ密接に関連している
+TDDは以下の一連のルールにより簡潔に解説される
+* そのプログラムの「単一の」観点をカバーする単体テストを書くこと
+* テストを失敗させ、そのプログラムに必要な機能が欠けていることを発見すること
+* 「必要十分な」しかし可能な限りシンプルなテストコードを書き、テストをパスさせよ
+* 「単純さの指針」に到達するまでコードをリファクタリングせよ
+* なんども繰り返し、単体テストを蓄積せよ
+
+１行要約
+検討中
