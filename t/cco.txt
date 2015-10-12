@@ -2,3 +2,15 @@ Collective ownership
 
 Teams typically adopt conventions governing who is allowed to modify some source code that was originally written by another, often referred to as "ownership". These conventions can written and explicit, merely oral, or entirely implicit. Many [different modes exist](http://xp123.com/xplor/xp0002e/index.shtml); commonly only one developer "owns" each code file.
 Collective code ownership, as the name suggests, is the explicit convention that *every* team member is not only allowed, but in fact has a positive duty, to make changes to *any* code file as necessary: either to complete a development task, to repair a defect, or even to improve the code's overall structure.
+
+コードの共同所有
+
+一般的なチームでは、各ソースコードの改修を誰に許可するかをチーム内で取り決めます。
+その規則は文書として明記されていたり、単に口頭での合意であったり、もしくは完全に暗黙的であったりです。
+様々な形態はあるものの、通常は各ソースコードに対してはただ一人の開発者のみがコードを「所有」します。
+一方「コードの共同所有」の考え方においては、「チームメンバ全員」がいかなるコードファイルに対しても必要に応じて未完了のコーディングの完了、
+欠陥の修正、時にはコードの全体構成の改善さえを行うことを許可するだけでなくむしろ積極的に推奨します。
+
+１行要約
+「チームメンバ全員」がいかなるコードファイルに対しても必要に応じて修正することを許可するだけでなくむしろ積極的に推奨します。
+
