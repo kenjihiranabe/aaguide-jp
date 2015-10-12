@@ -1,0 +1,58 @@
+Team                    ----- Fundamentals
+Iterative development
+Incremental development
+Version control
+Sustainable Pace        ----- Extreme Programming
+Pair Programming
+Sign up
+Daily meeting
+Iterations
+Velocity
+Frequent releases
+User stories
+Collective Ownership
+Continuous Integration
+Simple design
+Refactoring
+TDD
+Project charters        ----- Teams
+Scrum of Scrums
+Niko-niko
+Team room
+Heartbeat retrospective
+Facilitation
+Lead Time               ----- Lean
+Kanban board
+Definition of Done
+Timebox                 ----- Scrum
+Three Questions
+Burndown chart
+Task board
+Definition of Ready
+Point estimates
+Relative estimation
+Planning poker
+Backlog
+Backlog grooming
+INVEST                  ----- Product management
+3 C's
+Story splitting
+Story mapping
+Personas
+Automated build         ----- Devops
+Continuous deployment
+CRC cards               ----- Design
+Quick design session
+Rules of simplicity
+Ubiquitous language
+Usability testing       ----- Testing
+Exploratory testing
+Unit tests
+Mock objects
+Acceptance tests
+ATDD
+BDD
+Given-When-Then
+Role-Feature
+
+* 乗換駅（路線の重複している駅）は含んでいない。よって、1プラクティス1回のみ登場。
