@@ -2,3 +2,5 @@ Estimation
 
 In software development, an "estimate", in the usual sense, consists of a quantified evaluation of the effort necessary to carry out a given development task; this is most often expressed in terms of duration.
 The intent is to agregate many such individual estimates, so as to obtain an indication of the overall duration, effort or cost of a software project.
+
+現在のメトロマップにはこの項目はないように思われる。よって翻訳不要？
