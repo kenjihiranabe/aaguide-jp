@@ -23,7 +23,7 @@ Heartbeat retrospective
 Facilitation
 Lead Time               ----- Lean
 Kanban board
-Definition of Done
+Definition of Done -> なぜかファイル名が sashimi.txt になっています。。。
 Timebox                 ----- Scrum
 Three Questions
 Burndown chart
