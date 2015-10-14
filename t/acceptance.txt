@@ -4,3 +4,15 @@ An acceptance test is a formal description of the behaviour of a software produc
 A number of different notations and approaches have been proposed for such examples or scenarios; in many cases the aim is that it should be possible to automate the execution of such tests by a software tool, either ad-hoc to the development team or off the shelf.
 Similarly to a [unit test](unittest.html), an acceptance tests is generally understood to have a binary result, pass or fail; a failure suggests (though it does not prove) the presence of a defect in the product.
 For many Agile teams acceptance tests are the main form of functional specification; sometimes the only formal expression of business requirements. In other cases, they merely complement a specification document resulting from a less specifically Agile technique or formalism, such as uses cases or more narrative documents.
+
+受入テスト
+
+受入テストはソフトウェア製品の振る舞いを公式に説明できるもので、一般的には使用例や利用シナリオが用いられる。
+使用例や利用シナリオの作成にあたって様々な表記法やアプローチが提唱されてきており、多くの場合はそれらはソフトウェアツールによって自動実行されることを目的とし、開発チームにとってはその場限りのものであるか、すぐに調達可能なものである。
+
+「単体テスト」に似て、受入テストは成功か失敗かのどちらか一つの結果を返すと解釈されているが、テスト失敗は製品に欠陥が存在することを示唆する（証明ではなく）。
+多くのアジャイルチームにとって受入テストは機能詳細の主要様式であり、それが唯一の公式なビジネス要件の場合もある。
+または、それらはただ単に、あまり詳細ではないアジャイル開発技術または例えばユースケースやより物語調の設計書のような形式主義を用いた結果作成された詳細設計書を補完する場合もある。
+
+１行要約
+作成中
