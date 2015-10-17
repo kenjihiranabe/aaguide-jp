@@ -2,3 +2,8 @@ Ubiquitous language
 
 A design approach described in Eric Evans' ["Domain Driven Design"](http://www.amazon.com/dp/0321125215) (2003), which consists notably of striving to use the vocabulary of a given business domain, not only in discussions about the requirements for a software product, but in discussions of design as well and all the way into *the product's source code itself*.
 (Evans' book details other complementary techniques, but the name "ubiquitous language" conveys the main intention.)
+
+ユビキタス言語
+
+エリック・エヴァンスの[ドメイン駆動設計](http://www.amazon.com/dp/0321125215) (2003)に記載されている設計手法であり、とりわけ、ソフトウェア製品の要件について話す時だけではなく、設計時にも、さらにはソースコード内においても、ビジネス領域の語彙を使おうとする考え方である。
+（エヴァンスの本では、他にも補完的な手法を詳述しているが、「ユビキタス言語」という用語でその根幹の意図を伝えている。）
