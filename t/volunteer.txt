@@ -3,3 +3,14 @@ Sign up for tasks
 Members of an Agile development team normally choose which tasks to work on, rather than being assigned work by a manager.
 Their choice may be negotiated in discussion with other team members. These discussions typically take place while standing before the [task board](taskboard.html), often during the [daily meeting](daily.html).
 Signing up for a task is usually represented by an annotation on the [index card or sticky note](3C.html) that stands for the task in question. Some teams use smaller stickies, photo portraits or "avatars" temporarily attached to the task.
+
+サインアップ
+
+アジャイルチームのメンバーは、自分がやるタスクを、マネージャーに割り当てられるのではなく、自分で選択する。
+どのタスクを選ぶかを、チームの他のメンバーと相談しながら調整することができる。相談は、一般的に、タスクボードの前で立ってやる。
+誰がサインアップしたのか分かるように、インデックスカードや付箋紙にメモを残す。
+
+    TODO: stands for.. の訳が必要
+
+
+メモを残す代わりに、小さな付箋紙や、写真、"アバター(自分の分身となるキャラクター)" をタスクに貼り付けるチームもいる。
