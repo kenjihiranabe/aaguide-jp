@@ -7,7 +7,9 @@ The dialogue may go as follows, for instance: "Hello, Authentication Controller!
 
 CRCカード
 
-CRC（クラス・責務・コラボレーター）カードは、ロールプレイング・ゲームの感覚をオブジェクト指向設計に採り入れたものである。オブジェクト指向システムにおいて設計のアイデアを素早く描き出すために行うもので、まずカードに、ある機能に関係しそうなクラスの名前を書き出す。さらにカードに各クラスの責務とコラボレーター（責務を果たすために相互作用する必要がある他クラス）を列挙し、これによって他クラスとの関係が分かる。
+CRC（クラス・責務・コラボレーター）カードは、ロールプレイング・ゲームの感覚をオブジェクト指向設計に採り入れたものである。オブジェクト指向システムにおいて設計のアイデアを素早く描き出すために行うもので、まずカードに、ある機能に関係しそうなクラスの名前を書き出す。さらにそのカードに各クラスの責務とコラボレーター（責務を果たすために相互作用する必要がある他クラス）を列挙し、これによって他クラスとの関係が分かる。
 次に、開発者それぞれが各クラスの役割を"演じ"て、特定のシステム機能が実現できるかどうかを検証する。
 
-The dialogue may go as follows, for instance: "Hello, Authentication Controller! I am a Web Request and I would like the contents of this resource." - "Very well, let me have your Credentials so I can give them, together with the name of the operation you are trying to perform, to our Access Control List; I will redirect you to one of our View components depending on the result, etc."
+そのセリフは例えば以下のようになる：
+「やあ、Authentication Controller君、私はWeb Requestなんだがこの情報が欲しいんだ」
+「じゃあ君の認証情報とアクセスしたい対象の名前ちょうだい。それでアクセス制御リストに確認するから。その結果でViewコンポーネントのどれかにリダイレクトするね」
