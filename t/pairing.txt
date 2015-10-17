@@ -1,3 +1,9 @@
 Pair programming
 
 Pair programming consists of two programmers sharing a single workstation (one screen, keyboard and mouse among the pair). The programmer at the keyboard is usually called the "driver", the other, also actively involved in the programming task but focusing more on overall direction is the "navigator"; it is expected that the programmers swap roles every few minutes or so.
+
+ペアプログラミング
+
+ペアプログラミングは1つのPCを2人で共有する(ペアにつき1つの画面と、キーボード、マウス)。
+キーボードを操作するプログラマーを通常 "ドライバー"、もう一方の人、積極的にプログラミングに関わりつつも、より全体的な方向性に焦点を当てる人を "ナビゲーター" と呼ぶ。
+ペアプログラミングでは、数分おきに役割を交代することが期待されている。
