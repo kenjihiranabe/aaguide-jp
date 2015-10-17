@@ -6,3 +6,12 @@ Some important guidelines for an effective design session are:
 
 * considering several credible alternatives ("straw man" proposals don't count), ideally three or more, so that the final choice is based on considerations such as simplicity or conceptual integrity;
 * assessing each alternative on the basis of a concrete, specific scenario; for instance envisioning how the [acceptance test](acceptance.html) associated with a given [user story](stories.html) would unfold under each possible design.
+
+素早い設計セッション
+
+チームが["simple design"](yagni.html)を支持する場合、通常、開発者はその都度個別に設計判断を行うが、広範囲に影響する可能性のある設計判断には注意が必要である。
+そのような場合、何人かの開発者が集まって、[CRC cards](crc.html)のような設計手法を使って、ホワイトボード上で素早い設計セッションを行う。
+
+効果的な設計セッションを行うためのガイドラインは以下：
+・シンプルさや概念的な統一感といったような基準で判断できるように、いくつかの考えられる案（理想的には3つ以上）を検討する
+・特定の具体的なシナリオに基づいて、それぞれの案を評価する。例えば、ある[user story](stories.html)に紐付けられた[acceptance test](acceptance.html)シナリオがそれぞれの設計案でどのように実現されるかを考える
