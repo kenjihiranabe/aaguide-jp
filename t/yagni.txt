@@ -6,3 +6,12 @@ A team adopting the "simple design" practice bases its software design strategy 
 * design quality is evaluated based on the [rules of code simplicity](simplicity.html)
 * all design elements such as ["design patterns"](http://fr.wikipedia.org/wiki/Patron_de_conception), plugin-based architectures, etc. are seen as having costs as well as benefits, and design costs must be justified;
 * design decisions should be deferred until the "last responsible moment", so as to collect as much information as possible on the benefits of the chosen option before incurring its costs.
+
+シンプル設計
+
+「シンプル設計」プラクティスを採用するチームは、ソフトウェア設計戦略を、以下のような原則に基づいて行う：
+
+・設計は継続的な活動であり、これには[refactoring](refactoring.html)やYAGNIのような経験則も含む
+・設計のよしあしは、[rules of code simplicity](simplicity.html)に基づいて判断する
+・[デザインパターン](http://fr.wikipedia.org/wiki/Patron_de_conception)やプラグイン・ベースのアーキテクチャなど、すべての設計要素は、メリットと同時にコストもあるとみなされ、設計コストが考慮される必要がある
+・そのコストをかける前に、その設計のメリットについてできるだけ情報を集め、設計上の決定をするのは、ぎりぎりのタイミングまで遅らせるべきである
