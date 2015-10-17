@@ -4,4 +4,4 @@ The term "integration" (or "integrating") refers to any efforts still required, 
 For instance, if two developers, working in parallel, implement new features on two components A and B, and each thinks to their own satisfaction that the work is complete, then verifying that changes to A and B are consistent, and resolving any inconsistencies, belong in the category of integration.
 Integration is often required at different levels: individual developers may work on components integrated into subsystems, which are in turn integrated with other teams' subsystems to form a larger system, and so on.
 
-現在のメトロマップにはこの項目はないように思われる。よって翻訳不要？
+現在のメトロマップにはこの項目はないように思われる。よって翻訳不要。
