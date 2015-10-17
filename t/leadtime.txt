@@ -3,3 +3,8 @@ Lead time
 "Lead time" is a term borrowed from the manufacturing method known as Lean or Toyota Production System, where it is defined as the time elapsed between a customer placing an order and receiving the product ordered.
 Translated to the software domain, lead time can be described more abstractly as the time elapsed between the identification of a requirement and its fulfillment. Defining a more concrete measurement depends on the situation being examined: for instance, when focusing on the software development process, the "lead time" elapsed between the formulation of a [user story](stories.html) and that story being used "in production", that is, by actual users under normal conditions.
 Teams opting for the [kanban](kanban.html) approach favor this measure, over the better known [velocity](velocity.html). Instead of aiming at increasing velocity, improvement initiatives intend to reduce lead time.
+
+リードタイム
+
+"リードタイム"は、リーンやトヨタ生産方式などの製造業で使用されている言葉であり、顧客が製品を注文してから受け取るまでの経過時間と定義されている。
+ソフトウェアの世界に置き換えるなら、リードタイムは、要求を定義してから完成するまでの経過時間に該当する。
