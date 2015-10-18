@@ -4,3 +4,10 @@ Nearly all Agile teams favor an incremental development strategy; in an Agile co
 These are called "vertical" increments (that is, difference between successive product versions), as opposed to the opposite strategy which successively delivers complete technical components: for instance, creating a database schema, then building business rules on top of that, and only then implementing a UI.
 ([This article](http://agilefromthegroundup.blogspot.com/2009/12/agile-software-construction-is-like.html) offers a typical illustration of the distinction. It echoes the "layered cake" metaphor of software architecture: one can either cut along the horizontal layers, or vertically across them.)
 It is difficult to imagine an incremental approach in the Agile sense which is not also [iterative](iterative.html), at least to some extent, but the two concepts are not identical. (They also prove surprisingly difficult to pin down, and are often the subject of heated semantic debates.)
+
+インクリメンタル開発
+
+ほとんどすべてのアジャイルチームは、インクリメンタル開発の戦略を好んで用いる。つまり、アジャイルの意味合いでは、製品の各バージョンは使用可能なものであり、それぞれのビルドは、前のバージョンに、ユーザーから見て分かる機能を追加する。
+これは、連続した製品バージョン間の違いを称して、「垂直的」インクリメントと呼ばれる。つまり、データベース・スキーマを作り、その上にビジネス・コンポーネントを作り、次にUIを作る、といったような、内部的なコンポーネントをひとつひとつ完成させていく戦略とは対照的である。
+([この記事](http://agilefromthegroundup.blogspot.com/2009/12/agile-software-construction-is-like.html)が、この2つの手法の典型的な違いを表している。これは、ソフトウェアアーキテクチャにおける「レイヤード・ケーキ」の考え方を反映している。つまり、層に沿って水平に切ることも、層をまたがって垂直に切ることもできる。)
+アジャイルの考え方においては、少なくともどんな意味でも[iterative](iterative.html)でなく、インクリメントでもない方法は考えづらいが、この2つの概念は同一ではない。(この2つの概念の意味については、列挙するのが難しいほど多くの、白熱した議論がされている。)
