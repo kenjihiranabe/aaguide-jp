@@ -3,3 +3,9 @@ Iterative development
 Agile projects are iterative insofar as they intentionally allow for *repeating* software development activities, and for potentially *revisiting* the same work products (the phrase "planned rework" is sometimes used; [refactoring](refactoring.html) is a good example).
 They are iterative in a third, less essential sense, in being most often structured around a series of [iterations](iteration.html) of fixed calendar length. However, some Agile approaches to scheduling, such as Kanban do away with iterations in this later sense, but retain the other aspects of multiple repetitions and planned rework.
 Nearly all Agile projects are [incremental](incremental.html) as well as iterative. However, it is possible to use iterative strategies which are not also incremental; for instance, a "build it twice" strategy in which one first creates a throwaway prototype to gather user feedback, then uses insights from that experience to build the "real thing". Prototyping is necessarily an iterative strategy, and may have been a precursor to the development of iterative software development ideas.
+
+反復的な開発
+
+アジャイルプロジェクトは、反復型であり、意図的にソフトウェア開発の各工程を繰り返し、また時には、同じ成果物に対して再度作業を行う（「計画的な再作業」という言葉が時に使用される。[refactoring](refactoring.html)がその分かりやすい例である）。
+別のより本質的な意味では、固定期間の[iterations](iteration.html)を繰り返すことを、反復型と考えている。しかし、いくつかのアジャイル手法（カンバンのような）では、後者の意味での反復はなくし、複数回の繰り返しと計画的な再作業の面を残している。
+ほとんどすべてのアジャイルプロジェクトが、反復的であると同時に、[incremental](incremental.html)である。だが、インクリメンタルではない反復型を採用することもありえる。例えば、「2回ビルド」手法では、最初のビルドではユーザーからのフィードバックを得るためにプロトタイプを作成し、そこから学びを得て2回目で本番用をビルドする。プロトタイピングは必然的に反復的な手法であり、反復的ソフトウェア開発の考え方を発展させるためのさきがけだったのかもしれない。
