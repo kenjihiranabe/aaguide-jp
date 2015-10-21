@@ -5,3 +5,14 @@ The [daily meeting](daily.html) is structured around some variant of the followi
 * What have you completed since the last meeting?
 * What do you plan to complete by the next meeting?
 * What is getting in your way?
+
+３つの質問
+
+「日次ミーティング」では次の３つの異なる質問について述べること
+
+* 前回のミーティング以降完了させたことは何か？
+* 次のミーティングまでに完了させようとしていることは何か？
+* 現在の課題は何か？
+
+１行要約
+「日次ミーティング」では「昨日やったこと」「今日やること」「現在の課題」について述べること
