@@ -2,3 +2,13 @@ Daily meeting
 
 Each day at the same time, the team meets so as to bring everyone up to date on the information that is vital for coordination: each team members briefly describes any *completed* contributions and any obstacles that stand in their way. Usually, Scrum's [Three Questions](threeqs.html)  are used to structure discussion. The meeting is normally held in front of the [task board](taskboard.html).
 This meeting is normally [timeboxed](timebox.html) to a maximum duration of 15 minutes, though this may need adjusting for larger teams. To keep the meeting short, any topic that starts a discussion is cut short, added to a "parking lot" list, and discussed in greater depth after the meeting, between the people affected by the issue.
+
+日次ミーティング
+
+毎日同じ時間にチーム全員でミーティングを行い、共同作業のために重要な情報を共有する。
+このミーティングでは各メンバーごとに簡潔に、完了した作業と今抱えている問題を述べる。通常はスクラムの「３つの質問」テンプレートを利用してミーティングを行う。このミーティングをは通常は「タスクボード」の前で行う。
+このミーティングは通常は最大１５分に「時間を区切って」行われるが、チーム規模が大きい場合は時間の調整をすることもある。
+ミーティング時間を短時間で終わらせるために、議論になりそうなトピックは”パーキングロット”リストに追加し、日次ミーティングの後に、そのトピックに影響を受ける人どうしで集まりより深い議論をすべきである。
+
+１行要約
+毎日同じ時間にチーム全員でミーティングを行い、共同作業のために重要な情報を共有する。
