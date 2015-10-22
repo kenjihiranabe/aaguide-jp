@@ -2,3 +2,8 @@ Velocity
 
 At the end of each iteration, the team adds up effort [estimates](nuts.html) associated with [user stories](stories.html) that were [completed](sashimi.html) during that iteration. This total is called velocity.
 Knowing velocity, the team can compute (or revise) an estimate of how long the project will take to complete, based on the estimates associated with remaining user stories and assuming that velocity over the remaining iterations will remain approximately the same. This is generally an accurate prediction, even though rarely a precise one.
+
+ベロシティ
+
+各イテレーション終了時に、チームは、イテレーション中に[completed](sashimi.html)した[user stories](stories.html)の作業[estimates](nuts.html)を足し合わせる。この合計数値のことをベロシティと呼ぶ。
+ベロシティが分かると、この後のイテレーションもほぼ同じベロシティであると仮定して、残ストーリーの見積りから、プロジェクト完了までにかかる推定時間を計算（もしくは再計算）することができる。これは、精密な予測とは言えないが、おおよそ正しい見積りにはなる。
