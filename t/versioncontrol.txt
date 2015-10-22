@@ -7,3 +7,12 @@ It must however be mentioned here for several reasons:
 * version control is not merely "good practice" but an enabler of a number of Agile practices, such as [continuous integration](ci.html)
 * the Agile community leans toward particular types of tools and practices, namely the same as the Open Source community: systems that afford concurrent work ("merge" model rather than "lock"), and more recently favoring distributed over centralized models
 * it is therefore beneficial for an Agile team to explicitly reflect on its version control policies and infrastructure, and ensure that they and its engineering practices work harmoniously together.
+
+バージョン管理
+
+バージョン管理は「アジャイルプラクティス」というより、今や（幸いにも）この業界全体に広く普及している。それでもあえて取り上げる理由は、以下の通り：
+
+・めったにないことではあるが、古めかしいバージョン管理ツールやその手法、さらには、バージョン管理ツールを全く導入していないチームに、いまだに出くわすことがある
+・バージョン管理は、単にそれ自身が必要なプラクティスというだけではなく、[continuous integration](ci.html)のような他のプラクティスの前提として必要である
+・アジャイルのコミュニティは、オープンソースのコミュニティと同様、特定の種類のツールや手法を好む。つまり、並行作業が可能なツール（"ロック"タイプではなく"マージ"タイプ）、さらに最近は、集中管理タイプより分散管理タイプのツールを好んで用いる
+・だからこそアジャイルチームは、自分達のバージョン管理に関わる指針やインフラを熟慮し、他の技術的プラクティスと調和するようにすることが有益である
