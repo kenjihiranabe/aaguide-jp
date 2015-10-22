@@ -3,3 +3,9 @@ Frequent releases
 An Agile team frequently releases its product into the hands of end users, listening to feedback, whether critical or appreciative.
 Precisely how frequent is desirable varies according to the technical and business aspects of the context, but in general one release every four to six iterations would be considered a maximum.
 In favorable technical contexts, such as Web development, a more frequent rhythm of release can be achieved, such as every iteration. Some teams push this practice to its limit of [continuous deployment](cd.html).
+
+頻繁なリリース
+
+アジャイルチームはエンドユーザーに対して、その製品を頻繁にリリースし、良い評価であれ悪い評価であれ、その声に耳を傾ける。
+厳密に言えば、どのくらい頻繁にリリースするのが望ましいかは、そのチームの技術的・ビジネス的状況によって異なるが、通常最低でも4回から6回のイテレーションごとに1回はリリースする。
+Web開発のように技術的にリリースしやすい状況であれば、例えばイテレーションごとといった、より頻繁なリリースをすることができ、さらには、[continuous deployment](cd.html)まで、このプラクティスを発展させることもできる。
