@@ -4,3 +4,10 @@ Teams practicing continuous [integration](integration.html) seek two objectives:
 * minimize the duration and effort required by *each* integration episode
 * be able to deliver *at any moment* a product version suitable for release
 In pratice, this dual objective requires an integration prodecure which is **reproducible** at the very least, and in fact largely **automated**. This is achieved through version control tools, team policies and conventions, and tools specifically designed to help achieve continuous integration.
+
+継続的インテグレーション
+
+継続的[integration](integration.html)を実践するチームには、2つの目的がある：
+・「一回の」インテグレーションにかかる時間と工数を最小化する
+・リリース可能なバージョンの製品を「いつでも」提供できるようにする
+現実にこの2つの目的を達成しようとすると、少なくとも「再現性のある」インテグレーション手順が必要であり、実際には大部分「自動化されている」必要がある。これを達成するには、バージョン管理ツール、チームの方針・規約、そして継続的インテグレーションに特化したツールが必要となる。
