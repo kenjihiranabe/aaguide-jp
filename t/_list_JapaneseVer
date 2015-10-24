@@ -1,0 +1,58 @@
+チーム                    ----- Fundamentals
+反復的な開発
+インクリメンタル開発
+バージョン管理
+持続可能なペース        ----- Extreme Programming
+ペアプログラミング
+サインアップ
+日次ミーティング
+イテレーション
+ベロシティ
+頻繁なリリース
+ユーザーストーリー
+コードの共同所有
+継続的インテグレーション
+シンプル設計
+リファクタリング
+TDD（テスト駆動開発）
+プロジェクト憲章        ----- Teams
+Scrum of Scrums
+ニコニコカレンダー
+チームルーム
+Heartbeat retrospective
+ファシリテーション
+リードタイム               ----- Lean
+Kanban board
+完了の定義 -> なぜかファイル名が sashimi.txt になっています。。。
+Timebox                 ----- Scrum
+３つの質問
+Burndown chart
+Task board
+Definition of Ready
+Point estimates
+Relative estimation
+Planning poker
+Backlog
+Backlog grooming
+INVEST                  ----- Product management
+3つのC
+Story splitting
+Story mapping
+ペルソナ
+自動ビルド         ----- Devops
+Continuous deployment
+CRCカード               ----- Design
+素早い設計セッション
+簡潔化の指針
+ユビキタス言語
+Usability testing       ----- Testing
+Exploratory testing
+単体テスト
+Mock objects
+受入テスト
+ATDD(受入テスト駆動開発)
+BDD(ふるまい駆動開発）
+状態 - 行動 - 結果
+役割 - 機能 - 理由
+
+* 乗換駅（路線の重複している駅）は含んでいない。よって、1プラクティス1回のみ登場。
