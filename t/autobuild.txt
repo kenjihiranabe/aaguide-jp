@@ -3,3 +3,9 @@ Automated build
 The "build" in developer parlance consists in the process which, starting from files and other assets under the developers' responsibility, results in a software product in its final or "consumable" form.
 This may include compiling source files, their packaging into compressed formats (jar, zip, etc.) but also the production of installers, the creation or updating of database schema or data, and so on.
 The build is "automated" to the extent that these steps are repeatable and require no direct human intervention, and can be performed at any time with no information other than what is stored in the source code control repository.
+
+自動ビルド
+
+開発者の用語で「ビルド」とは、開発者の責任の下で、ファイルや他の資産から、最終的なまたは「消耗品」の形式でソフトウェアを作り出すプロセスのことだ。
+このプロセスには、コードのコンパイルや、jar, zipその他の圧縮形式にパッケージングするだけでなく、インストーラの作成や、データベースのスキーマやデータを作成したり更新することなども含まれているだろう。
+このビルドは人手を介入することなく、繰り返し実行することができるように「自動化」されており、いつでも、リポジトリに登録されている情報だけで、実行可能である。
