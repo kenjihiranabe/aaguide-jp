@@ -1,3 +1,7 @@
 Project chartering
 
 The team develops and maintains a high-level summary of the project's key success factors, synthetic enough that it can be displayed on one wall of the [team room](teamroom.html) as a flipchart-sized sheet of paper. This description includes at least the major objectives of the project, scope boundaries, and reciprocal agreements between the project's implementation team and external stakeholders.
+
+プロジェクト憲章
+
+チームは、プロジェクトの成功要因のキーとなる高レベルの概要を作成・維持する。これは、フィリップチャートの大きさの紙に書いて、[team room](teamroom.html)の壁に貼りだせる程度の概要である。ここには、最低でも、プロジェクトの主要目的、その範囲、およびプロジェクト内の開発チームと外部の利害関係者同士の合意事項を含んでいる。
