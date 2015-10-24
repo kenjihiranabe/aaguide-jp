@@ -2,3 +2,8 @@ Team room
 
 The team (ideally the [whole team](team.html), including the product owner or domain expert) has the use of a dedicated space for the duration of the project, set apart from other groups' activities.
 This space is furnished with the various amenities that the team may need: workstations (adapted for [pairing](pairing.html) if the team uses that practice), whiteboards and flipcharts, wall space to display [task boards](taskboard.html), project plans or other [charts](radiator.html), and so on.
+
+チームルーム
+
+チーム（理想的に、プロダクトオーナーまたはドメインエキスパートを含む[全体のチーム]（team.html））は、他のグループの活動を除いて、プロジェクトの期間のための専門のスペースの使用を持っている。
+このスペースはチームに必要であるかもしれない様々なアメニティを供給される：ワークステーション（[ペアリング] （pairing.html） もしものために適しているチームは、その実行を使います)、ホワイトボードとメモ帳、表示［タスクボード］（taskboard.html）の壁スペース、プロジェクト計画または他［チャート］（radiator.html）、など。
