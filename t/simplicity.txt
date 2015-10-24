@@ -7,7 +7,9 @@ A set of criteria, in priority order, proposed by Kent Beck to judge whether som
 *  the code expresses separately each distinct idea or responsibility
 *  the code is composed of the minimum number of components (classes, methods, lines) compatible with the first three criteria
 
-Kent Beck により提唱された、そのソースコードが「十分シンプルであるかどうか」を判断するための指針、優先順位である。
+簡潔化の指針
+
+以下の指針、優先順位を満たすソースコードが「十分簡潔である」と判断できる、とKent Beckは提唱している。
 
 * そのコードは自動化された「単体テスト」により検査され、全テストにパスしていること
 * そのコードは他のコードとの重複を含まないこと
@@ -15,4 +17,4 @@ Kent Beck により提唱された、そのソースコードが「十分シン�
 * そのコードは最小限のコンポーネント（クラス、メソッド、行数）で構成されていて、上記３つの原則に沿っていること
 
 １行要約
-開発チーム内で共有すべき、ソースコードが「十分シンプルであるかどうか」を判断するための指針、優先順位である。
+ソースコードが「十分簡潔であること」を判定するための指針、優先順位である。
