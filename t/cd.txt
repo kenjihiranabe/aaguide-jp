@@ -3,3 +3,18 @@ Continuous deployment
 Continuous deployment can be thought of as an extension of [continuous integration](ci.html), aiming at minimizing [lead time](leadtime.html), the time elapsed between development writing one new line of code and this new code being used by live users, in production.
 To achieve continuous deployment, the team relies on infrastructure that automates and instruments the various steps leading up to deployment, so that after each integration successfully meeting these release criteria, the live application is updated with new code.
 Instrumentation is needed to ensure that any suggestion of lowered quality results in aborting the deployment process, or rolling back the new features, and triggers human intervention.
+
+継続的デプロイ
+
+継続的デプロイは継続的インテグレーションの拡張と考えることができる。追加した1行のコードがユーザに届けられるまでの時間、リードタイムを最小限に抑えることを目指している。
+継続的デプロイを実現するために、チームはインフラに依存している。
+
+    自動化と、計測
+    デプロイに至る様々なステップ
+    それぞれの統合が、それぞれのリリース基準を満たした後、
+    ライブアプリケーションは新しいコードで更新される
+
+    計測が必要である。
+    品質を低下させるどのような変更もデプロイのプロセスを失敗させることを保証する
+    新しい機能をロールバックする
+    人間の介入をトリガーする
