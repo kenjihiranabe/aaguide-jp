@@ -7,3 +7,6 @@ Knowing velocity, the team can compute (or revise) an estimate of how long the p
 
 各イテレーション終了時に、チームは、イテレーション中に[completed](sashimi.html)した[user stories](stories.html)の作業[estimates](nuts.html)を足し合わせる。この合計数値のことをベロシティと呼ぶ。
 ベロシティが分かると、この後のイテレーションもほぼ同じベロシティであると仮定して、残ストーリーの見積りから、プロジェクト完了までにかかる推定時間を計算（もしくは再計算）することができる。これは、精密な予測とは言えないが、おおよそ正しい見積りにはなる。
+
+一行要約：
+イテレーション内でチームが実装できたストーリーの見積りポイント合計。
