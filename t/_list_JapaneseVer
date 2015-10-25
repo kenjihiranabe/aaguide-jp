@@ -23,7 +23,7 @@ Heartbeat retrospective
 ファシリテーション
 リードタイム               ----- Lean
 Kanban board
-完了の定義 -> なぜかファイル名が sashimi.txt になっています。。。
+完了の定義
 Timebox                 ----- Scrum
 ３つの質問
 Burndown chart
@@ -40,7 +40,7 @@ Story splitting
 Story mapping
 ペルソナ
 自動ビルド         ----- Devops
-Continuous deployment
+継続的デプロイ
 CRCカード               ----- Design
 素早い設計セッション
 簡潔化の指針
