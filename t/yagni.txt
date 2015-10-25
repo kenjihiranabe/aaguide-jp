@@ -15,3 +15,6 @@ A team adopting the "simple design" practice bases its software design strategy 
 ・設計のよしあしは、[rules of code simplicity](simplicity.html)に基づいて判断する
 ・[デザインパターン](http://fr.wikipedia.org/wiki/Patron_de_conception)やプラグイン・ベースのアーキテクチャなど、すべての設計要素は、メリットと同時にコストもあるとみなされ、設計コストが考慮される必要がある
 ・そのコストをかける前に、その設計のメリットについてできるだけ情報を集め、設計上の決定をするのは、ぎりぎりのタイミングまで遅らせるべきである
+
+一行要約：
+基本的な設計方針として「シンプル」を心がけ、設計する際にそのメリットとコストを検討する。
