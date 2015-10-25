@@ -11,3 +11,6 @@ To make these assumptions tangible, user stores are reified into a physical form
 こういう特質を分かりやすくするために、ユーザーストーリーは物理的な形式、つまりインデックスカードや付箋の形をとり、そのストーリーの意味を覚えておけるように短い概要文を書く。このような形にすることで、ユーザーストーリーの「アトミック」な面を強調することができ、[direct physical manipulation](http://en.wikipedia.org/wiki/Direct_manipulation_interface)を促進する。例えば、スケジュールを決める際には、これらの「ストーリーカード」を手で動かして決定する。
 
 ※要検討：direct physical manipulationについて、一般的な日本語訳がありますか？
+
+一行要約：
+アジャイル開発における機能単位は、ユーザーから見てその価値が見えるものでなければならない。
