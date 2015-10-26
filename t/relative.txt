@@ -3,3 +3,11 @@ Relative estimation
 Relative estimation is one of the several distinct flavors of [estimation](estimation.html) used in Agile teams, and consists of estimating tasks or user stories, not separately and in absolute units of time, but by comparison or by grouping of items of equivalent difficulty.
 
 相対見積もり
+
+相対見積もりは、アジャイルチームで使われるいくつかの興味深い見積もり方法のひとつである。タスクやユーザーストーリーは、個々の（絶対的な）時間ではなく、同じような難易度のものを並べたり、グループ化するという方法で見積もる。
+
+※グループ化する（by grouping ）のところがうまく訳せません。。。あと、distinct flavors...
+
+一行要約：
+
+相対見積もりとは、タスクやユーザーストーリーを、同じような難易度のものを並べたり、グループ化するという方法で見積もり、絶対時間は用いない。
