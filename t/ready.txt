@@ -1,3 +1,10 @@
 Definition of Ready
 
 By analogy with the ["Definition of Done"](sashimi.html), the team makes explicit and visible the criteria (generally based on the [INVEST](invest.html) matrix) that a user story must meet prior to being accepted into the upcoming iteration.
+
+Readyの定義
+
+["Definition of Done"](sashimi.html)と同様に、チームで明確かつ可視的なストーリーの準備完了基準（一般的に[INVEST](invest.html)に基づいた）を作る。次のイテレーションで着手しようとしているストーリーは、この基準を満たさなければならない。
+
+一行要約：
+着手前に満たさなければならない、ユーザーストーリーの準備完了基準。
