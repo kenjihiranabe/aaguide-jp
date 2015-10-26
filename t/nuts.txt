@@ -3,3 +3,12 @@ Points (estimates in)
 Agile teams generally prefer to express [estimates](estimation.html) in units other than the time-honored "man-day" or "man-hour". Possibly the most widespread unit is "story points".
 One of the chief reasons is the use of [velocity](velocity.html) for planning purposes. "Velocity", in the sense Agile teams use the term, has no preferred unit of measurement, it is a dimensionless quantity. Velocity allows teams to compute the expected remaining duration of the project, as a number of [iterations](iteration.html), each iteration delivering some amount of features.
 Another important reason has to do with the social and psychological aspects of estimation: using units such as story points, emphasizing relative difficulty over absolute duration, relieves some of the tensions that often arise between developers and managers around estimation: for instance, asking developers for an estimate then holding them accountable as if it had been a firm commitment.
+
+見積もりポイント
+
+アジャイルチームは見積もり結果を表現する際に、”人日”や”人時間”といった時間による単位よりも、例えば”ストーリーポイント”といった単位を好む。
+これを使う主な理由は〜のために「ベロシティ」を用いているためである。アジャイルチームにとっての「ベロシティ」とは計測できる単位ではなく、無次元の量を意味する。ベロシティはプロジェクトの残り時間の計測を可能とし、「イテレーション」の数値として、各イテレーションは一定量の機能を提供する。
+ストーリーポイントを使用するその他の理由として、見積もりに対する社会的及び心理的見地との関連性がある。ストーリーポイントのような単位を使用することにより、絶対時間よりも相対時間であることを強調でき、開発者とマネージャの間にしばしば発生する緊張関係（見積もりに対してコミットするという責任）を和らげる働きをする。
+
+１行要約
+アジャイルでは、見積もりには日や時間を単位とした数字ではなく、ストーリーポイントといった相対見積もりの数値を使用する
