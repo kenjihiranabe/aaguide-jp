@@ -13,4 +13,4 @@ To make these assumptions tangible, user stores are reified into a physical form
 ※要検討：direct physical manipulationについて、一般的な日本語訳がありますか？
 
 一行要約：
-アジャイル開発における機能単位は、ユーザーから見てその価値が見えるものでなければならない。
+アジャイル開発における開発対象の機能単位。ユーザーから見てその価値が見えるものでなければならない。
