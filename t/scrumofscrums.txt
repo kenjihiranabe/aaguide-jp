@@ -4,3 +4,13 @@ A technique to scale Scrum up to large groups (over a dozen people), consisting 
 Depending on the context, ambassadors may be technical contributors, or each team's Scrum Master, or even managers of each team.
 The Scrum of Scrums proceeds otherwise as a normal daily meeting, with ambassadors reporting [completions, next steps and impediments](threeqs.html) on behalf of the teams they represent. Resolution of impediments is expected to focus on the challenges of coordination between the teams; solutions may entail agreeing to interfaces between teams, negotiating responsibility boundaries, etc.
 The Scrum of Scrum will track these items via a [backlog](backlog.html) of its own, where each item contributes to improving between-team coordination.
+
+スクラム・オブ・スクラム
+
+大人数（12人以上）のグループを、5～10人の複数チームに分割するための大規模スクラムの手法。各チームの[daily scrum](daily.html)で「特派員」メンバーを決め、チームごとのそのメンバーがさらに集まって日次ミーティングを行うことを、スクラム・オブ・スクラムと呼ぶ。
+その時々の状況に応じて、特派員は技術的メンバーでも、各チームのスクラムマスターでも、チームマネージャーでも構わない。
+スクラム・オブ・スクラムでは、それぞれのチームの[completions, next steps and impediments](threeqs.html)を、各チームから報告する。特に課題については、チーム間の連携が必要なものを解決することに集中すべきである。すなわち、解決のためにチーム間のインタフェースを合意したり、責務範囲を調整する必要があったりすることである。
+スクラム・オブ・スクラムは、それ自身の[backlog](backlog.html)を使ってこれらの課題を追跡し、チーム間連携の改善に寄与する。
+
+一行要約：
+スクラムにおける、複数チーム間で連携するための日次ミーティングの手法。
