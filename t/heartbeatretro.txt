@@ -2,3 +2,10 @@ Heartbeat retrospective
 
 The team meets regularly, usually adhering to the rythm of its iterations, to explicitly reflect on the most significant events to have occurred since the previous such meeting, and take decisions aiming at remediation or improvement.
 This is often a [facilitated](facilitation.html) meeting following a set format. Several distinct formats have been described, depending in large part on the time set aside for the meeting, typically between one and three hours. One important reason to use a facilitated format is to give all team members an opportunity to speak up.
+
+定期的なふりかえり
+
+チームは定期的に、普通はイテレーションのリズムで会議を行い、一つ前の同じ会議から発生した重要な出来事を明示的に振り返り、修正や改善のための決定をする。
+これはほとんどの場合、以下のような形式の[ファシリテーション](facilitation.html)形式の会議である。この形式は大抵は、1～3時間程度に設定された会議時間に合わせて作られている。ファシリテーション形式を使用する重要な理由は、チームメンバー全員に発言の機会を与えることである。
+
+一行要約：
