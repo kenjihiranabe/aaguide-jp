@@ -3,3 +3,12 @@ Timebox
 A timebox is a previously agreed period of time during which a person or a team works steadily towards completion of some goal. Rather than allow work to continue until the goal is reached, and evaluating the time taken, the timebox approach consists of stopping work when the time limit is reached and evaluating what was accomplished.
 Timeboxes can be used at varying time scales. The ["pomodoro technique"](http://www.pomodorotechnique.com/) organizes personal work around 25-minute timeboxes. In a completely different domain ["speed dating"](http://en.wikipedia.org/wiki/Speed_dating) is known for its seven-minute timeboxes. Time scales ranging from one day to several months have been used.
 The critical rule of timeboxed work is that work should stop at the end of the timebox, and review progress: has the goal been met, or partially met if it included multiple tasks?
+
+タイムボックス
+
+タイムボックスとは、あらかじめ決められた固定期間のことであり、ある目標をめざしている個人もしくはチームが、その固定期間を繰り返すことで仕事を進める方法である。タイムボックスの考え方は、目標を達成するまで仕事を続け、それにかかった時間を評価する、というのではなく、制限時間に達したら作業を終了し、達成できた内容を評価する、という考え方である。
+タイムボックスは様々な時間単位で使用することができる。["pomodoro technique"](http://www.pomodorotechnique.com/)では個人の作業時間を約25分のタイムボックスに区切る。全く違う領域の話だが、["speed dating"](http://en.wikipedia.org/wiki/Speed_dating)は7分のタイムボックスである。時間単位は1日から数カ月までありうる。
+タイムボックスで大事なことは、タイムボックス終了時には作業をやめて、目標に合致しているか、その過程を振り返ることである。
+
+一行要約：
+作業時間を変更できない固定期間に区切り、その期間単位で仕事を行うこと。
