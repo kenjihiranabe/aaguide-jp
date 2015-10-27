@@ -9,3 +9,18 @@ A good user story should be:
 *  **E**stimable (to a good approximation)
 *  **S**mall (so as to fit within an iteration)
 *  **T**estable (in principle, even if there isn't a test for it yet)
+
+INVEST
+
+[INVEST](http://xp123.com/articles/invest-in-good-stories-and-smart-tasks/)は、[user story](story.html)のよしあしを評価するのに広く受け入れられている基準、チェックリストの頭文字を並べたものである。ストーリーがこの基準に合致していない場合、チームはそのストーリーの言い換え／書き換えを検討する（この際、よく儀式として、古いストーリーカードを破り捨て、新しいカードを作成することを行う）。
+よいストーリーは以下の基準を満たす：
+
+・Independent（他のストーリーから独立している）
+・Negotiable（しがらみなく、交渉の余地がある）
+・Valuable（ユーザー価値を持つ、もしくは[垂直的](incremental.html)である）
+・Estimable（ほどよい概算で見積もれる）
+・Small（1イテレーションに収まる程度に小さい）
+・Testable（まだテストが存在しない段階でも、原理的にテスト可能）
+
+一行要約：
+ストーリーのよしあしを評価する基準。Independent/Negotiable/Valuable/Estimable/Small/Testable
