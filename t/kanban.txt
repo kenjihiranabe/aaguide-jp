@@ -9,3 +9,15 @@ In the context of Agile teams where the "Kanban method" of continuous improvemen
   * its columns represent the different processing states of a "unit of value", which is generally (but not necessarily) equated with a [user story](stories.html)
   * in addition, each column may have associated with it a "WIP limit" (for "work in process" or "work in progress"): if a given state, for instance "in manual testing", has a WIP limit of, say, 2, then the team *may not* start testing a third user story if two are already being worked on
   * whenever such a situation arises, the priority is to clear current work-in-process, and team members will "[swarm](http://blog.crisp.se/2009/06/26/henrikkniberg/1246053060000)" to help those working on the activity that's blocking flow
+
+かんばん
+
+TPSのカイゼンに起因する「かんばん方式」を続けてきたアジャイルチームでは、以下のようなことが見られる。
+
+*進歩の主要な尺度としてのイテレーションの使用、効果的な見積もり、ベロシティの使用を控えるようになる。
+*ベロシティの代わりに、リードタイムやサイクルタイムを測定する。
+*最も目に見える変化は、彼らはタスクボードを「かんばんボード」に置き換える。
+ **タスクボードとは異なり、かんばんボードは、各イテレーションの開始時に「リセット」しない。
+ **その列は、一般的に「価値の単位」（必ずしもそうではない）の異なるプロセス状態がユーザストーリーと同じである。
+ **更に、各列には「仕掛中の作業の制限」が定められており、例えば、「手動テスト工程」には2個という制限がある場合、チームは3番目のユーザストーリーのテストを開始できません。
+ このような状況が発生するたびに、現在の在庫をクリアし、チームのメンバーは「群れ」になり、流れを妨げている作業を助けます。
