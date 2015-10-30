@@ -2,3 +2,11 @@ Burndown chart
 
 The team displays, somewhere on a wall of the project room, a large graph relating the quantity of work remaining (on the vertical axis) and the time elapsed since the start of the project (on the horizontal, showing future as well as past). This constitutes an "[information radiator](radiator.html)", provided it is updated regularly.
 Two variants exist, depending on whether the amount graphed is for the work remaining in the iteration ("sprint burndown") or more commonly the entire project ("product burndown").
+
+バーンダウンチャート
+
+縦軸に残作業量、横軸にチームの作業期間を取ったグラフで、プロジェクトルームの壁などに貼り出す。これは、チームの「お知らせボード」の役割をし、定期的に更新する。
+一イテレーション内での作業進捗をグラフ化するもの（スプリント・バーンダウン）と、プロジェクト全体をグラフ化するもの（プロダクト・バーンダウン）の2種類がある。
+
+一行要約：
+縦軸に残作業量、横軸に作業期間を取るグラフで、チームの進捗状況を可視化する。
