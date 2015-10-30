@@ -2,3 +2,11 @@ Mock objects
 
 A technique commonly used in the context of crafting [automated unit tests](unittest.html). It consists of instantiating a test-specific version of a software component (typically a class), which insteads of the normal behaviors provides precomputed results, and often also checks that it's invoked as expected by the objects being tested.
 For instance, the "mock" version of a database component will a) provide "canned" answers to database queries, instead of connecting to a real live database, and b) verify that the database is being accessed in the manner expected and stipulated in the test.
+
+モック
+
+[automated unit tests](unittest.html)を作る際に一般的によく使われる手法。テスト専用のソフトウェアコンポーネント（クラス）を作成し、本番クラスの振る舞いの代わりに、固定値を返したり、テスト対象が想定通りの呼び出しをしているかどうかをチェックする。
+例えば、データベースのモックは、データベースへの問合せには、本当のデータベースにアクセスするのではなく、ハードコーディングされた結果を返し、規定された方法でデータベースにアクセスされているかどうかをチェックする。
+
+一行要約：
+単体テストをする際に、テストに必要な仮のオブジェクトを作成する手法。
