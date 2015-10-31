@@ -2,3 +2,5 @@ Story splitting
 
 Before a [user story](stories.html) is [ready](ready.html) to be scheduled for implementation in an upcoming iteration, it should be ["small enough"](invest.html), the usual rule of thumb being "a story that can be completed within the iteration".
 However, many user stories start out larger than that. "Splitting" consists of breaking up one user story into smaller ones, while preserving the property that each user story separately has measurable business value.
+
+ストーリー分割
