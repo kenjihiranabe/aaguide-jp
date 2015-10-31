@@ -8,3 +8,17 @@ Exploratory testing is, more than strictly speaking a "practice", a style or app
 
 Agile teams tend to shift and redraw the role boundaries between "developer" and "tester", mostly as a result of the heavy use by developers of automated [unit](unittest.html) and [functional](acceptance.html) tests - in one sense an extreme form of scripted testing.
 These activities are not sufficient to ensure quality, and Agile teams can find valuable assets in team members who have well-developed testing skills (whether or not their job description includes the term "tester"). These skills will be deployed more effectively in the exploratory style on an Agile team, as this style is more consistent with an Agile approach than the "scripted testing" style.
+
+探索的テスト
+
+探索的テストは、厳密には「プラクティス」というより、ソフトウェアテストに対するスタイル、もしくはアプローチ手法であり、いわゆる「スクリプト化されたテスト」と対比をなし、以下のような特徴を持つ：
+
+・テスターの自律性、スキル、創造性を強調する。これは他のアジャイルプラクティスが、開発者の同様の資質を強調するのと同じである
+・様々なテスト関連の作業（テスト設計、テスト実行、結果解析など）をプロジェクトの特定の「フェーズ」で決まった順序で行うのではなく、交互に行うことが推奨される
+・これらのテスト関連技術が相互に影響し合っていて、正式な「テスト計画」を作成するより、多彩なテストアプローチが必要であることを強調する
+
+アジャイルチームは、開発者が自動[ユニットテスト](unittest.html)と[機能テスト](acceptance.html)（ある意味スクリプト化されたテストの最も極端な形）を多用し、それによって、開発者とテスターの境界を変更し、再定義することが多い。
+これらの作業は、品質を確保するには十分とは言えず、アジャイルチーム内で、よいテストスキルを持つ貴重なメンバー（職務記述書に「テスター」という言葉が入っているかどうかに関わらず）を見出すことができる。このようなスキルは、アジャイルチーム内で探索的な手法によってより効率的に展開させることができ、「スクリプトテスト」手法よりアジャイル手法との一貫性がある。
+
+一行要約：
+テストの設計・実行・結果解析を決まった順序で行うのではなく、並行して相互に行う手法。
