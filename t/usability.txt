@@ -3,3 +3,12 @@ Usability testing
 Usability testing is a long-established, empirical and exploratory technique to answer questions such as "how would an end user respond to our software under realistic conditions?"
 It consists of observing a representative end user interacting with the product, given a goal to reach but no specific instructions for using the product. (For instance, a goal for usability testing of a furniture retailer's Web site might be "You've just moved and need to do something about your two boxes of books; use the site to find a solution.")
 Members of the team (possibly including usability specialists) observe the user's actions without intervening, recording what transpires (either informally, e.g. taking notes, or more comprehensively, using video, eye-tracking, screen captures or specialized software). Post-test analysis will focus on any difficulties encountered by the user, illustrating differences between the team's assumptions and actual behaviour.
+
+ユーザビリティテスト
+
+ユーザビリティテストは、長い時間をかけて確立されてきた、経験的探索的手法であり、「実使用の状況下でエンドユーザーはこのソフトウェアにどう反応するか」という問いに答えを得るための手法である。
+これは、ある目標を示し、しかし特定の使用方法は指定しないまま、代表的なエンドユーザーに製品を操作してもらって、その振る舞いを観察する。例えば、ある家具小売業者のWebサイトのユーザビリティテストであれば、「あなたは引っ越したばかりで、書籍の収納箱を2つ必要としています。このサイトを使ってそれを解決してください」といったような目標が与えられる。
+チームメンバー（ユーザビリティの専門家を含む可能性がある）は、介在も記録も（ノートを取るなどの非公式なものも、ビデオ撮影・視線追跡・画面キャプチャや特殊なツールを使用するより徹底したものも）しないで、ユーザーの行動を観察する。テスト後の分析では、ユーザーが直面した問題に焦点をあて、チームの想定と実際の行動の差を洗い出す。
+
+一行要約：
+ユーザーに実際にソフトウェアを使用してもらい、その行動を観察するテスト手法。
