@@ -2,3 +2,5 @@ Story mapping
 
 A recent practice intended to provided a more structured approach to  [release](smallrelease.html) planning, story mapping consists of ordering [user stories](stories.html) along two independent dimensions. The "map" arranges user activities along the horizontal axis in rough order of priority (or "the order in which you would describe activities to explain the behaviour of the system"). Down the vertical axis, it represents increasing sophistication of the implementation.
 Given a story map so arranged, the first horizontal row represents a "[walking skeleton](http://alistair.cockburn.us/Walking+skeleton)", a barebones but usable version of the product. Working through successive rows fleshes out the product with additional functionality.
+
+ストーリーマッピング
