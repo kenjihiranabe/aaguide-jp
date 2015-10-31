@@ -5,3 +5,11 @@ Many [variants](http://agiletools.wordpress.com/2007/11/24/task-boards-telling-a
 The task board is updated frequently, most commonly during the [daily meeting](daily.html), based on the team's progress since the last update. The board is commonly "reset" at the beginning of each [iteration](iteration.html) to reflect the iteration plan.
 
 タスクボード
+
+タスクボードのもっとも基本的な形は、ホワイトボードや壁の一部を使用したものである。絶縁テープや油性マーカーを用いて、ボードを「未着手」「仕掛中」「完了」という３つの列に区切る。チームが作業すべきタスクが書かれた付箋や情報カードを１枚ずつ、そのタスクの現在の状態を表した列に貼る。
+実にたくさんの種類があり、列の代わりに行を使用するような、異なるレイアウトもある（しかし列のほうが多い）。列の順番と見出しは変えることができる。また、例えば「テスト中」などの活動に合わせた列も使用される。
+タスクボードは頻繁に更新される。もっとも一般的なのはデイリーミーティングの時で、最後に更新した時からチームの進行状況に沿って更新する。ボードは通常、「イテレーション計画」で決めたことを反映するために、各イテレーションのはじめに初期化する。
+
+一行要約：
+
+タスクボードは、ホワイトボードや壁の一部を使用して作り、作業を書いた付箋などを、現在の状況に合わせた（「仕掛中」のような）列に貼る。
