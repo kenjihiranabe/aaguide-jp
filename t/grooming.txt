@@ -8,3 +8,5 @@ The team (or part of the team including the product owner) meet regularly to "gr
 * assigning estimates to stories which have yet to receive one
 * correcting estimates in light of newly discovered information
 * [splitting](split.html) user stories which are high priority but too coarse grained to fit in an upcoming [iteration](iteration.html)
+
+バックログの手入れ
