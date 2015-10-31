@@ -7,3 +7,16 @@ A backlog is a list of features or technical tasks which the team maintains and 
 
 These "necessary and sufficient" properties are assessed relative to the team's state of knowledge at a particular moment; the backlog is expected to change throughout the project's duration as the team gains knowledge.
 The backlog is the primary point of entry for knowledge about requirements, and the single authoritative source defining the work to be done.
+
+バックログ
+
+バックログはチームで更新する機能や技術タスクの一覧であり、その時点でプロジェクトもしくはそのリリースが完了するのに必要十分なものを示す。つまり、
+
+・もしバックログ中のある項目がプロジェクトの目標を達成するのに貢献するものでないならば、その項目はバックログから除外すべきである
+・逆に、プロジェクトに必要だと判明したタスクや機能は、いかなる場合でもバックログに追加すべきである
+
+それが「必要十分」であるかどうかは、その時点のチームの知識によって判断される。つまり、プロジェクト期間中、チームが知識を得るほどにバックログは変わり続ける。
+バックログは要件に関する知識の主たる入口であり、果たすべき仕事を定義している単一の正式な情報源である。
+
+一行要約：
+チームが実現させるべき機能やタスクの一覧で、プロジェクト時間中継続的に更新される。
