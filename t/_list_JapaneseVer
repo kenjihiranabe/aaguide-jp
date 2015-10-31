@@ -22,22 +22,22 @@ TDD（テスト駆動開発）
 定期的なふりかえり
 ファシリテーション
 リードタイム          ----- Lean
-Kanban board
+かんばん
 完了の定義              -> スクラムガイドでは「完成の定義」。もしくは隣駅の「Readyの定義」と揃えて「Doneの定義」とする？
 タイムボックス               ----- Scrum
 ３つの質問
-Burndown chart
-Task board
+バーンダウンチャート
+タスクボード
 Readyの定義             -> 日本語のほうがよい？　それなら「準備完了の定義」？
 見積もりポイント
 相対見積もり
 プランニングポーカー
-Backlog
-Backlog grooming
+バックログ
+バックログの手入れ
 INVEST                ----- Product management
 3つのC
-Story splitting
-Story mapping
+ストーリー分割
+ストーリーマッピング
 ペルソナ
 自動ビルド            ----- Devops
 継続的デプロイ
@@ -45,10 +45,10 @@ CRCカード             ----- Design
 素早い設計セッション
 簡潔化の指針            -> 原題は「Rules of simplicity」。XP本新版は「シンプリシティ」とカタカナにしている
 ユビキタス言語
-Usability testing     ----- Testing
-Exploratory testing
+ユーザビリティテスト     ----- Testing
+探索的テスト
 単体テスト
-Mock objects
+モック
 受入テスト
 ATDD(受入テスト駆動開発)
 BDD(ふるまい駆動開発）
