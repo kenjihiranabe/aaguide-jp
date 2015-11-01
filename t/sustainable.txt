@@ -9,3 +9,6 @@ This entails a firm refusal of what is often considered a "necessary evil" in th
 ソフトウェア業界では「必要悪」とみなされている長い労働時間、残業、あるいは徹夜や週末の作業に、はっきりとNOと言うことだ。
 
 [TODO: 最後の行がまだ]
+
+一行要約：
+チームはいつまでも続けることができる仕事のペースを目標とする。
