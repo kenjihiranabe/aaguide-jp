@@ -5,14 +5,14 @@ A number of different notations and approaches have been proposed for such examp
 Similarly to a [unit test](unittest.html), an acceptance tests is generally understood to have a binary result, pass or fail; a failure suggests (though it does not prove) the presence of a defect in the product.
 For many Agile teams acceptance tests are the main form of functional specification; sometimes the only formal expression of business requirements. In other cases, they merely complement a specification document resulting from a less specifically Agile technique or formalism, such as uses cases or more narrative documents.
 
-受入テスト
+受け入れテスト
 
-受入テストはソフトウェア製品の振る舞いを公式に説明するもので、一般的には使用例や利用シナリオが用いられる。
+受け入れテストはソフトウェア製品の振る舞いを形式的に記述するもので、一般的には使用例や利用シナリオが用いられる。
 使用例や利用シナリオの作成にあたっては様々な表記法やアプローチが提唱されてきているが、多くの場合はそれらは専用または既成のソフトウェアツールによって自動実行されることを目標としている。
 
-「単体テスト」に似て、受入テストも成功か失敗かのどちらか一つの結果を返すと一般的に捉えられているが、受入テストにおける失敗は製品に欠陥が存在するかもしれない、ということを示唆する。
-多くのアジャイルチームにとって受入テストは機能詳細の主要様式であり、場合によってはそれが唯一の公式なビジネス要件ともなり得る。
+「ユニットテスト」に似て、受け入れテストも成功か失敗かのどちらか一つの結果を返すと一般的に捉えられているが、受け入れテストにおける失敗は製品に欠陥が存在するかもしれない、ということを示唆する。
+多くのアジャイルチームにとって受け入れテストは機能仕様のメインのフォーマットであり、場合によってはそれが唯一の形式的ビジネス要件ともなり得る。
 または、それらはただ単に、例えばユースケースのようなあまり詳細に記述されていないドキュメントを補完する場合もある。
 
 １行要約
-受入テストはソフトウェア製品の振る舞いを公式に説明するもので、一般的には使用例や利用シナリオが用いられる。
+ソフトウェア製品の振る舞いを記述するテスト。使用例や利用シナリオ。
