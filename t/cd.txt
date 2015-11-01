@@ -18,3 +18,7 @@ Instrumentation is needed to ensure that any suggestion of lowered quality resul
     品質を低下させるどのような変更もデプロイのプロセスを失敗させることを保証する
     新しい機能をロールバックする
     人間の介入をトリガーする
+
+一行要約:
+繰り返し頻繁にインテグレーションし、デプロイまで行う。(継続的インテグレーション参照)
+

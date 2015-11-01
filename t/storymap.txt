@@ -4,3 +4,5 @@ A recent practice intended to provided a more structured approach to  [release](
 Given a story map so arranged, the first horizontal row represents a "[walking skeleton](http://alistair.cockburn.us/Walking+skeleton)", a barebones but usable version of the product. Working through successive rows fleshes out the product with additional functionality.
 
 ストーリーマッピング
+
+

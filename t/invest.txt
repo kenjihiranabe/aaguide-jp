@@ -16,11 +16,11 @@ INVEST
 よいストーリーは以下の基準を満たす：
 
 ・Independent（他のストーリーから独立している）
-・Negotiable（しがらみなく、交渉の余地がある）
+・Negotiable（交渉できる）
 ・Valuable（ユーザー価値を持つ、もしくは[垂直的](incremental.html)である）
 ・Estimable（ほどよい概算で見積もれる）
 ・Small（1イテレーションに収まる程度に小さい）
 ・Testable（まだテストが存在しない段階でも、原理的にテスト可能）
 
 一行要約：
-ストーリーのよしあしを評価する基準。Independent/Negotiable/Valuable/Estimable/Small/Testable
+ストーリーのよしあしを評価する基準。Independent(独立)/Negotiable(交渉可能)/Valuable(ユーザー価値を持つ)/Estimable(見積可能)/Small(小さい)/Testable(テスト可能)

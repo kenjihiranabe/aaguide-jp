@@ -3,11 +3,11 @@ ATDD
 Analogous to [test-driven development](tdd.html), this practice consists in the use of [automated acceptance tests](acceptance.html) with the additional constraint that these tests be written in advance of implementing the corresponding functionality.
 In the ideal situation (though rarely attained in practice), the product owner, customer or domain expert is able to specify new functionality by writing new acceptance tests or test cases, without needing to consult developers.
 
-ATDD(受入テスト駆動開発)
+ATDD(受け入れテスト駆動開発)
  
- 「テスト駆動開発」と同様に、このプラクティスは「自動化された受入テスト」に依存しており、
+ 「テスト駆動開発」と同様に、このプラクティスは「自動化された受け入れテスト」に依存しており、
  さらにテスト対象機能の実装よりも前にテストが書かれなければならない。
- 理想的には（実際には滅多に実現しないが）プロダクトオーナーや顧客またはその領域の専門家が新機能の説明をする際に、自力で新しい受入テストやテストケースを作成し、それを用いて説明できることが望ましい。
+ 理想的には（実際には滅多に実現しないが）プロダクトオーナーや顧客またはその領域の専門家が新機能の説明をする際に、自力で新しい受け入れテストやテストケースを作成し、それを用いて説明できることが望ましい。
  
  １行要約
- プロダクトオーナーによる受入テストを作ってから、そのテストにパスできるプログラムの実装を行うという手法である
+ 受け入れテストを作ってから、そのテストにパスする製品機能を実装する手法。

@@ -4,3 +4,5 @@ Once a project has been underway for some time, or at the end of the project (in
 Even more than an [iteration retrospective](heartbeatretro.html), this should be a [facilitated](facilitation.html) meeting, adhering to a structured format which varies according to objectives but will be specified in advance.
 
 現在のメトロマップにはこの項目はないように思われる。よって翻訳不要。
+
+ふりかえり、はあるかな？ Restrospective ?

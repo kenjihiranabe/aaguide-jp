@@ -12,4 +12,4 @@ The two (or more) team members who gave the high and low estimate justify their 
 
 
 １行要約
-アジャイルチームで行われる、遊び要素を含んだ見積もり手法である。
+アジャイルチームで行われる、遊び要素を含んだ合議的な見積もり手法である。

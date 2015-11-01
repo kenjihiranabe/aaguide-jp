@@ -15,4 +15,4 @@ The [daily meeting](daily.html) is structured around some variant of the followi
 * 現在の課題は何か？
 
 １行要約
-「日次ミーティング」では「昨日やったこと」「今日やること」「現在の課題」について述べること
+「日次ミーティング」(朝会)では「昨日やったこと」「今日やること」「現在の課題」について述べること

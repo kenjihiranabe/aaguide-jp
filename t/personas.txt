@@ -12,3 +12,5 @@ When the project calls for it - for instance when user experience is a major fac
 ソフトウェア製品が通常、カテゴリー・製品ごとに潜在的に好みが異なると予想されるので、チームは重要であると考えるカテゴリーごとに1人のペルソナをつくります。伝記は、中で表示されます［チームルーム］、（teamroom.html）。
 
 
+一行要約：
+製品のユーザー像。歳や趣味まで具体的に想定し、写真やイラストなどを使って共感できる対象にする。

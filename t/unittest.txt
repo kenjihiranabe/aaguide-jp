@@ -5,14 +5,14 @@ The outcome of a unit test is binary: either "pass" if the program's behavior is
 Developers will typically write a large number of unit tests (corresponding to a large number of program behaviors of interest), called a "test suite".
 By common convention dating back at least to the [JUnit](http://junit.org/) family of tools, the color red (as in "getting a red bar") represents the failure of one or more tests. The color green ("a green bar") denotes successful execution of **all** unit tests associated with a program.
 
-単体テスト
+ユニットテスト
 
-アジャイルチームにとって単体テストは開発チームによって書かれメンテナンスされる短いプログラムのことであり、
+アジャイルチームにとってユニットテストは開発チームによって書かれメンテナンスされる短いプログラムのことであり、
 それをつかって製品のソースコードのある範囲を動作させ、その実行結果を確認する。
 
-単体テストの結果は、成功（プログラムのふるまいが期待通りである）か、失敗かのふた通りしかない。
-開発者は一般的には多くの単体テストコード（プログラムの振る舞いに関連付いている）を作成し、それらの集合は「テストスイート」と呼ばれる。
-JUnit関連のツールに由来して、慣習的に「レッド」は一つ以上のテストが失敗したことを表し、「グリーン」は「全」単体テストの実行に成功したことを表す。
+ユニットテストの結果は、成功（プログラムのふるまいが期待通りである）か、失敗かのふた通りしかない。
+開発者は一般的には多くのユニットテストコード（プログラムの振る舞いに関連付いている）を作成し、それらの集合は「テストスイート」と呼ばれる。
+JUnit関連のツールに由来して、慣習的に「レッド」は一つ以上のテストが失敗したことを表し、「グリーン」は「全」ユニットテストの実行に成功したことを表す。
 
 １行要約
-アジャイルチームにとって単体テストは短いプログラムのことであり、それをつかって製品のソースコードのある範囲を動作させ、その実行結果を確認する。
+ユニットテストをつかって製品のソースコードの小さな部分を動作させ、その実行結果を確認する。
