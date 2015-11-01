@@ -4,3 +4,6 @@ Before a [user story](stories.html) is [ready](ready.html) to be scheduled for i
 However, many user stories start out larger than that. "Splitting" consists of breaking up one user story into smaller ones, while preserving the property that each user story separately has measurable business value.
 
 ストーリー分割
+
+一行要約：
+大きなストーリーを、一イテレーション内で実現できる程度に小さく、かつビジネス価値は保持するように分割すること。
