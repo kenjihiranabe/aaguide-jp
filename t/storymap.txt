@@ -5,4 +5,5 @@ Given a story map so arranged, the first horizontal row represents a "[walking s
 
 ストーリーマッピング
 
-
+一行要約：
+ストーリーを、横軸にユーザーのふるまい順、縦軸にそのふるまいを実現するために詳細化した順に並べ、製品の全体像を可視化する。
