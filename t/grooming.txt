@@ -9,5 +9,16 @@ The team (or part of the team including the product owner) meet regularly to "gr
 * correcting estimates in light of newly discovered information
 * [splitting](split.html) user stories which are high priority but too coarse grained to fit in an upcoming [iteration](iteration.html)
 
+バックログの手入れ
+
+チーム（もしくはプロダクトオーナーを含むチームの一部）は、「製品[バックログ](backlog.html)の手入れ」のため、定期的に会議を行う。これは、以下のようなことを行う、公式もしくは非公式の会議である。
+
+・不要になったと思われる[ユーザーストーリー](stories.html)の除去
+・新たに見つかったニーズに伴う新しいユーザーストーリーの追加
+・ストーリー間の優先順位のつけ直し
+・まだ見積もりされていないストーリーへの見積もり値の追加
+・新たに分かった情報による見積もりの修正
+・高優先順位ではあるが、次の[イテレーション](iteration.html)で実現するには大きすぎるストーリーの[分割](split.html)
+
 一行要約:
 製品バックログを常に最新状態になるように手入れ（グルーミング）する。
