@@ -12,9 +12,9 @@ An example:
 *  I want to withdraw money from an ATM
 *  So that I'm not constrained by opening hours or lines at the teller's
 
-役割 - 機能 - 理由
+Role-Feature-Reason
 
-「役割 - 機能 - 理由」テンプレートは、（特に初心者レベルを脱却した段階の）チームやプロダクトオーナーが[user stories](stories.html)を書く際に、最も一般的に推奨される形式である。
+「Role-Feature-Reason（役割 - 機能 - 理由）」テンプレートは、（特に初心者レベルを脱却した段階の）チームやプロダクトオーナーが[user stories](stories.html)を書く際に、最も一般的に推奨される形式である。
 
 ・「この役割」として
 ・「こういう機能」が欲しい
