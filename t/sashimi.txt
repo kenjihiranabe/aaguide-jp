@@ -2,7 +2,7 @@ Definition of Done
 
 The team agrees on, and displays prominently somewhere in the team room, a list of criteria which must be met before a product increment (often a [user story](stories.html)) is considered "done". Failure to meet these criteria at the end of a [sprint](iteration.html) normally implies that the work should not be counted toward that sprint's [velocity](velocity.html).
 
-完了の定義
+Doneの定義
 
 チームは、製品の追加機能（多くは[ユーザーストーリー]を指す）が開発を完了する前に満たされなければならない基準のリストに対して、合意してチームルームのどこか目立つ場所に貼っている。
 
