@@ -14,7 +14,7 @@ An exemple:
 
 Tools such as JBehave, RSpec or Cucumber encourage use of this template, though it can also be used purely as a heuristic irrespective of any tool.
 
-状態 - 行動 - 結果
+Given - When - Then
 
 Given - When - Thenとは、「ユーザーストーリー」のための「受け入れテスト」を書く際に利用するテンプレートである。
 
