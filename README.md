@@ -1,6 +1,6 @@
 # 何か?
 
-アジャイルプラクティスの地下鉄マップ (http://guide.agilealliance.org/guide/) の日本語化です。
+アジャイルプラクティスの地下鉄マップ (https://www.agilealliance.org/agile101/subway-map-to-agile-practices/) の日本語化です。
 
 # なぜやるか?
 
